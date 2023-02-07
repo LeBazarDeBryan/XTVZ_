@@ -6,7 +6,7 @@
 
 <h1 align="center"> TV </h1>
   <p align="center">
-    <a href="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/IPTV/TNT.m3u"><img height="100" width="100" src="Images/TNT.png" /></a>
+    <a href="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/IPTV/TNT.m3u"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
     <p align="center">Chaînes qu'on retrouve par satelite
   </p>
   
