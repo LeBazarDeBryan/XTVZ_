@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0, TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:0, France 2
+http://livetv.ktv.zone/4/play.m3u8
+#EXTINF:0, France 3
+http://livetv.ktv.zone/5/play.m3u8
+#EXTINF:0, Canal+
+http://livetv.ktv.zone/6/play.m3u8
+#EXTINF:0, France 5
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:0, M6
+http://livetv.ktv.zone/8/play.m3u8
+#EXTINF:0, Arte
+http://livetv.ktv.zone/9/play.m3u8
+#EXTINF:0, C8
+http://livetv.ktv.zone/10/play.m3u8
+#EXTINF:0, W9
+http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:0, TMC
+http://livetv.ktv.zone/12/play.m3u8
+#EXTINF:0, TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:0, NRJ 12
+http://livetv.ktv.zone/14/play.m3u8
+#EXTINF:0, LCP
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:0, France 4
+http://livetv.ktv.zone/16/play.m3u8
+#EXTINF:0, BFM TV
+http://livetv.ktv.zone/17/play.m3u8
+#EXTINF:0, CNews
+http://livetv.ktv.zone/18/play.m3u8
+#EXTINF:0, CStar
+http://livetv.ktv.zone/19/play.m3u8
+#EXTINF:0, Gulli
+http://livetv.ktv.zone/20/play.m3u8
+#EXTINF:0, TF1 Séries Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:0, L'Equipe 21
+http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:0, 6ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:0, RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:0, RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:0, Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:0, LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:0, Franceinfo
+http://livetv.ktv.zone/29/play.m3u8
