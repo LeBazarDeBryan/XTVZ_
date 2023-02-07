@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:0, Melody
-http://livetv.ktv.zone/30/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Vosges Télévision
-http://livetv.ktv.zone/31/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Canal J
 http://livetv.ktv.zone/176/play.m3u8
 #EXTINF:0, Tiji
 http://livetv.ktv.zone/175/play.m3u8
 #EXTINF:0, NHK World HD
-http://livetv.ktv.zone/39/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, BBC One
-http://livetv.ktv.zone/41/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, BBC Two
-http://livetv.ktv.zone/42/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CBS Drama
-http://livetv.ktv.zone/44/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Horror Channel
-http://livetv.ktv.zone/45/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CBS Action
-http://livetv.ktv.zone/47/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CBS Reality
 http://livetv.ktv.zone/48/play.m3u8
 #EXTINF:0, RTL
@@ -32,7 +32,7 @@ http://livetv.ktv.zone/91/play.m3u8
 #EXTINF:0, Super RTL
 http://livetv.ktv.zone/55/play.m3u8
 #EXTINF:0, CBBC
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, France 24
 http://livetv.ktv.zone/56/play.m3u8
 #EXTINF:0, RT
@@ -42,7 +42,7 @@ http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:0, TV5 Monde
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:0, CNBC
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Bloomberg
 http://livetv.ktv.zone/63/play.m3u8
 #EXTINF:0, Euronews
@@ -56,15 +56,15 @@ http://livetv.ktv.zone/68/play.m3u8
 #EXTINF:0, 3 Sat
 http://livetv.ktv.zone/69/play.m3u8
 #EXTINF:0, Best of Shopping
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Euronews Français
 http://livetv.ktv.zone/73/play.m3u8
 #EXTINF:0, Euronews Deutsch
 http://livetv.ktv.zone/74/play.m3u8
 #EXTINF:0, Adsport1
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Alsharquya
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, TRT World
 http://livetv.ktv.zone/38/play.m3u8
 #EXTINF:0, CGTN
