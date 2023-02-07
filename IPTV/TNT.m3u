@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="", TF1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/tf1-hd-fr.png" group-title="", TF1
 http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", France 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="", France 2
 http://livetv.ktv.zone/4/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", France 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="", France 3
 http://livetv.ktv.zone/5/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Canal+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="", Canal+
 http://livetv.ktv.zone/6/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", France 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="", France 5
 http://livetv.ktv.zone/7/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", M6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="", M6
 http://livetv.ktv.zone/8/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Arte
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="", Arte
 http://livetv.ktv.zone/9/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", C8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="", C8
 http://livetv.ktv.zone/10/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", W9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="", W9
 http://livetv.ktv.zone/11/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", TMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="", TMC
 http://livetv.ktv.zone/12/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", TFX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="", TFX
 http://livetv.ktv.zone/13/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", NRJ 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" group-title="", NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", LCP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="", LCP
 http://livetv.ktv.zone/15/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", France 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="", France 4
 http://livetv.ktv.zone/16/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", BFM TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="", BFM TV
 http://livetv.ktv.zone/17/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", CNews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="", CNews
 http://livetv.ktv.zone/18/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", CStar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png" group-title="", CStar
 http://livetv.ktv.zone/19/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Gulli
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" group-title="", Gulli
 http://livetv.ktv.zone/20/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", TF1 Séries Films
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="", TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", L'Equipe 21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" group-title="", L'Equipe 21
 http://livetv.ktv.zone/23/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", 6ter
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="", 6ter
 http://livetv.ktv.zone/24/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", RMC Story
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="", RMC Story
 http://livetv.ktv.zone/25/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", RMC Découverte
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="", RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Chérie 25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="", Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", LCI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="", LCI
 http://livetv.ktv.zone/28/play.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Franceinfo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="", Franceinfo
 http://livetv.ktv.zone/29/play.m3u8
