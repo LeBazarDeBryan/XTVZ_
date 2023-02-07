@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Images/Logo.png" />
 </p>
-<h1 align="center"> Playlist IPTV </h1>
+<h1 align="center"> Playlist IPTV 🇫🇷 </h1>
 
 
 <h2 align="center"> TV </h2>
