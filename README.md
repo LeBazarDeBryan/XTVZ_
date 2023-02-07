@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iptv-org/iptv/raw/master/streams/fr_groupem6.m3u"><img height="100" width="100" src="Images/Groupe%20M6.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_groupem6.m3u"><img height="100" width="100" src="Images/Groupe%20M6.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 </p>
 
 <p align="center">
