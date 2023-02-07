@@ -14,6 +14,6 @@
 
 <h1 align="center"> Streaming </h1>
   <p align="center">
-    <img height="100" width="100" src="Images/Pluto%20TV.png" /><a href="https://i.mjh.nz/PlutoTV/fr.m3u8"></a><img height="100" width="100" src="Images/Pluto%20TV.png" />
+    <img height="100" width="100" src="Images/Pluto%20TV.png" /><a href="https://i.mjh.nz/PlutoTV/fr.m3u8"></a><img height="100" width="100" src="Images/XMLTV.png" />
     <p align="center">Chaînes qu'on retrouve sur des sites de streaming
   </p>
