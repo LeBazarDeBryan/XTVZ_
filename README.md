@@ -22,12 +22,10 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u"><img height="100" width="100" src="Images/euronews.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-    <p align="center">Chaînes qu'on retrouve sur des sites de streaming ou autre
 </p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u"><img height="100" width="100" src="Images/Rakuten.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-    <p align="center">Chaînes qu'on retrouve sur des sites de streaming ou autre
 </p>
 
 <p align="center">
