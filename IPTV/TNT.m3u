@@ -27,7 +27,7 @@ http://livetv.ktv.zone/14/play.m3u8
 http://livetv.ktv.zone/15/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="", France 4
 http://livetv.ktv.zone/16/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="", BFM TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="Info", BFM TV
 http://livetv.ktv.zone/17/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="", CNews
 http://livetv.ktv.zone/18/play.m3u8
@@ -49,5 +49,5 @@ http://livetv.ktv.zone/26/play.m3u8
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="", LCI
 http://livetv.ktv.zone/28/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="", Franceinfo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="Info", Franceinfo
 http://livetv.ktv.zone/29/play.m3u8
