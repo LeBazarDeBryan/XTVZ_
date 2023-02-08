@@ -20,13 +20,13 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CBS Action
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CBS Reality
-http://livetv.ktv.zone/48/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, RTL
 http://livetv.ktv.zone/152/play.m3u8
-#EXTINF:0, CGTN Français
+#EXTINF:0, CGTN Documentary
 http://livetv.ktv.zone/36/play.m3u8
 #EXTINF:0, Arirang World
-http://livetv.ktv.zone/53/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Vox
 http://livetv.ktv.zone/91/play.m3u8
 #EXTINF:0, Super RTL
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, France 24
 http://livetv.ktv.zone/56/play.m3u8
 #EXTINF:0, RT
-http://livetv.ktv.zone/58/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, BBC World News
 http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:0, TV5 Monde
@@ -44,9 +44,9 @@ http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:0, CNBC
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Bloomberg
-http://livetv.ktv.zone/63/play.m3u8
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, Euronews
-http://livetv.ktv.zone/64/play.m3u8
+https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:0, Eurosport
 http://livetv.ktv.zone/65/play.m3u8
 #EXTINF:0, RTL
@@ -66,13 +66,13 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Alsharquya
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, TRT World
-http://livetv.ktv.zone/38/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CGTN
 http://livetv.ktv.zone/35/play.m3u8
 #EXTINF:0, Mirabelle TV
 http://livetv.ktv.zone/346/play.m3u8
 #EXTINF:0, La Chaîne Normande
-http://livetv.ktv.zone/248/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, France 3 Alpes
 http://livetv.ktv.zone/210/play.m3u8
 #EXTINF:0, France 3 Alsace
@@ -100,18 +100,16 @@ http://livetv.ktv.zone/227/play.m3u8
 #EXTINF:0, France 3 Picardie
 http://livetv.ktv.zone/230/play.m3u8
 #EXTINF:0, France 3 Poitou-Charentes
-http://livetv.ktv.zone/231/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, France 3 Provence-Alpes
 http://livetv.ktv.zone/232/play.m3u8
 #EXTINF:0, France 3 Rhône-Alpes
 http://livetv.ktv.zone/233/play.m3u8
 #EXTINF:0, RTL
-http://livetv.ktv.zone/310/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Dubai
-http://livetv.ktv.zone/87/play.m3u8
-#EXTINF:0, RT
-http://livetv.ktv.zone/58/play.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Fashion 4K
-http://livetv.ktv.zone/167/play.m3u8
-#EXTINF:0, Grand Lille.TV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0, BFMTV Lille
 http://livetv.ktv.zone/249/play.m3u8
