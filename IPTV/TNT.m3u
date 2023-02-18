@@ -29,7 +29,7 @@ http://livetv.ktv.zone/15/play.m3u8
 http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="Info", BFM TV
 http://livetv.ktv.zone/17/play.m3u8
-#EXTINF:-1 tvg-id="CNews.fr	" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="TNT", CNews
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="TNT", CNews
 http://livetv.ktv.zone/18/play.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png" group-title="Divertissement", CStar
 http://livetv.ktv.zone/19/play.m3u8
