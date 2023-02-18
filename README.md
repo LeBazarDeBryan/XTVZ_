@@ -52,3 +52,20 @@
   <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_persiana.m3u"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
     <p align="center">Chaînes qu'on retrouve sur des sites de streaming ou autre
 </p>
+
+<h2 align="center"> Info </h2>
+
+<p align="center"> Les playlists : </p>
+
+<p align="center">
+<img height="100" width="100" src="Images/euronews.png" />
+<img height="100" width="100" src="Images/Rakuten.png" />
+<img height="100" width="100" src="Images/Fashion%20TV.png" />
+<img height="100" width="100" src="Images/France%2024.png" />
+<img height="100" width="100" src="Images/Groupe%20Canal+.png" />
+<img height="100" width="100" src="Images/Groupe%20M6.png" />
+<img height="100" width="100" src="Images/Groupe%20Persiana.png" />
+
+<p align="center"> Ne marcherons plus parce que le projet Github <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a> a était désactivé parce que le projet ne respecter pas les <a href="https://docs.github.com/fr/site-policy/github-terms/github-terms-of-service">termes de Github</a></p>
+
+<p align="center"> Je ne sais pas si ces définitif mais j'éspére pas. </p>
