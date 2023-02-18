@@ -68,6 +68,9 @@
 <img height="100" width="100" src="Images/Groupe%20M6.png" />
 <img height="100" width="100" src="Images/Groupe%20Persiana.png" />
 
-<p align="center"> Ne marcherons plus parce que le projet Github <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a> a était désactivé parce que le projet ne respecter pas les <a href="https://docs.github.com/fr/site-policy/github-terms/github-terms-of-service">termes de Github</a></p>
+<p align="center"> Ne marcherons plus parce que le projet Github <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a> a était désactivé parce que le projet ne respecter pas les <a href="https://docs.github.com/fr/site-policy/github-terms/github-terms-of-service">termes de Github</a>.</p>
 
 <p align="center"> Je ne sais pas si ces définitif mais j'éspére pas. </p>
+
+
+<p> UPDATE 1 : </p> </p align="center"> J'ai réussi à avoir le dossier stream de <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a> avec ce <a href="https://github.com/iptv-org/iptv-org.github.io/files/10773471/iptv.zip"> lien </a>, je vais upload le dossier <a href="stream"> stream </a> mais il y aura que les playlists qui ne marcher plus qui seront upload.
