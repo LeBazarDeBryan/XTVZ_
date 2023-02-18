@@ -5,7 +5,7 @@ http://livetv.ktv.zone/3/play.m3u8
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="TNT", France 3
 http://livetv.ktv.zone/5/play.m3u8
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="Cinéma, Séries", Canal+
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="Cinéma/Séries", Canal+
 http://livetv.ktv.zone/6/play.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="Info", France 5
 http://livetv.ktv.zone/7/play.m3u8
