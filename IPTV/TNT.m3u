@@ -13,13 +13,13 @@ http://livetv.ktv.zone/7/play.m3u8
 http://livetv.ktv.zone/8/play.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="Documentaire", Arte
 http://livetv.ktv.zone/9/play.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="Cinéma, Séries", C8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="Cinéma/Séries", C8
 http://livetv.ktv.zone/10/play.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="TNT", W9
 http://livetv.ktv.zone/11/play.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="Cinéma, Séries", TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="Cinéma/Séries", TMC
 http://livetv.ktv.zone/12/play.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="Cinéma, Séries", TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="Cinéma/Séries", TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" group-title="Divertissement", NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
@@ -35,11 +35,11 @@ http://livetv.ktv.zone/18/play.m3u8
 http://livetv.ktv.zone/19/play.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" group-title="Enfant", Gulli
 http://livetv.ktv.zone/20/play.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="Cinéma, Séries", TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="Cinéma/Séries", TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" group-title="Sport", L'Equipe 21
 http://livetv.ktv.zone/23/play.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="Cinéma, Séries", 6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="Cinéma/Séries", 6ter
 http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="Documentaire", RMC Story
 http://livetv.ktv.zone/25/play.m3u8
