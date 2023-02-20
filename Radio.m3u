@@ -2,15 +2,15 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PzrVX4G.jpg" group-title="Musique",Europe 2
 https://europe2.lmn.fm/europe2-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HAkgY3.jpg" group-title="Musique",Europe 2 Hits
-
-#EXTINF:-1 tvg-logo="" group-title="Musique",Europe 2 New
-
-#EXTINF:-1 tvg-logo="" group-title="Musique",Europe 2 Happy Rock Hours
-
-#EXTINF:-1 tvg-logo="" group-title="Musique",Europe 2 Classics
-
-#EXTINF:-1 tvg-logo="" group-title="Musique",Europe 2 Nouvelle Scène
-
+https://europe2.lmn.fm/vr-wr4.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mg6XzS.jpg" group-title="Musique",Europe 2 New
+https://europe2.lmn.fm/vr-wr1.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snBWx4B.jpg" group-title="Musique",Europe 2 Happy Rock Hours
+https://europe2.lmn.fm/vr-wr5.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXOqIL7.jpg" group-title="Musique",Europe 2 Classics
+https://europe2.lmn.fm/vr-wr2.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OfOK8Bc.jpg" group-title="Musique",Europe 2 Nouvelle Scène
+https://europe2.lmn.fm/vr-wr8.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3KKaX6.png" group-title="Musique",Fun Radio
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYR2R3h.png" group-title="Musique",Fun Radio Anthology
