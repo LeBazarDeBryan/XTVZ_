@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/o3KKaX6.png" group-title="Musique",Fun Radio
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/NYR2R3h.png" group-title="Musique",Fun Radio Anthology
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/D2C6SIl.png" group-title="Musique",Fun Radio Electro
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/202/index.m3u8
+#EXTINF:-1 tvg-id="FunRadio.fr" tvg-logo="https://i.imgur.com/cDGpzSJ.png" group-title="Musique",Fun Radio Latino
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funlatino/130/index.m3u8
+#EXTINF:-1 tvg-id="RTL.fr" tvg-logo="https://i.imgur.com/DqsBwgI.png" group-title="Musique",RTL
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="RTL2.fr" tvg-logo="https://i.imgur.com/HthGFLm.jpg" group-title="Musique",RTL2
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s6WxVKx.jpg" group-title="Musique",Tomorrowland One World Radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=araK9j8mN9Y
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9E6QUnx.jpg" group-title="Musique",Tomorrowland One World Radio Daybreak Sessions
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CIVFy3NKGMU
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/Dd9BSfo.png" group-title="Musique",Virgin Radio Officiel
+https://stream.virginradio.fr/virgin-live/playlist.m3u8
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/Ahkp4mY.png" group-title="Musique",Virgin Radio Nouvelle Scène
+https://stream.virginradio.fr/vr-wr8.mp3
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/MZRrKdM.jpg" group-title="Musique",Virgin Radio Hits
+https://stream.virginradio.fr/vr-wr4.mp3
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/j06uY5j.jpg" group-title="Musique",Virgin Radio Classics
+https://stream.virginradio.fr/vr-wr2.mp3
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/qJEPsrD.png" group-title="Musique",Virgin Radio Rock
+https://stream.virginradio.fr/vr-wr5.mp3
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/gdaewpF.png" group-title="Musique",Virgin Radio New
+https://stream.virginradio.fr/vr-wr1.mp3
+#EXTINF:-1 tvg-id="VirginRadio.fr" tvg-logo="https://i.imgur.com/17Kfmsr.png" group-title="Musique",Virgin Radio Electroshock
+https://stream.virginradio.fr/vr-wr3.mp3
