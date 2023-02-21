@@ -9,9 +9,9 @@ http://livetv.ktv.zone/5/play.m3u8
 http://livetv.ktv.zone/6/play.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="Info", France 5
 http://livetv.ktv.zone/7/play.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="TNT", M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/m6-hd-fr.png" group-title="TNT", M6
 http://livetv.ktv.zone/8/play.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="Documentaire", Arte
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/hd/arte-hd-fr.png" group-title="Documentaire", Arte
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="Cinéma/Séries", C8
 http://livetv.ktv.zone/10/play.m3u8
