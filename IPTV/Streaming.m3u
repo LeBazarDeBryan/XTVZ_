@@ -105,8 +105,6 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 http://livetv.ktv.zone/232/play.m3u8
 #EXTINF:0, France 3 Rhône-Alpes
 http://livetv.ktv.zone/233/play.m3u8
-#EXTINF:0, RTL
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Dubai
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Fashion 4K
@@ -117,3 +115,5 @@ http://livetv.ktv.zone/249/play.m3u8
 https://amg01131-tracetv-tracelatinach-samsungch-q77mm.amagi.tv/playlist/amg01131-tracetv-tracelatinach-samsungch/cb54341f6570608e84cb3b66cef341a8f92713dc067a8b6b7fd908c83095691bdae2b5d1f943ec6f0898498b301768025e31d618df2955dad72cfc07297a157c9998b173de9f125dbabaaa1b10904288f4763f35e10f6154ebab7c2e973cbb7a006199630c7307fd718d604478f3f54fc92069de87fc59de8ddf6ebd673ea1e20fe0adbe18078f7e8489aa99061a67d4f537aafe25ccc28505ca53f335b506beaa20275a21a0b49764836fc0351a151075908e33f4a338e08dca3969ce3240d27d24eb240837df16ae673ace28cfc045f2813384e500947238ab05d77f85228378907ecd906fadaca1d04c011aa8cb4e6501b2eaae9e895549dd6492ca88af1306fa9c75294daa3c8c72ea7994bcf3074c506d6bd28e842603f4/140/1920x1080_4716800/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Musique",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSport.uk" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
