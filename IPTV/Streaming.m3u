@@ -3,9 +3,9 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Vosges Télévision
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
-#EXTINF:0, Canal J
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://i.imgur.com/xuwvL4i.png" group-title="Enfants",Canal J
 http://livetv.ktv.zone/176/play.m3u8
-#EXTINF:0, Tiji
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
 http://livetv.ktv.zone/175/play.m3u8
 #EXTINF:0, NHK World HD
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, RTL
 http://livetv.ktv.zone/152/play.m3u8
-#EXTINF:0, CGTN Documentary
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="",CGTN Documentary
 http://livetv.ktv.zone/36/play.m3u8
 #EXTINF:0, Arirang World
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
@@ -33,19 +33,19 @@ http://livetv.ktv.zone/91/play.m3u8
 http://livetv.ktv.zone/55/play.m3u8
 #EXTINF:0, CBBC
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
-#EXTINF:0, France 24
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/TQvMBFy.png" group-title="Information",France 24
 http://livetv.ktv.zone/56/play.m3u8
 #EXTINF:0, RT
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, BBC World News
 http://livetv.ktv.zone/60/play.m3u8
-#EXTINF:0, TV5 Monde
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/AsWc1OH.png" group-title="Information",TV5 Monde
 http://livetv.ktv.zone/61/play.m3u8
 #EXTINF:0, CNBC
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Bloomberg
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0, Euronews
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:0, Eurosport
 http://livetv.ktv.zone/65/play.m3u8
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, TRT World
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
-#EXTINF:0, CGTN
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
 http://livetv.ktv.zone/35/play.m3u8
 #EXTINF:0, Mirabelle TV
 http://livetv.ktv.zone/346/play.m3u8
