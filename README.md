@@ -83,4 +83,6 @@
 <p align="center"> Je ne sais pas si ces définitif mais j'éspére pas. </p>
 
 
-<p> UPDATE 1 : </p> </p align="center"> J'ai réussi à avoir le dossier stream de <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a> avec ce <a href="https://github.com/iptv-org/iptv-org.github.io/files/10773471/iptv.zip"> lien </a>, je vais upload le dossier <a href="IPTV/iptv-org_streams_(fr_only)"> streams </a> mais il y aura que les chaînes fr qui seront upload. (Je ne mettrais pas à jour les playlists <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a>)
+<p> UPDATE 1 : </p> <p align="center"> J'ai réussi à avoir le dossier stream de <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a> avec ce <a href="https://github.com/iptv-org/iptv-org.github.io/files/10773471/iptv.zip"> lien </a>, je vais upload le dossier <a href="IPTV/iptv-org_streams_(fr_only)"> streams </a> mais il y aura que les chaînes fr qui seront upload. (Je ne mettrais pas à jour les playlists <a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a>)</p>
+
+<p> UPDATE 2 : </p> <p align="center"> <a href="https://github.com/iptv-org">iptv-org</a> sont passé sur Google Docs voici le <a href="https://docs.google.com/spreadsheets/d/1mgPOAn0PLBn4p2iJH3-rfeZn76zIzhfww0ZoVE9noNE/edit#gid=1519627578">lien</a></p>
