@@ -18,6 +18,10 @@
   </p>
   
   <p align="center">
+    <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr.m3u"><img height="100" width="100" src="Images/iptv-org.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  </p>
+  
+  <p align="center">
     <a href="https://i.mjh.nz/PlutoTV/fr.m3u8"><img height="100" width="100" src="Images/Pluto%20TV.png" /></a><a href="https://i.mjh.nz/PlutoTV/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   </p>
 
