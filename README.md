@@ -14,7 +14,7 @@
 
 <h2 align="center"> Streaming </h2>
   <p align="center">
-    <a href="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/IPTV/Streaming.m3u"><img height="100" width="100" src="Images/Unknown.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+    <a href="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/IPTV/Streaming.m3u"><img height="100" width="100" src="Images/XTVZ_.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   </p>
   
   <p align="center">
