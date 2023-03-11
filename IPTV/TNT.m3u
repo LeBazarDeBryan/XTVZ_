@@ -49,5 +49,5 @@ http://livetv.ktv.zone/26/play.m3u8
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="Info", LCI
 http://livetv.ktv.zone/28/play.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="Info", Franceinfo
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="Info", France Info
 http://livetv.ktv.zone/29/play.m3u8
