@@ -23,7 +23,7 @@ http://livetv.ktv.zone/12/play.m3u8
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" group-title="Divertissement", NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="Info", LCP
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="Info", Assemblée Nationale
 http://livetv.ktv.zone/15/play.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="Divertissement", France 4
 http://livetv.ktv.zone/16/play.m3u8
