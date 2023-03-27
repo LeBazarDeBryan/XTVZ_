@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- BFM -----
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Alsace
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Haute Provence
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Lille
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Littoral
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Lyon
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Marseille
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Nice
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Normandie
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Paris
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Alpes
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Toulon
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Belge -----
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", La Une
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Tipik
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", La Trois
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Groupe RTL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Club RTL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Plug RTL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTL TVI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", LN24
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BX1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Ma Télé
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Notélé
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTC Télé Liège
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Télé MB
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Télésambre
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TV Com
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TV Lux
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Vedia
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Canada -----
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ICI RDI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ICI TELE
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TVA
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", NOOVOO
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TELE QUEBEC
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", MONACO INFO
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTL 1 LUXEMBOURG
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Locale Suisse -----
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", One TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", LFMTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Rouge TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TVM3
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Canal9
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Canal Alpha NE
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Canal Alpha JU
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Lémanbkey
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", La Télé
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TNT TV Tahiti
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Antenne Réunion
