@@ -36,35 +36,35 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Groupe RTL
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Club RTL
-
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbehde/hls_short_enc_clubrtl/NA/vcMgoH5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Plug RTL
-
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/plugrtl/rtlbehde/hls_short_enc_plugrtl/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTL TVI
-
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtltvi/rtlbehde/hls_short_enc_rtltvi/NA/vwY8N2N/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", LN24
-
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BX1
-
+https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Ma Télé
-
+https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Notélé
-
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTC Télé Liège
-
+https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/95d2f6eb-6f01-4d1d-8543-d14966de7b04/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Télé MB
-
+https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/95d2f6c9-e85f-4388-8e9c-596260a4206f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Télésambre
-
+https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/95d2f67c-de80-486b-9e60-9c72cb2782e2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TV Com
-
+https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/95d2f656-50f1-432b-84a6-ce11c6cdb482/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TV Lux
-
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/95d2f631-8941-4efd-b223-0ebd56a033c4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Vedia
-
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/95d2f480-3c9f-48ba-ba4e-af64b58431ef/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Canada -----
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ICI RDI
-
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ICI TELE
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TVA
@@ -72,11 +72,11 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", NOOVOO
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TELE QUEBEC
-
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", MONACO INFO
-
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTL 1 LUXEMBOURG
-
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Locale Suisse -----
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", One TV
