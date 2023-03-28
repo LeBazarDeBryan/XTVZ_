@@ -1,5 +1,681 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- BFM -----
+#EXTINF:0, ----- K-Net -----
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/K-Net.png
+#EXTINF:0 tvg-name="TF1.fr" group-title="TNT",TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:0 tvg-name="France2.fr" group-title="TNT",France 2
+http://livetv.ktv.zone/4/play.m3u8
+#EXTINF:0 tvg-name="France3.fr" group-title="TNT",France 3
+http://livetv.ktv.zone/5/play.m3u8
+#EXTINF:0 tvg-name="CanalPlus.fr" group-title="TNT",Canal+
+http://livetv.ktv.zone/6/play.m3u8
+#EXTINF:0 tvg-name="France5.fr" group-title="TNT",France 5
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:0 tvg-name="M6.fr" group-title="TNT",M6
+http://livetv.ktv.zone/8/play.m3u8
+#EXTINF:0 tvg-name="Arte.fr" group-title="TNT",Arte
+http://livetv.ktv.zone/9/play.m3u8
+#EXTINF:0 tvg-name="C8.fr" group-title="TNT",C8
+http://livetv.ktv.zone/10/play.m3u8
+#EXTINF:0 tvg-name="W9.fr" group-title="TNT",W9
+http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:0 tvg-name="TMC.fr" group-title="TNT",TMC
+http://livetv.ktv.zone/12/play.m3u8
+#EXTINF:0 tvg-name="TFX.fr" group-title="TNT",TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:0 tvg-name="NRJ12.fr" group-title="TNT",NRJ 12
+http://livetv.ktv.zone/14/play.m3u8
+#EXTINF:0 tvg-name="LaChaineParlementaire.fr" group-title="TNT",LCP
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:0 tvg-name="France4.fr" group-title="TNT",France 4
+http://livetv.ktv.zone/16/play.m3u8
+#EXTINF:0 tvg-name="BFMTV.fr" group-title="TNT",BFM TV
+http://livetv.ktv.zone/17/play.m3u8
+#EXTINF:0 tvg-name="CNews.fr" group-title="TNT",CNews
+http://livetv.ktv.zone/18/play.m3u8
+#EXTINF:0 tvg-name="CStar.fr" group-title="TNT",CStar
+http://livetv.ktv.zone/19/play.m3u8
+#EXTINF:0 tvg-name="Gulli.fr" group-title="TNT",Gulli
+http://livetv.ktv.zone/20/play.m3u8
+#EXTINF:0,Canal J
+http://livetv.ktv.zone/176/play.m3u8
+#EXTINF:0 tvg-name="TF1SeriesFilms.fr" group-title="TNT",TF1 Séries Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:0 tvg-name="LEquipe21.fr" group-title="TNT",L'Equipe 21
+http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:0 tvg-name="6ter.fr" group-title="TNT",6ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:0 tvg-name="Numero23.fr" group-title="TNT",RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:0 tvg-name="RMCDecouverte.fr" group-title="TNT",RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:0 tvg-name="Cherie25.fr" group-title="TNT",Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:0,LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:0 tvg-name="FranceInfo.fr" group-title="TNT",Franceinfo
+http://livetv.ktv.zone/29/play.m3u8
+#EXTINF:0,CGTN Français
+http://livetv.ktv.zone/52/play.m3u8
+#EXTINF:0,CGTN Documentary
+http://livetv.ktv.zone/36/play.m3u8
+#EXTINF:0,CGTN English
+http://livetv.ktv.zone/35/play.m3u8
+#EXTINF:0,France 24
+http://livetv.ktv.zone/56/play.m3u8
+#EXTINF:0,France 24 (EN)
+http://livetv.ktv.zone/57/play.m3u8
+#EXTINF:0,BBC World
+http://livetv.ktv.zone/60/play.m3u8
+#EXTINF:0,TV5 Monde Europe
+http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:0,Euronews FR
+http://livetv.ktv.zone/73/play.m3u8
+#EXTINF:0,Eurosport (GER)
+http://livetv.ktv.zone/65/play.m3u8
+#EXTINF:0,RTL II (AU)
+http://livetv.ktv.zone/67/play.m3u8
+#EXTINF:0,KIKA
+http://livetv.ktv.zone/68/play.m3u8
+#EXTINF:0,3 SAT
+http://livetv.ktv.zone/69/play.m3u8
+#EXTINF:0,ZDFInfo
+http://livetv.ktv.zone/174/play.m3u8
+#EXTINF:0,VOX (GER)
+http://livetv.ktv.zone/91/play.m3u8
+#EXTINF:0,RTL CH
+http://livetv.ktv.zone/152/play.m3u8
+#EXTINF:0,RTS Un
+http://livetv.ktv.zone/1/play.m3u8
+#EXTINF:0,RTS Deux
+http://livetv.ktv.zone/2/play.m3u8
+#EXTINF:0,SRF 1
+http://livetv.ktv.zone/128/play.m3u8
+#EXTINF:0,RSI La 1
+http://livetv.ktv.zone/129/play.m3u8
+#EXTINF:0,Rai 1
+http://livetv.ktv.zone/130/play.m3u8
+#EXTINF:0,Rai 2
+http://livetv.ktv.zone/131/play.m3u8
+#EXTINF:0,Rai 3
+http://livetv.ktv.zone/132/play.m3u8
+#EXTINF:0,Rai 4
+http://livetv.ktv.zone/155/play.m3u8
+#EXTINF:0,Rai News
+http://livetv.ktv.zone/133/play.m3u8
+#EXTINF:0,Rai YoYo
+http://livetv.ktv.zone/154/play.m3u8
+#EXTINF:0,Rai Gulp
+http://livetv.ktv.zone/156/play.m3u8
+#EXTINF:0,Rai Movie
+http://livetv.ktv.zone/157/play.m3u8
+#EXTINF:0,Rai Premium
+http://livetv.ktv.zone/153/play.m3u8
+#EXTINF:0,Rai Rai+ Sport
+http://livetv.ktv.zone/158/play.m3u8
+#EXTINF:0,France 3 Alpes
+http://livetv.ktv.zone/210/play.m3u8
+#EXTINF:0,France 3 Alsace
+http://livetv.ktv.zone/211/play.m3u8
+#EXTINF:0,France 3 Aquitaine
+http://livetv.ktv.zone/212/play.m3u8
+#EXTINF:0,France 3 Auvergne
+http://livetv.ktv.zone/213/play.m3u8
+#EXTINF:0,France 3 Bretagne
+http://livetv.ktv.zone/216/play.m3u8
+#EXTINF:0,France 3 Champagne-Ardenne
+http://livetv.ktv.zone/218/play.m3u8
+#EXTINF:0,France 3 Côte d'Azur
+http://livetv.ktv.zone/220/play.m3u8
+#EXTINF:0,France 3 Languedoc
+http://livetv.ktv.zone/223/play.m3u8
+#EXTINF:0,France 3 Limousin
+http://livetv.ktv.zone/224/play.m3u8
+#EXTINF:0,France 3 Midi-Pyrénées
+http://livetv.ktv.zone/226/play.m3u8
+#EXTINF:0,France 3 Nord Pas-de-Calais
+http://livetv.ktv.zone/227/play.m3u8
+#EXTINF:0,France 3 Picardie
+http://livetv.ktv.zone/230/play.m3u8
+#EXTINF:0,France 3 Poitou-Charentes
+http://livetv.ktv.zone/231/play.m3u8
+#EXTINF:0,France 3 Provence-Alpes
+http://livetv.ktv.zone/232/play.m3u8
+#EXTINF:0,France 3 Rhône-Alpes
+http://livetv.ktv.zone/233/play.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,1. FB Nord
+http://direct.francebleu.fr/live/fbnord-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,2. FB Basse-Normandie
+http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,3. FB Besançon
+http://direct.francebleu.fr/live/fbbesancon-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,4. FB 107.1
+http://direct.francebleu.fr/live/fb1071-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,5. FB Sud Lorraine
+http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,6. FB Haute-Normandie
+http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,7. FB Picardie
+http://direct.francebleu.fr/live/fbpicardie-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,8. France Culture
+http://direct.franceculture.fr/live/franceculture-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,9. France Info
+http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,10. France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,11. France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,12. Le Mouv'
+http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,13. Evasion FM
+http://stream1.evasionfm.com/Paris
+#EXTINF:0 group-name="Radios" radio="true" ,14. Fun Radio
+http://ais.rtl.fr:80/fun-1-44-128
+#EXTINF:0 group-name="Radios" radio="true" ,15. Jazz Radio
+http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,16. Montagne FM
+http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,18. Radio Evasion
+http://radioevasion.fr:8020/;stream.nsv
+#EXTINF:0 group-name="Radios" radio="true" ,19. Radio Campus Lille
+http://radiocampuslille.bcast.infomaniak.ch:8000/radiocampuslille-128.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,20. Radio Campus Paris
+http://www.radiocampusparis.org:8000/stream_rcp
+#EXTINF:0 group-name="Radios" radio="true" ,21. RFM
+http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,22. RTL
+http://ais.rtl.fr:80/rtl-1-44-128
+#EXTINF:0 group-name="Radios" radio="true" ,23. RTL2
+http://ais.rtl.fr:80/rtl2-1-44-128
+#EXTINF:0 group-name="Radios" radio="true" ,24. Nostalgie
+http://185.52.127.132/fr/30601/aac_64.mp3?origine=playernostalgie
+#EXTINF:0 group-name="Radios" radio="true" ,25. NRJ
+http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,26. Ouï FM
+http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,27. Radio Classique
+http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3?ua=wwwradioclassique
+#EXTINF:0 group-name="Radios" radio="true" ,29. Europe 1
+http://mp3lg3.scdn.arkena.com/10489/europe1.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,30. Rire et Chanson
+http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,31. RMC
+http://chai5she.cdn.dvmr.fr/rmcinfo
+#EXTINF:0 group-name="Radios" radio="true" ,32. BFM
+http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
+#EXTINF:0 group-name="Radios" radio="true" ,33. Chérie FM
+http://185.52.127.132/fr/30201/aac_64.mp3?origine=playercherie
+#EXTINF:0 group-name="Radios" radio="true" ,34. Skyrock
+http://icecast.skyrock.net/s/natio_mp3_128k
+#EXTINF:0 group-name="Radios" radio="true" ,35. Voltage
+http://start-voltage.ice.infomaniak.ch/start-voltage-high.aac
+#EXTINF:0 group-name="Radios" radio="true" ,36. Virgin Radio
+http://mp3lg3.scdn.arkena.com/10490/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,37. Vibration
+http://vibration.ice.infomaniak.ch:80/vibration-high.aac
+#EXTINF:0 group-name="Radios" radio="true" ,38. Ado
+http://broadcast.infomaniak.ch/start-adofm-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,39. Fip
+http://direct.fipradio.fr/live/fip-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,40. Grosse Radio Reggae
+http://hd.lagrosseradio.info:8300/;stream.nsv
+#EXTINF:0 group-name="Radios" radio="true" ,41. Latina
+http://broadcast.infomaniak.net/start-latina-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,42. mKm Caraïbes
+http://mkmradio.com:8000/;file.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,43. Grosse Radio Metal
+http://hd.lagrosseradio.info:8200/;stream.nsv
+#EXTINF:0 group-name="Radios" radio="true" ,44. Grosse Radio Rock
+http://hd.lagrosseradio.info:8500/;stream.nsv
+#EXTINF:0 group-name="Radios" radio="true" ,45. Radio Metal
+http://stream.radiometal.com:8010
+#EXTINF:0 group-name="Radios" radio="true" ,46. Ouï FM Alternative Rock
+http://ouifm2.ice.infomaniak.ch/ouifm2.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,47. Ouï FM Classique Rock
+http://ouifm3.ice.infomaniak.ch/ouifm3.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,48. Ouï FM Rock Indé
+http://ouifm5.ice.infomaniak.ch/ouifm5.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,53. Nostalgie Tous les tubes
+http://cdn.nrjaudio.fm/adwz1/fr/30699/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,55. Nostalgie 100 Légendes
+http://cdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,56. Nostalgie Starts 80
+http://cdn.nrjaudio.fm/adwz1/fr/30683/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,57. Nostalgie Tous les plus grands tubes Français
+http://cdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,59. Nostalgie Blues
+http://cdn.nrjaudio.fm/adwz1/fr/30639/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,60. Nostalgie Les essentiels
+http://cdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,61. Nostalgie Disco fever
+http://cdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,62. Nostalgie Chansons Françaises
+http://cdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,63. Nostalgie Funk
+http://185.52.127.131/fr/30607/aac_64.mp3?origine=playerweb
+#EXTINF:0 group-name="Radios" radio="true" ,64. Nostalgie Poetes
+http://cdn.nrjaudio.fm/adwz1/fr/30619/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,65. Nostalgie Italia
+http://cdn.nrjaudio.fm/adwz1/fr/30663/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,67. Nostalgie Best of 80's
+http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,68. Nostalgie Best of 70's
+http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,69. Nostalgie Best of 60's
+http://cdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,71. Nostalgie Rock
+http://cdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,72. Nostalgie Slow de légendes
+http://cdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,75. Nostalgie Johnny Hallyday
+http://cdn.nrjaudio.fm/audio1/fr/55374/mp3_128.mp3?origine=fluxradios
+#EXTINF:0 group-name="Radios" radio="true" ,76. 100% hard rock
+http://streaming.radionomy.com/100-HARD-ROCK?ad=radionoweb
+#EXTINF:0 group-name="Radios" radio="true" ,77. Radiomeuh
+http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,78. Jazz24
+http://icy1.abacast.com:80/kplu-jazz24aac-64
+#EXTINF:0 group-name="Radios" radio="true" ,82. Radio Paradise
+http://stream-dc1.radioparadise.com:80/mp3-128
+#EXTINF:0 group-name="Radios" radio="true" ,83. Radio21
+http://streaming.radionomy.com/FestivalPhotoMontier
+#EXTINF:0 group-name="Radios" radio="true" ,101. RTS La 1ere
+http://stream.srg-ssr.ch/m/la-1ere/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,102. One FM
+http://broadcast.infomaniak.ch/onefm-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,103. Rhone FM
+http://rhonefm.ice.infomaniak.ch:80/rhonefm-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,104. Rouge FM
+http://broadcast.infomaniak.net/rougefm-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,105. Yes FM
+http://yesfm.ice.infomaniak.ch:80/yesfm-high
+#EXTINF:0 group-name="Radios" radio="true" ,106. RTS Couleur 3
+http://stream.srg-ssr.ch/m/couleur3/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,107. RTS Option Musique
+http://stream.srg-ssr.ch/m/option-musique/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,108. LFM
+http://lausannefm.ice.infomaniak.ch:80/lausannefm-high
+#EXTINF:0 group-name="Radios" radio="true" ,109. Radio Cite Geneve
+http://radiocite.ice.infomaniak.ch:80/radiocite-highest.aac
+#EXTINF:0 group-name="Radios" radio="true" ,110. SRF 1
+http://stream.srg-ssr.ch/m/drs1/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,111. SRF 2
+http://stream.srg-ssr.ch/m/drs2/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,112. SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,113. SRF Virus
+http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,114. SRF Musikwelle
+http://stream.srg-ssr.ch/m/drsmw/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,115. Radio 1
+http://radio.nello.tv:80/128k
+#EXTINF:0 group-name="Radios" radio="true" ,117. Radio 32
+http://radio32-stream.customer.solnet.ch:8000/radio32
+#EXTINF:0 group-name="Radios" radio="true" ,118. Radio Argovia
+http://icecastgreen.argovia.ch:80/argovia128
+#EXTINF:0 group-name="Radios" radio="true" ,119. Energy Basel
+https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,121. Radio BEO
+http://87.237.169.123:8000/radiobeo.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,122. Radio Bern1
+http://www.radiobern1.ch/webstream.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,124. Radio Chablais
+http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,125. Energy Bern
+http://energybern.ice.infomaniak.ch:80/energybern-high
+#EXTINF:0 group-name="Radios" radio="true" ,126. Energy Zurich
+http://energyzuerich.ice.infomaniak.ch:80/energyzuerich-high
+#EXTINF:0 group-name="Radios" radio="true" ,128. Radio Fribourg
+http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,129. Radio Grischa
+http://streaming.swisstxt.ch/m/grischa/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,130. Radio Kaiseregg
+http://kaiseregg.ice.infomaniak.ch:80/stream128k
+#EXTINF:0 group-name="Radios" radio="true" ,131. Kanal K
+http://stream.kanalk.ch:8050/kanalk.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,132. Radio Munot
+http://87.245.121.106/rm
+#EXTINF:0 group-name="Radios" radio="true" ,133. neo1
+http://stream-02.zic-network.ch:8000/neo1
+#EXTINF:0 group-name="Radios" radio="true" ,134. Radio Pilatus
+http://radiopilatus.ice.infomaniak.ch/radiopilatus-128-gm.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,135. Radio 3i
+http://radio3i.ice.infomaniak.ch/radio3i-128.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,136. Radio Rabe
+http://stream.rabe.ch:8000/livestream/rabe-mid.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,140. Radio Sunshine
+http://sunshinelive.hoerradar.de/sunshinelive-mp3-128
+#EXTINF:0 group-name="Radios" radio="true" ,141. Radio Top
+http://str30.creacast.com/top_fm
+#EXTINF:0 group-name="Radios" radio="true" ,142. Radio Top Two
+http://77.109.144.109:8000/twosrp128
+#EXTINF:0 group-name="Radios" radio="true" ,143. Radio Toxic FM
+http://toxicfm.ice.infomaniak.ch/toxicfm-128
+#EXTINF:0 group-name="Radios" radio="true" ,144. Radio Zurisee
+http://radio.nello.tv:80/radiozuerisee128k
+#EXTINF:0 group-name="Radios" radio="true" ,145. RTR
+http://stream.srg-ssr.ch/m/rr/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,146. RTS Espace 2
+http://stream.srg-ssr.ch/m/espace-2/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,147. RSI Rete Uno
+http://stream.srg-ssr.ch/m/reteuno/mp3_128
+#EXTINF:0 group-name="Radios" radio="true" ,148. Oratorio Magi Radio
+http://164.132.236.238:8000/om
+#EXTINF:0 group-name="Radios" radio="true" ,149. Paris One Dj Radio
+http://streaming.radionomy.com/parisoneclub?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3
+#EXTINF:0 group-name="Radios" radio="true" ,150. Hotmix Radio
+http://streamingads.hotmixradio.fm/hotmixradio-80-64.aac
+#EXTINF:0 group-name="Radios" radio="true" ,151. Generation Disco Funk
+http://stream.generationdiscofunk.com:8000/;strea
+#EXTINF:0 group-name="Radios" radio="true" ,152. Radio Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,153. Radio Campus Amiens
+http://live.radio-campus.org:8000/amiens
+#EXTINF:0 group-name="Radios" radio="true" ,154. M Radio
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,155. RFM Summer
+http://rfm-live.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,156. RFM 100% Français
+http://rfm-wr11.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,157. RFM Hommage à Johnny
+http://rfm-wr14.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,158. RFM Night Fever
+http://rfm-wr2.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,159. RFM 100% Femmes
+http://rfm-wr3.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,160. RFM Cinéma
+http://rfm-wr15.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,161. RFM Collector
+http://rfm-wr1.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,162. RFM Lounge
+http://rfm-wr6.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,163. RFM Party 90
+http://rfm-wr5.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,164. RFM Slow
+http://rfm-wr13.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,165. RFM 100% New Wave
+http://rfm-wr12.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,166. RFM 80's
+http://rfm-wr4.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,167. RFM Pop Rock
+http://rfm-wr10.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,168. RFM Run & Fit
+http://rfm-wr9.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0 group-name="Radios" radio="true" ,169. Virgin Radio Hits
+http://vr-wr4-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,170. Virgin Radio New
+http://vr-wr1-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,171. Virgin Radio Electroshock
+http://vr-wr3-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,172. Virgin Tonic Radio
+http://vr-wr6-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,173. Cauet/ sur Virgin Radio
+http://vr-wr7-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,174. Virgin Radio Rock
+http://vr-wr5-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,175. Virgin Radio Classics
+http://vr-wr2-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,176. Chérie Zen
+http://cdn.nrjaudio.fm/adwz1/fr/30203/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,177. Chérie Pop Love
+http://cdn.nrjaudio.fm/adwz1/fr/56237/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,178. Chérie Love Songs
+http://cdn.nrjaudio.fm/adwz1/fr/30207/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,179. Chérie Frenchy
+http://cdn.nrjaudio.fm/adwz1/fr/30213/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,180. Chérie Nouveautés
+http://cdn.nrjaudio.fm/adwz1/fr/30255/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,181. Chérie Pop Love Le Best Of
+http://cdn.nrjaudio.fm/adwz1/fr/56371/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,182. Chérie Les Plus Belles Voix
+http://cdn.nrjaudio.fm/adwz1/fr/30317/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,183. Chérie Pop Love 40
+http://cdn.nrjaudio.fm/adwz1/fr/56311/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,184. Chérie Coeur Brisé
+http://cdn.nrjaudio.fm/adwz1/fr/56303/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,185. Chérie Ballads
+http://cdn.nrjaudio.fm/adwz1/fr/30297/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,186. Chérie Italie
+http://cdn.nrjaudio.fm/adwz1/fr/30219/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,187. Chérie No Repeat
+http://cdn.nrjaudio.fm/adwz1/fr/30295/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,188. Chérie Acoustic
+http://cdn.nrjaudio.fm/adwz1/fr/30269/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,189. Chérie At Work
+http://cdn.nrjaudio.fm/adwz1/fr/30215/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,190. Chérie Sweet Home
+http://cdn.nrjaudio.fm/adwz1/fr/30289/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,191. Chérie Pop
+http://cdn.nrjaudio.fm/adwz1/fr/30227/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,192. Chérie Emotions
+http://cdn.nrjaudio.fm/adwz1/fr/30313/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,193. Chérie Romantic
+http://cdn.nrjaudio.fm/adwz1/fr/30287/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,194. Chérie Party
+http://cdn.nrjaudio.fm/adwz1/fr/30261/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,195. Chérie A La Plage
+http://cdn.nrjaudio.fm/adwz1/fr/56617/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,196. Chérie Eté
+http://cdn.nrjaudio.fm/adwz1/fr/56583/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,197. Chérie Happy
+http://cdn.nrjaudio.fm/adwz1/fr/30331/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,198. Chérie Latino
+http://cdn.nrjaudio.fm/adwz1/fr/30247/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,199. Chérie Piano
+http://cdn.nrjaudio.fm/adwz1/fr/56427/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,200. Chérie RNB Chic
+http://cdn.nrjaudio.fm/adwz1/fr/30275/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,201. Chérie Jazzy
+http://cdn.nrjaudio.fm/adwz1/fr/30241/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,202. Chérie Collector
+http://cdn.nrjaudio.fm/adwz1/fr/56408/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,203. Chérie 80's
+http://cdn.nrjaudio.fm/adwz1/fr/30237/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,204. Chérie 90's
+http://cdn.nrjaudio.fm/adwz1/fr/30239/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,205. Chérie Running
+http://cdn.nrjaudio.fm/adwz1/fr/55648/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,206. Chérie Fitness
+http://cdn.nrjaudio.fm/adwz1/fr/30283/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,207. Chérie Céline Dion
+http://cdn.nrjaudio.fm/adwz1/fr/55507/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,208. Chérie Jean-Jacques Goldman
+http://cdn.nrjaudio.fm/adwz1/fr/55562/aac_64.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,209. M Radio Tubes du Grenier
+http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,210. M Radio Le Meilleur Du Grand Réveil
+http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,211. M Radio 100% Voyance
+http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,212. M Radio Dessin Animés
+http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,213. M Radio N°1 du Top 50
+http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,214. M Radio French Touch
+http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,215. M Radio 100% Québec
+http://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,216. M Radio Nouveautés
+http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,217. M Radio 100% Johnny
+http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,218. M Radio 100% Live
+http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,219. M Radio Yéyé
+http://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,220. M Radio Années 80 et 90
+http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,221. M Radio 100% Enfoirés
+http://mfmwr-011.ice.infomaniak.ch/mfmwr-011.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,222. M Radio Nouvelle Scène
+http://mfmwr-012.ice.infomaniak.ch/mfmwr-012.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,223. M Radio Voix Féminines
+http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,224. M Radio 100% Comédies Musicales
+http://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,225. M Radio Duos
+http://mfmwr-015.ice.infomaniak.ch/mfmwr-015.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,226. M Radio 100% Goldman
+http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,227. M Radio Séducteurs
+http://mfmwr-017.ice.infomaniak.ch/mfmwr-017.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,228. M Radio Francophonies
+http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,229. M Radio Comptines
+http://mfmwr-019.ice.infomaniak.ch/mfmwr-019.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,230. M Radio Années 2000
+http://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,231. M Radio Génériques TV
+http://mfmwr-021.ice.infomaniak.ch/mfmwr-021.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,232. M Radio Culte Années 60 et 70
+http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,233. M Radio 100% Céline Dion
+http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,234. M Radio Voix du Sud
+http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,235. Radio Béton
+http://51.254.220.198:8000/stream.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,236. FB Provence
+https://direct.francebleu.fr/live/fbprovence-midfi.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,237. PulsRadio DANCE
+http://icecast.pulsradio.com/pulsHD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,238. PulsRadio LOUNGE
+http://icecast.pulsradio.com/relaxHD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,239. PulsRadio HITS
+http://icecast.pulsradio.com/hitpartyHD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,240. PulsRadio 80
+http://icecast.pulsradio.com/magicradioHD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,241. PulsRadio CLUB
+http://icecast.pulsradio.com/mxHD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,242. PulsRadio TRANCE
+http://icecast.pulsradio.com/pulstranceHD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,243. PulsRadio 2000
+http://icecast.pulsradio.com/puls00HD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,244. PulsRadio 90
+http://icecast.pulsradio.com/puls90HD.mp3
+#EXTINF:0 group-name="Radios" radio="true" ,245. Chante France
+http://stream1.chantefrance.com/Chante_France
+#EXTINF:0, ----- Streaming -----
+0.0.0.0
+#EXTINF:0, Melody
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Vosges Télévision
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://i.imgur.com/xuwvL4i.png" group-title="Enfants",Canal J
+http://livetv.ktv.zone/176/play.m3u8
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
+http://livetv.ktv.zone/175/play.m3u8
+#EXTINF:0, NHK World HD
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, BBC One
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, BBC Two
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, CBS Drama
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Horror Channel
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, CBS Action
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, CBS Reality
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, RTL
+http://livetv.ktv.zone/152/play.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="",CGTN Documentary
+http://livetv.ktv.zone/36/play.m3u8
+#EXTINF:0, Arirang World
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Vox
+http://livetv.ktv.zone/91/play.m3u8
+#EXTINF:0, Super RTL
+http://livetv.ktv.zone/55/play.m3u8
+#EXTINF:0, CBBC
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/TQvMBFy.png" group-title="Information",France 24
+http://livetv.ktv.zone/56/play.m3u8
+#EXTINF:0, RT
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, BBC World News
+http://livetv.ktv.zone/60/play.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/AsWc1OH.png" group-title="Information",TV5 Monde
+http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:0, CNBC
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Bloomberg
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
+https://euronews.alteox.app/hls/fr_stream.m3u8
+#EXTINF:0, Eurosport
+http://livetv.ktv.zone/65/play.m3u8
+#EXTINF:0, RTL
+http://livetv.ktv.zone/67/play.m3u8
+#EXTINF:0, Kika
+http://livetv.ktv.zone/68/play.m3u8
+#EXTINF:0, 3 Sat
+http://livetv.ktv.zone/69/play.m3u8
+#EXTINF:0, Best of Shopping
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Euronews Français
+http://livetv.ktv.zone/73/play.m3u8
+#EXTINF:0, Euronews Deutsch
+http://livetv.ktv.zone/74/play.m3u8
+#EXTINF:0, Adsport1
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Alsharquya
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, TRT World
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
+http://livetv.ktv.zone/35/play.m3u8
+#EXTINF:0, Mirabelle TV
+http://livetv.ktv.zone/346/play.m3u8
+#EXTINF:0, La Chaîne Normande
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, France 3 Alpes
+http://livetv.ktv.zone/210/play.m3u8
+#EXTINF:0, France 3 Alsace
+http://livetv.ktv.zone/211/play.m3u8
+#EXTINF:0, France 3 Aquitaine
+http://livetv.ktv.zone/212/play.m3u8
+#EXTINF:0, France 3 Auvergne
+http://livetv.ktv.zone/213/play.m3u8
+#EXTINF:0, France 3 Bretagne
+http://livetv.ktv.zone/216/play.m3u8
+#EXTINF:0, France 3 Champagne-Ardenne
+http://livetv.ktv.zone/218/play.m3u8
+#EXTINF:0, France 3 Côte Azur
+http://livetv.ktv.zone/220/play.m3u8
+#EXTINF:0, France 3 Languedoc
+http://livetv.ktv.zone/223/play.m3u8
+#EXTINF:0, France 3 Limousin
+http://livetv.ktv.zone/224/play.m3u8
+#EXTINF:0, France 3 Lorraine
+http://livetv.ktv.zone/225/play.m3u8
+#EXTINF:0, France 3 Midi-Pyrénées
+http://livetv.ktv.zone/226/play.m3u8
+#EXTINF:0, France 3 Nord Pas-de-Calais
+http://livetv.ktv.zone/227/play.m3u8
+#EXTINF:0, France 3 Picardie
+http://livetv.ktv.zone/230/play.m3u8
+#EXTINF:0, France 3 Poitou-Charentes
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, France 3 Provence-Alpes
+http://livetv.ktv.zone/232/play.m3u8
+#EXTINF:0, France 3 Rhône-Alpes
+http://livetv.ktv.zone/233/play.m3u8
+#EXTINF:0, Dubai
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+#EXTINF:0, Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0, BFMTV Lille
+http://livetv.ktv.zone/249/play.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.imgur.com/r9MfPzk.png" group-title="Musique",Trace Latina
+https://amg01131-tracetv-tracelatinach-samsungch-q77mm.amagi.tv/playlist/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Musique",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSport.uk" tvg-logo="https://i.imgur.com/smnmkcQ.png" group-title="Sport",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0, ----- BFM -----
 https://i.imgur.com/9a6KJrG.png
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
