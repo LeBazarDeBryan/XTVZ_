@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- BFM -----
-
+https://i.imgur.com/9a6KJrG.png
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Alsace
@@ -26,7 +26,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BFM", BFM Toulon
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Belge -----
-
+https://i.imgur.com/LyKWjGk.png
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", La Une
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Tipik
@@ -62,7 +62,7 @@ https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Vedia
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/95d2f480-3c9f-48ba-ba4e-af64b58431ef/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Canada -----
-
+https://i.imgur.com/BOqfpoR.png
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ICI TELE
@@ -78,7 +78,7 @@ https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", RTL 1 LUXEMBOURG
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Locale Suisse -----
-
+https://i.imgur.com/7vm5WlF.png
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", One TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", LFMTV
