@@ -80,23 +80,24 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ----- Locale Suisse -----
 https://i.imgur.com/7vm5WlF.png
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", One TV
-
+http://edge16.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", LFMTV
-
+https://edge19.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Rouge TV
-
+https://edge15.vedge.infomaniak.com/livecast/rougetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TVM3
-
+https://edge12.vedge.infomaniak.com/livecast/ik:tvm3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Canal9
-
+https://edge14.vedge.infomaniak.com/livecast/ik:livehd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Canal Alpha NE
-
+https://edge14.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Canal Alpha JU
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Lémanbkey
-
+https://edge20.vedge.infomaniak.com/livecast/ik:canalalphaju/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Lémanbleu
+https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", La Télé
-
+https://edge21.vedge.infomaniak.com/livecast/latele2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TNT TV Tahiti
-
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Antenne Réunion
+https://cache-video-server-04.zeop.tv/bpk-token/agkpugwbabaayf1fppg22gbaaaaaaaaaaaagtbngrrneuzah/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
