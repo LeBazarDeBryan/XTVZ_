@@ -61,7 +61,7 @@
 </p>
   
 <p align="center">
-  <a href="IPTV/TikTok%20Live%Webcam.m3u?raw=true"><img height="100" width="100" src="Images/TikTok%20Live%20Animal.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="IPTV/TikTok%20Live%Webcam.m3u?raw=true"><img height="100" width="100" src="Images/TikTok%20Live%20Animal.png" /></a>
 </p>
 
 <p align="center">Chaînes qu'on retrouve sur des sites de streaming ou autre</p>
