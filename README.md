@@ -59,10 +59,6 @@
 <p align="center">
   <a href="https://github.com/iptv-org/iptv/blob/master/streams/fr_persiana.m3u?raw=true"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 </p>
-  
-<p align="center">
-  <a href="IPTV/TikTok%20Live%20Webcam.m3u?raw=true"><img height="100" width="100" src="Images/TikTok%20Live%20Animal.png" /></a>
-</p>
 
 <p align="center">Chaînes qu'on retrouve sur des sites de streaming ou autre</p>
 
