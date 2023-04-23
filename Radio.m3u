@@ -1,43 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzrVX4G.jpg" group-title="Musique",Europe 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzrVX4G.jpg" group-title="Musique", Europe 2
 https://europe2.lmn.fm/europe2-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1HAkgY3.jpg" group-title="Musique",Europe 2 Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HAkgY3.jpg" group-title="Musique" ,Europe 2 Hits
 https://europe2.lmn.fm/vr-wr4.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mg6XzS.jpg" group-title="Musique",Europe 2 New
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mg6XzS.jpg" group-title="Musique", Europe 2 New
 https://europe2.lmn.fm/vr-wr1.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/snBWx4B.jpg" group-title="Musique",Europe 2 Happy Rock Hours
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snBWx4B.jpg" group-title="Musique", Europe 2 Happy Rock Hours
 https://europe2.lmn.fm/vr-wr5.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXOqIL7.jpg" group-title="Musique",Europe 2 Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXOqIL7.jpg" group-title="Musique", Europe 2 Classics
 https://europe2.lmn.fm/vr-wr2.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OfOK8Bc.jpg" group-title="Musique",Europe 2 Nouvelle Scène
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OfOK8Bc.jpg" group-title="Musique", Europe 2 Nouvelle Scène
 https://europe2.lmn.fm/vr-wr8.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o3KKaX6.png" group-title="Musique",Fun Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o3KKaX6.png" group-title="Musique", Fun Radio
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYR2R3h.png" group-title="Musique",Fun Radio Anthology
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYR2R3h.png" group-title="Musique", Fun Radio Anthology
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2C6SIl.png" group-title="Musique",Fun Radio Electro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2C6SIl.png" group-title="Musique", Fun Radio Electro
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/202/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cDGpzSJ.png" group-title="Musique",Fun Radio Latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDGpzSJ.png" group-title="Musique", Fun Radio Latino
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funlatino/130/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DqsBwgI.png" group-title="Musique",RTL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqsBwgI.png" group-title="Musique", RTL
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HthGFLm.jpg" group-title="Musique",RTL2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HthGFLm.jpg" group-title="Musique", RTL2
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6WxVKx.jpg" group-title="Musique",Tomorrowland One World Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6WxVKx.jpg" group-title="Musique", Tomorrowland One World Radio
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=araK9j8mN9Y
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9E6QUnx.jpg" group-title="Musique",Tomorrowland One World Radio Daybreak Sessions
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9E6QUnx.jpg" group-title="Musique", Tomorrowland One World Radio Daybreak Sessions
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CIVFy3NKGMU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9BSfo.png" group-title="Musique",Virgin Radio Officiel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9BSfo.png" group-title="Musique", Virgin Radio Officiel
 https://stream.virginradio.fr/virgin-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ahkp4mY.png" group-title="Musique",Virgin Radio Nouvelle Scène
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ahkp4mY.png" group-title="Musique", Virgin Radio Nouvelle Scène
 https://stream.virginradio.fr/vr-wr8.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MZRrKdM.jpg" group-title="Musique",Virgin Radio Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MZRrKdM.jpg" group-title="Musique", Virgin Radio Hits
 https://stream.virginradio.fr/vr-wr4.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j06uY5j.jpg" group-title="Musique",Virgin Radio Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j06uY5j.jpg" group-title="Musique", Virgin Radio Classics
 https://stream.virginradio.fr/vr-wr2.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qJEPsrD.png" group-title="Musique",Virgin Radio Rock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJEPsrD.png" group-title="Musique", Virgin Radio Rock
 https://stream.virginradio.fr/vr-wr5.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gdaewpF.png" group-title="Musique",Virgin Radio New
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdaewpF.png" group-title="Musique", Virgin Radio New
 https://stream.virginradio.fr/vr-wr1.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/17Kfmsr.png" group-title="Musique",Virgin Radio Electroshock
+#EXTINF:-1 tvg-logo="https://i.imgur.com/17Kfmsr.png" group-title="Musique", Virgin Radio Electroshock
 https://stream.virginradio.fr/vr-wr3.mp3
+#EXTINF:-1 tvg-logo="/Images/Lofi_Girl.png" group-title="Lofi", lofi hip hop radio 📚 - beats to relax/study to
+https://ythls.onrender.com/video/jfKfPfyJRdk.m3u8
+#EXTINF:-1 tvg-logo="/Images/Lofi_Girl.png" group-title="Lofi", lofi hip hop radio 💤 - beats to sleep/chill to
+https://ythls.onrender.com/video/rUxyKA_-grg.m3u8
+#EXTINF:-1 tvg-logo="/Images/Lofi_Girl.png" group-title="Lofi", synthwave radio 🌌 - beats to chill/game to
+https://ythls.onrender.com/video/MVPTGNGiI-4.m3u8
