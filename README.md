@@ -67,7 +67,7 @@
 <h2 align="center"> Radio </h2>
 
 <p align="center">
-  <a href="Radio.m3u?raw=true"><img height="100" width="100" src="Images/Radio.png" /></a>
+  <a href="IPTV/Radio.m3u?raw=true"><img height="100" width="100" src="Images/Radio.png" /></a>
 </p>
 
 <p align="center"> Station Radio qu'on peut trouver en ligne, FM ou MHz
