@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="/Images/DVD.png" group-title="Screensaver", Bouncing DVD Logo
 https://ythls.onrender.com/video/5mGuCdlCcNM.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Relax", Fireplace UHD
+#EXTINF:-1 tvg-logo=/Images/Fire.png"" group-title="Relax", Fireplace UHD
 https://ythls.onrender.com/video/AWKzr6n0ea0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Relax", The Drive UHD60
 https://ythls.onrender.com/video/lrf-GAYUOkQ.m3u8
