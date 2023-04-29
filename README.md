@@ -29,6 +29,10 @@
   </p>
   
   <p align="center">
+    <a href="IPTV/All.m3u?raw=true"><img height="100" width="100" src="Images/All.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  </p>
+  
+  <p align="center">
     <a href="https://i.mjh.nz/PlutoTV/fr.m3u8"><img height="100" width="100" src="Images/Pluto%20TV.png" /></a><a href="https://i.mjh.nz/PlutoTV/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   </p>
 
