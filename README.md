@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/LeBazarDeBryan/XTVZ_/"><img src="Images/Logo.png" /></a>
 </p>
+<div align="center"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?label=%C3%89toile" /></div>
 
 #
 
