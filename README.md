@@ -1,7 +1,14 @@
 <p align="center">
   <a href="https://github.com/LeBazarDeBryan/XTVZ_/"><img src="Images/Logo.png" /></a>
 </p>
-<div align="center"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?label=%C3%89toile" /></div>
+
+<div align="center">
+
+  | 🌟 Étoile 🌟  | <img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=" /> |
+  |----------------|-------------------------------------------------------------------------------|
+  | 🎛 Fork 🎛       | <img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=" /> |
+  | 👀 Watching 👀 | <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=" /> |
+</div>
 
 #
 
