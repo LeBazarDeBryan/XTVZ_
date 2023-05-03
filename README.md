@@ -4,11 +4,10 @@
 
 <div align="center">
 
-  | 🌟 Étoile 🌟  | <img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=" /> |
-  |----------------|-------------------------------------------------------------------------------|
-  | 🎛 Fork 🎛       | <img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=" /> |
-  | 👀 Watching 👀 | <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=" /> |
-</div>
+<img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" />
+<img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Fork" />
+<img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watching" />
+<img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" />
 
 #
 
