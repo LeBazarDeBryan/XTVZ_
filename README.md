@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" />
 <img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Fork" />
 <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watching" />
-<img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" />
+<img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" /> </div>
 
 #
 
@@ -74,7 +74,7 @@
   <a href="https://github.com/iptv-org/iptv/blob/master/streams/fr_persiana.m3u?raw=true"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 </p>
 
-<p align="center">Chaînes qu'on retrouve sur des sites de streaming ou autre</p>
+<p align="center"> Chaînes qu'on retrouve sur des sites de streaming ou autre </p>
 
 #
 
@@ -84,4 +84,11 @@
   <a href="IPTV/Radio.m3u?raw=true"><img height="100" width="100" src="Images/Radio.png" /></a>
 </p>
 
-<p align="center"> Station Radio qu'on peut trouver en ligne, FM ou MHz
+<p align="center"> Station Radio qu'on peut trouver en ligne, FM ou MHz </p>
+
+#
+
+<h2 align="center"> Question </h2>
+
+<h3> C'est quoi <a href="IPTV/All.m3u">ALL</a> ?</h3>
+<p> <a href="IPTV/All.m3u">ALL</a> est une playlist de toute les chaînes (Voila d'ou vient le nom de la playlist) gratuite et payante.
