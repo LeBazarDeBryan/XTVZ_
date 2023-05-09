@@ -9,7 +9,7 @@ https://europe2.lmn.fm/vr-wr1.mp3
 https://europe2.lmn.fm/vr-wr5.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Europe%202%20Classics.jpg" group-title="Musique", Europe 2 Classics
 https://europe2.lmn.fm/vr-wr2.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Europe%202%20Nouvelle%20Scène.jpg" group-title="Musique", Europe 2 Nouvelle Scène
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Europe%202%20Nouvelle%20Sc%C3%A8ne.jpg" group-title="Musique", Europe 2 Nouvelle Scène
 https://europe2.lmn.fm/vr-wr8.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Fun%20Radio.png" group-title="Musique", Fun Radio
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/groupfun/national/long/audio-64000/index.m3u8
@@ -29,7 +29,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CIVFy3NKGMU
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Virgin%20Radio.png" group-title="Musique", Virgin Radio Officiel
 https://stream.virginradio.fr/virgin-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Virgin%20Radio%20Nouvelle%20Scène.png" group-title="Musique", Virgin Radio Nouvelle Scène
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Virgin%20Radio%20Nouvelle%20Sc%C3%A8ne.png" group-title="Musique", Virgin Radio Nouvelle Scène
 https://stream.virginradio.fr/vr-wr8.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Virgin%20Radio%20Hits.jpg" group-title="Musique", Virgin Radio Hits
 https://stream.virginradio.fr/vr-wr4.mp3
