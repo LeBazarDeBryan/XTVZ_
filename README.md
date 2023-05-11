@@ -91,4 +91,4 @@
 <h2 align="center"> Question </h2>
 
 <h3> C'est quoi <a href="IPTV/All.m3u">ALL</a> ?</h3>
-<p> <a href="IPTV/All.m3u">ALL</a> est une playlist de toute les chaînes (Voila d'ou vient le nom de la playlist) gratuite et payante.
+<p> <a href="IPTV/All.m3u">ALL</a> est une playlist de toute (Voila d'ou vient le nom de la playlist) les chaînes gratuite et payante.
