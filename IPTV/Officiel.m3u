@@ -76,3 +76,8 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png" grou
 
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info", France Info
+
+
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tiji.png" group-title="Enfant", Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
