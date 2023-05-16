@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20
 
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="Info", BFM TV
-
+https://rplayer.surge.sh/?url=https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT", CNews
 
