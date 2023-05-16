@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TFX.png" grou
 
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/NRJ%2012%20HD.png" group-title="Divertissement", NRJ 12
-
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info", La Chaine Parlementaire
 
