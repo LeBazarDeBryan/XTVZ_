@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, Melody
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:0, Vosges Télévision
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://i.imgur.com/xuwvL4i.png" group-title="Enfants",Canal J
