@@ -36,7 +36,7 @@
   </p>
   
   <p align="center">
-    <a href="IPTV/All.m3u?raw=true"><img height="100" width="100" src="Images/All.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+    <a href="IPTV/ALL.m3u?raw=true"><img height="100" width="100" src="Images/All.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   </p>
   
   <p align="center">
