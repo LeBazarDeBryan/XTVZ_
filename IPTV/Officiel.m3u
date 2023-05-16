@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png
 
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/C8.png" group-title="Cinéma/Séries", C8
-
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/W9%20HD.png" group-title="TNT", W9
 
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/NRJ%2012%20HD
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info", La Chaine Parlementaire
-
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/PublicSenat.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20HD.png" group-title="Divertissement", France 4
 
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png"
 https://rplayer.surge.sh/?url=https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT", CNews
-
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CStar.png" group-title="Divertissement", CStar
 
@@ -80,6 +80,8 @@ https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%2024.png" group-title="Info", France 24
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%2024.png" group-title="Info", Euronews
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/euronews.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tiji.png" group-title="Enfant", Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
