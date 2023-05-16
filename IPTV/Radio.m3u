@@ -23,10 +23,10 @@ https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funlatino/130
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RTL2.jpg" group-title="Musique", RTL2
 https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl2/national/long/audio-64000/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tomorrowland%20One%20World%20Radio.jpg" group-title="Musique", Tomorrowland One World Radio
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=araK9j8mN9Y
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tomorrowland%20One%20World%20Radio%20Daybreak%20Sessions.jpg" group-title="Musique", Tomorrowland One World Radio Daybreak Sessions
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CIVFy3NKGMU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tomorrowland%20One%20World%20Radio.jpg" group-title="Musique", Tomorrowland - One World Radio
+https://ythls.onrender.com/video/wBgSH-CGPzg.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tomorrowland%20One%20World%20Radio%20Daybreak%20Sessions.jpg" group-title="Musique", Tomorrowland - One World Radio - Daybreak Sessions
+https://ythls.onrender.com/video/dCpd6_S0rnI.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Virgin%20Radio.png" group-title="Musique", Virgin Radio Officiel
 https://stream.virginradio.fr/virgin-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Virgin%20Radio%20Nouvelle%20Sc%C3%A8ne.png" group-title="Musique", Virgin Radio Nouvelle Scène
