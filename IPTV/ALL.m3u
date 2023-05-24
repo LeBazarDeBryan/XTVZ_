@@ -1,548 +1,398 @@
-#EXTINF:-1 tvg-id="" tvg-name="-= France =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_France.png" group-title="France",-= France =-
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/12665
-#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="13 Eme Rue FR" tvg-logo="" group-title="France",13 Eme Rue FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22936
-#EXTINF:-1 tvg-id="" tvg-name="2STV FR" tvg-logo="" group-title="France",2STV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82834
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter HD FR" tvg-logo="" group-title="France",6ter HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23084
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FHD FR" tvg-logo="https://i.postimg.cc/NF4M7KHx/6ter2016.png" group-title="France",6ter FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82736
-#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 HD FR" tvg-logo="" group-title="France",AB1 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22934
-#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 FHD FR" tvg-logo="" group-title="France",AB1 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82750
-#EXTINF:-1 tvg-id="ab3.fr" tvg-name="AB3 FR" tvg-logo="" group-title="France",AB3 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22933
-#EXTINF:-1 tvg-id="ab3.fr" tvg-name="AB3 FHD FR" tvg-logo="" group-title="France",AB3 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27718
-#EXTINF:-1 tvg-id="action.fr" tvg-name="Action FR" tvg-logo="" group-title="France",Action FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22932
-#EXTINF:-1 tvg-id="action.fr" tvg-name="Action FHD FR" tvg-logo="" group-title="France",Action FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82778
-#EXTINF:-1 tvg-id="" tvg-name="Africable FR" tvg-logo="" group-title="France",Africable FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82832
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux HD FR" tvg-logo="" group-title="France",Animaux HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22968
-#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux FHD FR" tvg-logo="" group-title="France",Animaux FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82799
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte HD FR" tvg-logo="" group-title="France",Arte HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23082
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte FHD FR" tvg-logo="" group-title="France",Arte FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82728
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte HDR FR" tvg-logo="" group-title="France",Arte HDR FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82744
-#EXTINF:-1 tvg-id="" tvg-name="B-One FR" tvg-logo="" group-title="France",B-One FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82839
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="" group-title="France",beIN Sports 1 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/14415
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 FHD FR" tvg-logo="" group-title="France",beIN Sports 1 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27738
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 HD FR" tvg-logo="" group-title="France",beIN Sports 2 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/14414
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FHD FR" tvg-logo="" group-title="France",beIN Sports 2 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27737
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 HD FR" tvg-logo="" group-title="France",beIN Sports 3 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/14413
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 FHD FR" tvg-logo="" group-title="France",beIN Sports 3 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27736
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="BeIN Sports MAX 4 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 4 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80915
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="beIN Sports MAX 4 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 4 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23018
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="BeIN Sports MAX 5 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 5 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80914
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="beIN Sports MAX 5 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 5 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23017
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="BeIN Sports MAX 6 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 6 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80913
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="beIN Sports MAX 6 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 6 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23016
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="BeIN Sports MAX 7 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 7 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80912
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="beIN Sports MAX 7 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 7 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23015
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="BeIN Sports MAX 8 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 8 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80911
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="beIN Sports MAX 8 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 8 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23014
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="BeIN Sports MAX 9 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 9 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80910
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="beIN Sports MAX 9 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 9 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23013
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports MAX 10 HD FR" tvg-logo="" group-title="France",BeIN Sports MAX 10 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80909
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="beIN Sports MAX 10 FHD FR" tvg-logo="" group-title="France",beIN Sports MAX 10 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23012
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 1 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110312
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 2 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110314
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 3 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110315
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 4 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 4 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110316
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 5 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 5 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110317
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 6 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 6 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110318
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 7 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 7 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110319
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 8 HD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime 8 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110320
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video FHD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Amazon Prime Video FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110322
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1 FHD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Prime Video 1 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110323
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2 FHD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Prime Video 2 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110324
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 3 FHD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Prime Video 3 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110325
-#EXTINF:-1 tvg-id="" tvg-name="Prime Video 4 FHD FR" tvg-logo="https://imgur.com/sNLRtp1.png" group-title="France",Prime Video 4 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/110326
-#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET HD FR" tvg-logo="" group-title="France",BET HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82810
-#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET FHD FR" tvg-logo="" group-title="France",BET FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22931
-#EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-name="BFM Business FHD FR" tvg-logo="http://tugapt.com/picons/bfmbusinessfr.png" group-title="France",BFM Business FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82759
-#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM FR" tvg-logo="https://i.postimg.cc/GppbRK9P/BFM_TV_2019.jpg" group-title="France",BFM FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22930
-#EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="BFM Paris FHD FR" tvg-logo="https://i.postimg.cc/pTC6DRcM/BFM-Paris-logo-2016.png" group-title="France",BFM Paris FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82761
-#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFMTV HD FR" tvg-logo="" group-title="France",BFMTV HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22943
-#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV FHD FR" tvg-logo="" group-title="France",BFM TV FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82732
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="Boing HD FR" tvg-logo="" group-title="France",Boing HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22976
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="Boing FHD FR" tvg-logo="" group-title="France",Boing FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82788
-#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang HD FR" tvg-logo="https://i.postimg.cc/FzfSJ3fB/Boomerang-2015.png" group-title="France",Boomerang HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22975
-#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang FHD FR" tvg-logo="" group-title="France",Boomerang FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82787
-#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 FHD FR" tvg-logo="" group-title="France",C8 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27722
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 international FR" tvg-logo="" group-title="France",Canal 2 international FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82841
-#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="Canal+ Family FHD FR" tvg-logo="" group-title="France",Canal+ Family FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27711
-#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="Canal+ Decale FHD FR" tvg-logo="" group-title="France",Canal+ Decale FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27712
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Emotion FR" tvg-logo="" group-title="France",Canal+ Emotion FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23048
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ HD FR" tvg-logo="" group-title="France",Canal+ HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23061
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ UHD FR [Only On 4K Devices]" tvg-logo="" group-title="France",Canal+ UHD FR [Only On 4K Devices]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/101206
-#EXTINF:-1 tvg-id="canalplusforuma1.fr" tvg-name="Canal+ Formula FHD FR" tvg-logo="" group-title="France",Canal+ Formula FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/93030
-#EXTINF:-1 tvg-id="canalplustop14.fr" tvg-name="Canal+ Top14 FHD FR" tvg-logo="" group-title="France",Canal+ Top14 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/93029
-#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ FHD FR" tvg-logo="" group-title="France",Canal+ FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27723
-#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="Canal+ Cinema HD FR" tvg-logo="" group-title="France",Canal+ Cinema HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23058
-#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="Canal+ Cinéma FHD FR" tvg-logo="" group-title="France",Canal+ Cinéma FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23059
-#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="Canal+ Family FHD FR" tvg-logo="https://i.postimg.cc/Z5Ybph8P/Canal-plus-Kids.png" group-title="France",Canal+ Family FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23056
-#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="Canal+ Series FR" tvg-logo="" group-title="France",Canal+ Series FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23054
-#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="Canal+ Series HD FR" tvg-logo="" group-title="France",Canal+ Series HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23057
-#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="Canal+ Sport FHD FR" tvg-logo="https://i.postimg.cc/cCRSf2Vy/Canal-Plus-Sport.png" group-title="France",Canal+ Sport FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23011
-#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="Cartoon Network FR" tvg-logo="" group-title="France",Cartoon Network FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22984
-#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="Cartoon Network FHD FR" tvg-logo="" group-title="France",Cartoon Network FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27717
-#EXTINF:-1 tvg-id="canalpluspremierleague.fr" tvg-name="Canal+ Premier League FHD FR" tvg-logo="" group-title="France",Canal+ Premier League FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/92904
-#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="Chasse et pêche FR" tvg-logo="" group-title="France",Chasse et pêche FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22961
-#EXTINF:-1 tvg-id="" tvg-name="Cherifla FR" tvg-logo="" group-title="France",Cherifla FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82845
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Chérie 25 HD FR" tvg-logo="" group-title="France",Chérie 25 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22925
-#EXTINF:-1 tvg-id="cinepolar.fr" tvg-name="Ciné+ Polar FHD FR" tvg-logo="" group-title="France",Ciné+ Polar FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23041
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="Ciné+ Classic HD FR" tvg-logo="https://i.postimg.cc/x1TtJ3vL/Cine-plus-classic.png" group-title="France",Ciné+ Classic HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82777
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="Ciné+ Classic FHD FR" tvg-logo="" group-title="France",Ciné+ Classic FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23047
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="Ciné+ Club HD FR" tvg-logo="https://i.postimg.cc/DZFW0BsT/Cine-plus-club.png" group-title="France",Ciné+ Club HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82776
-#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="Ciné+ Emotion HD FR" tvg-logo="https://i.postimg.cc/HL1nvB6y/Cine-plus-emotion.png" group-title="France",Ciné+ Emotion HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82774
-#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="Ciné+ Emotion FHD FR" tvg-logo="" group-title="France",Ciné+ Emotion FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23051
-#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="Ciné+ Famiz FR" tvg-logo="" group-title="France",Ciné+ Famiz FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23045
-#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="Ciné+ Famiz HD FR" tvg-logo="https://i.postimg.cc/bvRyC8G7/Cine-plus-famiz.png" group-title="France",Ciné+ Famiz HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82775
-#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="Ciné+ Frisson HD FR" tvg-logo="https://i.postimg.cc/NFd2WmKw/Cine-plus-frisson.png" group-title="France",Ciné+ Frisson HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82773
-#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="Ciné+ Premier HD FR" tvg-logo="https://i.postimg.cc/3x533W2M/Cine-plus-premier.png" group-title="France",Ciné+ Premier HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23039
-#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="Ciné+ Premier FHD FR" tvg-logo="https://i.postimg.cc/3x533W2M/Cine-plus-premier.png" group-title="France",Ciné+ Premier FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82772
-#EXTINF:-1 tvg-id="" tvg-name="M24 News FR" tvg-logo="" group-title="France",M24 News FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/226704
-#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNews FHD FR" tvg-logo="" group-title="France",CNews FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22942
-#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="Comedie+ FR" tvg-logo="https://i.postimg.cc/tgGPtJgZ/Comedie-2011.png" group-title="France",Comedie+ FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22924
-#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="Comedy Central FHD FR" tvg-logo="" group-title="France",Comedy Central FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82748
-#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="Crime District FHD FR" tvg-logo="http://tugapt.com/picons/crimedistrict.png" group-title="France",Crime District FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82749
-#EXTINF:-1 tvg-id="" tvg-name="CRTV FR" tvg-logo="" group-title="France",CRTV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82842
-#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR HD FR" tvg-logo="https://i.postimg.cc/C5DwjLBx/CStar-logo.jpg" group-title="France",CSTAR HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22927
-#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR FHD FR" tvg-logo="" group-title="France",CSTAR FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82733
-#EXTINF:-1 tvg-id="france4.fr" tvg-name="Culturebox FHD FR" tvg-logo="" group-title="France",Culturebox FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27726
-#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="Discovery Channel FHD FR" tvg-logo="" group-title="France",Discovery Channel FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22960
-#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="Discovery Science FHD FR" tvg-logo="" group-title="France",Discovery Science FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22958
-#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="Disney Channel FR" tvg-logo="https://i.postimg.cc/ZqxYVntK/Disney-channel-2019.png" group-title="France",Disney Channel FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22990
-#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="Disney Cinema FHD FR" tvg-logo="" group-title="France",Disney Cinema FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22992
-#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="Disney Junior HD FR" tvg-logo="" group-title="France",Disney Junior HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22988
-#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="Disney+ FR" tvg-logo="" group-title="France",Disney+ FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22987
-#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! Entertainment FHD FR" tvg-logo="" group-title="France",E! Entertainment FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22921
-#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="Elle Girl HD FR" tvg-logo="" group-title="France",Elle Girl HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22920
-#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="Equidia FR" tvg-logo="" group-title="France",Equidia FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22996
-#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="Equidia FHD FR" tvg-logo="https://i.postimg.cc/rskG0KBJ/Equidia.png" group-title="France",Equidia FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82815
-#EXTINF:-1 tvg-id="es1.fr" tvg-name="ES1 FHD FR" tvg-logo="" group-title="France",ES1 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82791
-#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews FR" tvg-logo="" group-title="France",Euronews FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82752
-#EXTINF:-1 tvg-id="euronews.fr" tvg-name="Euronews HD FR" tvg-logo="https://i.postimg.cc/6QBN00dJ/Euronews-2016.jpg" group-title="France",Euronews HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22941
-#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="Eurosport 1 FR" tvg-logo="" group-title="France",Eurosport 1 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23006
-#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="Eurosport 2 FR" tvg-logo="" group-title="France",Eurosport 2 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23005
-#EXTINF:-1 tvg-id="" tvg-name="Figaro Live FHD FR [Live During Events Only]" tvg-logo="" group-title="France",Figaro Live FHD FR [Live During Events Only]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82757
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="Canal+ Foot HD FR" tvg-logo="http://103.161.34.238/dreamtv/tv/canal-foot.png" group-title="France",Canal+ Foot HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23009
-#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 FR" tvg-logo="" group-title="France",France 24 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/102599
-#EXTINF:-1 tvg-id="france2.fr" tvg-name="France 2 HD FR" tvg-logo="" group-title="France",France 2 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23076
-#EXTINF:-1 tvg-id="france2.fr" tvg-name="France 2 FHD FR" tvg-logo="" group-title="France",France 2 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82724
-#EXTINF:-1 tvg-id="france3.fr" tvg-name="France 3 HD FR" tvg-logo="" group-title="France",France 3 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23075
-#EXTINF:-1 tvg-id="france3.fr" tvg-name="France 3 FHD FR" tvg-logo="" group-title="France",France 3 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82725
-#EXTINF:-1 tvg-id="france5.fr" tvg-name="France 5 HD FR" tvg-logo="" group-title="France",France 5 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23073
-#EXTINF:-1 tvg-id="france5.fr" tvg-name="France 5 FHD FR" tvg-logo="" group-title="France",France 5 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82726
-#EXTINF:-1 tvg-id="" tvg-name="France Inter FHD FR  [Live During Events Only]" tvg-logo="" group-title="France",France Inter FHD FR  [Live During Events Only]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82756
-#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="France info FHD FR" tvg-logo="" group-title="France",France info FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82741
-#EXTINF:-1 tvg-id="" tvg-name="Gabon TV FR" tvg-logo="" group-title="France",Gabon TV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82851
-#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One FR" tvg-logo="" group-title="France",Game One FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22974
-#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One HD FR" tvg-logo="" group-title="France",Game One HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82790
-#EXTINF:-1 tvg-id="" tvg-name="GameToon FHD FR" tvg-logo="" group-title="France",GameToon FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82792
-#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="Golf Channel FR" tvg-logo="" group-title="France",Golf Channel FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22995
-#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="Golf Channel FHD FR" tvg-logo="" group-title="France",Golf Channel FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82816
-#EXTINF:-1 tvg-id="" tvg-name="GONG FR" tvg-logo="" group-title="France",GONG FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23038
-#EXTINF:-1 tvg-id="gulli.fr" tvg-name="Gulli HD FR" tvg-logo="" group-title="France",Gulli HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22971
-#EXTINF:-1 tvg-id="gulli.fr" tvg-name="Gulli FHD FR" tvg-logo="https://i.postimg.cc/VLPCZjzz/Gulli.png" group-title="France",Gulli FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82734
-#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV FR" tvg-logo="" group-title="France",HISTOIRE TV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22957
-#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24 News FR" tvg-logo="" group-title="France",i24 News FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22939
-#EXTINF:-1 tvg-id="i24news.fr" tvg-name="i24 News FHD FR" tvg-logo="https://i.postimg.cc/9fxFwSsN/I24-News.png" group-title="France",i24 News FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82758
-#EXTINF:-1 tvg-id="" tvg-name="INA FHD FR [Live During Events Only]" tvg-logo="" group-title="France",INA FHD FR [Live During Events Only]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82745
-#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="InfoSport+ HD FR" tvg-logo="" group-title="France",InfoSport+ HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/37870
-#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="InfoSport+ FHD FR" tvg-logo="https://i.postimg.cc/QNJ1YxL2/Infosport-plus.png" group-title="France",InfoSport+ FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/37869
-#EXTINF:-1 tvg-id="jone.fr" tvg-name="J-One FR" tvg-logo="" group-title="France",J-One FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22917
-#EXTINF:-1 tvg-id="jone.fr" tvg-name="J-One FHD FR" tvg-logo="" group-title="France",J-One FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82794
-#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO FR" tvg-logo="" group-title="France",KTO FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/54986
-#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO FHD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/KTOlogo.png" group-title="France",KTO FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82751
-#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'Equipe HD FR" tvg-logo="" group-title="France",L'Equipe HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23002
-#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'Equipe FHD FR" tvg-logo="" group-title="France",L'Equipe FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82735
-#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FR" tvg-logo="" group-title="France",LCI FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22938
-#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FHD FR" tvg-logo="" group-title="France",LCI FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82740
-#EXTINF:-1 tvg-id="publicsenat.fr" tvg-name="LCP Public Sénat HD FR" tvg-logo="" group-title="France",LCP Public Sénat HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82730
-#EXTINF:-1 tvg-id="" tvg-name="Lucky Jack FR" tvg-logo="" group-title="France",Lucky Jack FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82821
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD FR" tvg-logo="" group-title="France",M6 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27724
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 FHD FR" tvg-logo="" group-title="France",M6 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82727
-#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 Music FR" tvg-logo="" group-title="France",M6 Music FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22916
-#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 Music HD FR" tvg-logo="https://i.postimg.cc/43p11Bkt/M6-Music.png" group-title="France",M6 Music HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82809
-#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas HD FR" tvg-logo="" group-title="France",Mangas HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/38348
-#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas FHD FR" tvg-logo="" group-title="France",Mangas FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82793
-#EXTINF:-1 tvg-id="" tvg-name="Mango FHD FR  [Live During Events Only]" tvg-logo="" group-title="France",Mango FHD FR  [Live During Events Only]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82743
-#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM HD FR" tvg-logo="" group-title="France",MCM HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27754
-#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="Mezzo FHD FR" tvg-logo="" group-title="France",Mezzo FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82811
-#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="Mezzo Live FHD FR" tvg-logo="" group-title="France",Mezzo Live FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27753
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FHD FR" tvg-logo="" group-title="France",MTV FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82806
-#EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="MTV Hits FHD FR" tvg-logo="" group-title="France",MTV Hits FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82807
-#EXTINF:-1 tvg-id="multisports1.fr" tvg-name="MultiSports 1 HD FR" tvg-logo="" group-title="France",MultiSports 1 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80908
-#EXTINF:-1 tvg-id="multisports2.fr" tvg-name="MultiSports 2 HD FR" tvg-logo="" group-title="France",MultiSports 2 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80907
-#EXTINF:-1 tvg-id="multisports3.fr" tvg-name="MultiSports 3 HD FR" tvg-logo="" group-title="France",MultiSports 3 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80906
-#EXTINF:-1 tvg-id="multisports4.fr" tvg-name="MultiSports 4 HD FR" tvg-logo="" group-title="France",MultiSports 4 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80905
-#EXTINF:-1 tvg-id="multisports5.fr" tvg-name="MultiSports 5 HD FR" tvg-logo="" group-title="France",MultiSports 5 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80904
-#EXTINF:-1 tvg-id="multisports6.fr" tvg-name="MultiSports 6 HD FR" tvg-logo="" group-title="France",MultiSports 6 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80903
-#EXTINF:-1 tvg-id="mycuisine.fr" tvg-name="My Cuisine HD FR" tvg-logo="" group-title="France",My Cuisine HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/39157
-#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="National Geo Wild FR" tvg-logo="" group-title="France",National Geo Wild FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22955
-#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="National Geographic FHD FR" tvg-logo="" group-title="France",National Geographic FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22954
-#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon HD FR" tvg-logo="https://i.postimg.cc/85yZBt2k/Nickelodeon.png" group-title="France",Nickelodeon HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22985
-#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon FHD FR" tvg-logo="" group-title="France",Nickelodeon FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82785
-#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodéon +1 FHD FR" tvg-logo="" group-title="France",Nickelodéon +1 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82786
-#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="Nick Junior FR" tvg-logo="" group-title="France",Nick Junior FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22986
-#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="Nickelodeon Junior FR" tvg-logo="https://i.postimg.cc/cJfCPW26/Nickelodeon_Junior.png" group-title="France",Nickelodeon Junior FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82783
-#EXTINF:-1 tvg-id="nickelodeon4teen.fr" tvg-name="Nickelodeon Teen FHD FR" tvg-logo="" group-title="France",Nickelodeon Teen FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82795
-#EXTINF:-1 tvg-id="nollywood.fr" tvg-name="Nollywood TV FR" tvg-logo="" group-title="France",Nollywood TV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82827
-#EXTINF:-1 tvg-id="" tvg-name="Nollywood Epic FR" tvg-logo="" group-title="France",Nollywood Epic FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82831
-#EXTINF:-1 tvg-id="" tvg-name="Nollywood Replay FR [Live During Events Only]" tvg-logo="" group-title="France",Nollywood Replay FR [Live During Events Only]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82828
-#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="Novelas TV FR" tvg-logo="" group-title="France",Novelas TV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82826
-#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12 FHD FR" tvg-logo="" group-title="France",NRJ 12 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22915
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ Hits FR" tvg-logo="" group-title="France",NRJ Hits FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22914
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ Hits FHD FR" tvg-logo="" group-title="France",NRJ Hits FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82808
-#EXTINF:-1 tvg-id="" tvg-name="Numero 23 HD FR" tvg-logo="" group-title="France",Numero 23 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22911
-#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS Choc FHD FR" tvg-logo="" group-title="France",OCS Choc FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82769
-#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS City HD FR" tvg-logo="" group-title="France",OCS City HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23033
-#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS City FHD FR" tvg-logo="https://i.postimg.cc/L8Q420cH/OCS-City.jpg" group-title="France",OCS City FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82768
-#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Géants HD FR" tvg-logo="" group-title="France",OCS Géants HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23032
-#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Géants FHD FR" tvg-logo="" group-title="France",OCS Géants FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82770
-#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS Max HD FR" tvg-logo="" group-title="France",OCS Max HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23031
-#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS Max FHD FR" tvg-logo="" group-title="France",OCS Max FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82767
-#EXTINF:-1 tvg-id="" tvg-name="OCS FHD FR [Live During Events Only]" tvg-logo="" group-title="France",OCS FHD FR [Live During Events Only]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82771
-#EXTINF:-1 tvg-id="oltv.fr" tvg-name="OL Tv FR" tvg-logo="" group-title="France",OL Tv FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22909
-#EXTINF:-1 tvg-id="" tvg-name="One TV FHD FR" tvg-logo="" group-title="France",One TV FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27714
-#EXTINF:-1 tvg-id="" tvg-name="ORTB FR" tvg-logo="" group-title="France",ORTB FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82849
-#EXTINF:-1 tvg-id="" tvg-name="ORTM FR" tvg-logo="" group-title="France",ORTM FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82844
-#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel Décalé FHD FR" tvg-logo="" group-title="France",Paramount Channel Décalé FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82781
-#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel FHD FR" tvg-logo="" group-title="France",Paramount Channel FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82780
-#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel HD FR" tvg-logo="" group-title="France",Paramount Channel HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23036
-#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi+ FHD FR" tvg-logo="" group-title="France",Piwi+ FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22982
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="Planet CI FR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/PLANETCI.png" group-title="France",Planet CI FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22963
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="Planet FR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCESD/PLANET%20.png" group-title="France",Planet FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22967
-#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="Planete+ A&E HD FR" tvg-logo="" group-title="France",Planete+ A&E HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22964
-#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="RFM FHD FR" tvg-logo="http://tugapt.com/picons/rfmtv.png" group-title="France",RFM FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27757
-#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC Découverte FHD FR" tvg-logo="" group-title="France",RMC Découverte FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82738
-#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC Sport 1 HD FR" tvg-logo="" group-title="France",RMC Sport 1 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27735
-#EXTINF:-1 tvg-id="rmcsportuhd.fr" tvg-name="RMC Sport UHD FR [Only On 4K Devices]" tvg-logo="" group-title="France",RMC Sport UHD FR [Only On 4K Devices]
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/101205
-#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="RMC Sport 2 HD FR" tvg-logo="" group-title="France",RMC Sport 2 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27734
-#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="RMC Sport 3 HD FR" tvg-logo="https://i.postimg.cc/t4ygvt5N/RMC-Sport-3.png" group-title="France",RMC Sport 3 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27733
-#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="RMC Sport 4 HD FR" tvg-logo="" group-title="France",RMC Sport 4 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27732
-#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="RMC Sport Live 5 HD FR" tvg-logo="" group-title="France",RMC Sport Live 5 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/35404
-#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="RMC Sport Live 6 HD FR" tvg-logo="" group-title="France",RMC Sport Live 6 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/35405
-#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="RMC Sport Live 7 HD FR" tvg-logo="" group-title="France",RMC Sport Live 7 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/35406
-#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="RMC Sport Live 8 HD FR" tvg-logo="" group-title="France",RMC Sport Live 8 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80902
-#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="RMC Sport Live 9 HD FR" tvg-logo="" group-title="France",RMC Sport Live 9 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/80901
-#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC Story FHD FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-story-fr.png" group-title="France",RMC Story FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82737
-#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv FR" tvg-logo="" group-title="France",Rouge Tv FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22906
-#EXTINF:-1 tvg-id="rtfrance.fr" tvg-name="RT France FHD FR" tvg-logo="" group-title="France",RT France FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82742
-#EXTINF:-1 tvg-id="" tvg-name="RTB FR" tvg-logo="" group-title="France",RTB FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82850
-#EXTINF:-1 tvg-id="" tvg-name="RTG FR" tvg-logo="" group-title="France",RTG FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82847
-#EXTINF:-1 tvg-id="" tvg-name="RTI 1 FR" tvg-logo="" group-title="France",RTI 1 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82837
-#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL 9 FHD FR" tvg-logo="" group-title="France",RTL 9 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22905
-#EXTINF:-1 tvg-id="" tvg-name="RTS 1 FR" tvg-logo="" group-title="France",RTS 1 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82833
-#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="Science et Vie TV FR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/SCIENCESETVIE.png" group-title="France",Science et Vie TV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22950
-#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="Science et Vie TV HD FR" tvg-logo="" group-title="France",Science et Vie TV HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82803
-#EXTINF:-1 tvg-id="seasons.fr" tvg-name="Seasons FR" tvg-logo="" group-title="France",Seasons FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22949
-#EXTINF:-1 tvg-id="" tvg-name="Sen TV FR" tvg-logo="" group-title="France",Sen TV FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82835
-#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="Sport en France FHD FR" tvg-logo="" group-title="France",Sport en France FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82820
-#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy FR" tvg-logo="" group-title="France",Syfy FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22902
-#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy FHD FR" tvg-logo="" group-title="France",Syfy FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22903
-#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="Série Club FHD FR" tvg-logo="" group-title="France",Série Club FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22904
-#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM Cinema FR" tvg-logo="" group-title="France",TCM Cinema FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23037
-#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM Cinéma FHD FR" tvg-logo="" group-title="France",TCM Cinéma FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82779
-#EXTINF:-1 tvg-id="" tvg-name="Tele Congo FR" tvg-logo="" group-title="France",Tele Congo FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82846
-#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="TeleToon+ HD FR" tvg-logo="" group-title="France",TeleToon+ HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22977
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 FR" tvg-logo="" group-title="France",TF1 FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/72566
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 FHD FR" tvg-logo="" group-title="France",TF1 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82723
-#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="TF1 Séries Films FHD FR" tvg-logo="" group-title="France",TF1 Séries Films FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22918
-#EXTINF:-1 tvg-id="" tvg-name="TFM FR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-CANALAFRICA/TFM.png" group-title="France",TFM FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82836
-#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX HD FR" tvg-logo="" group-title="France",TFX HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23079
-#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX FHD FR" tvg-logo="" group-title="France",TFX FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82729
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI FR" tvg-logo="" group-title="France",TIJI FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22972
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI FHD FR" tvg-logo="" group-title="France",TIJI FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82782
-#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC HD FR" tvg-logo="https://i.postimg.cc/Bb0vLPZN/TMC.jpg" group-title="France",TMC HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23068
-#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TMC FHD FR" tvg-logo="" group-title="France",TMC FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27720
-#EXTINF:-1 tvg-id="toonami.fr" tvg-name="Toonami FHD FR" tvg-logo="" group-title="France",Toonami FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82789
-#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="Toute l'histoire FR" tvg-logo="" group-title="France",Toute l'histoire FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22947
-#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="Toute l'histoire HD FR" tvg-logo="" group-title="France",Toute l'histoire HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82805
-#EXTINF:-1 tvg-id="tracesportstars.fr" tvg-name="Trace Sport Stars FHD FR" tvg-logo="" group-title="France",Trace Sport Stars FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82818
-#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="Trace Africa HD FR" tvg-logo="" group-title="France",Trace Africa HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27752
-#EXTINF:-1 tvg-id="tracecaribbean.fr" tvg-name="Trace Caribbean FHD FR" tvg-logo="" group-title="France",Trace Caribbean FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82814
-#EXTINF:-1 tvg-id="tracelatina.fr" tvg-name="Trace Latina FR" tvg-logo="" group-title="France",Trace Latina FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82812
-#EXTINF:-1 tvg-id="tracetropical.fr" tvg-name="Trace Tropical FHD FR" tvg-logo="http://195.154.221.171/picons/tracetropicalhd.png" group-title="France",Trace Tropical FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27751
-#EXTINF:-1 tvg-id="traceurban.fr" tvg-name="Trace Urban FHD FR" tvg-logo="" group-title="France",Trace Urban FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82813
-#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek HD FR" tvg-logo="" group-title="France",Trek HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82801
-#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FHD FR" tvg-logo="" group-title="France",Trek FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22948
-#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV5 Monde Europe FR" tvg-logo="" group-title="France",TV5 Monde Europe FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23066
-#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV5 Monde FHD FR" tvg-logo="" group-title="France",TV5 Monde FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23065
-#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-name="TV8 Mont Blanc FHD FR" tvg-logo="" group-title="France",TV8 Mont Blanc FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27755
-#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV Breizh HD FR" tvg-logo="" group-title="France",TV Breizh HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82747
-#EXTINF:-1 tvg-id="" tvg-name="TVT FR" tvg-logo="" group-title="France",TVT FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82848
-#EXTINF:-1 tvg-id="teva.fr" tvg-name="Téva FR" tvg-logo="" group-title="France",Téva FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22901
-#EXTINF:-1 tvg-id="teva.fr" tvg-name="Téva FHD FR" tvg-logo="" group-title="France",Téva FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27719
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="Ushuaïa TV HD FR" tvg-logo="https://i.postimg.cc/bJzZq5Jv/Ushuaia-tv.png" group-title="France",Ushuaïa TV HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22946
-#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="Ushuaïa TV FHD FR" tvg-logo="" group-title="France",Ushuaïa TV FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82798
-#EXTINF:-1 tvg-id="voyage.fr" tvg-name="Voyage FR" tvg-logo="http://103.161.34.238/dreamtv/tv/Pluto.png" group-title="France",Voyage FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/22945
-#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 HD FR" tvg-logo="https://i.postimg.cc/zB06pPRH/W9-logo.png" group-title="France",W9 HD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/23063
-#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 FHD FR" tvg-logo="" group-title="France",W9 FHD FR
-http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/27721
+#EXTINF:-1,FR 6Ter
+http://ky-iptv.com:80/Justin2023/Justin2023/182257.ts
+#EXTINF:-1,FR ARTE
+http://ky-iptv.com:80/Justin2023/Justin2023/182258.ts
+#EXTINF:-1,FR C8
+http://ky-iptv.com:80/Justin2023/Justin2023/182262.ts
+#EXTINF:-1,FR Cherie25
+http://ky-iptv.com:80/Justin2023/Justin2023/182264.ts
+#EXTINF:-1,FR CStar
+http://ky-iptv.com:80/Justin2023/Justin2023/182267.ts
+#EXTINF:-1,FR FRANCE 2
+http://ky-iptv.com:80/Justin2023/Justin2023/182269.ts
+#EXTINF:-1,FR FRANCE 3
+http://ky-iptv.com:80/Justin2023/Justin2023/182271.ts
+#EXTINF:-1,FR FRANCE 5
+http://ky-iptv.com:80/Justin2023/Justin2023/182275.ts
+#EXTINF:-1,FR FRANCE INFO HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182276.ts
+#EXTINF:-1,FR FRANCE 24
+http://ky-iptv.com:80/Justin2023/Justin2023/182280.ts
+#EXTINF:-1,FR M6
+http://ky-iptv.com:80/Justin2023/Justin2023/182288.ts
+#EXTINF:-1,FR NRJ12
+http://ky-iptv.com:80/Justin2023/Justin2023/182291.ts
+#EXTINF:-1,FR TF1
+http://ky-iptv.com:80/Justin2023/Justin2023/182293.ts
+#EXTINF:-1,FR TF1 +1
+http://ky-iptv.com:80/Justin2023/Justin2023/182294.ts
+#EXTINF:-1,FR TF1 Series Films
+http://ky-iptv.com:80/Justin2023/Justin2023/182299.ts
+#EXTINF:-1,FR TV5 MONDE Info HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182302.ts
+#EXTINF:-1,FR W9
+http://ky-iptv.com:80/Justin2023/Justin2023/182305.ts
+#EXTINF:-1,FR beIN SPORTS 1
+http://ky-iptv.com:80/Justin2023/Justin2023/182316.ts
+#EXTINF:-1,FR beIN SPORTS 2 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182319.ts
+#EXTINF:-1,FR M6 MUSIC HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182327.ts
+#EXTINF:-1,FR MCM TOP FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182331.ts
+#EXTINF:-1,FR MEZZO FR HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182332.ts
+#EXTINF:-1,FR MTV Hits FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182337.ts
+#EXTINF:-1,FR MTV FRANCE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182339.ts
+#EXTINF:-1,FR: A LA CARTE 9
+http://ky-iptv.com:80/Justin2023/Justin2023/182342.ts
+#EXTINF:-1,FR: A LA CARTE 01
+http://ky-iptv.com:80/Justin2023/Justin2023/182343.ts
+#EXTINF:-1,FR: A LA CARTE 03
+http://ky-iptv.com:80/Justin2023/Justin2023/182345.ts
+#EXTINF:-1,FR: A LA CARTE 04
+http://ky-iptv.com:80/Justin2023/Justin2023/182346.ts
+#EXTINF:-1,FR: A LA CARTE 05
+http://ky-iptv.com:80/Justin2023/Justin2023/182347.ts
+#EXTINF:-1,FR: A LA CARTE 06
+http://ky-iptv.com:80/Justin2023/Justin2023/182348.ts
+#EXTINF:-1,FR: A LA CARTE 07
+http://ky-iptv.com:80/Justin2023/Justin2023/182349.ts
+#EXTINF:-1,FR: A LA CARTE 08
+http://ky-iptv.com:80/Justin2023/Justin2023/182350.ts
+#EXTINF:-1,FR: A LA CARTE 10
+http://ky-iptv.com:80/Justin2023/Justin2023/182351.ts
+#EXTINF:-1,FR: CANAL PLAY 01
+http://ky-iptv.com:80/Justin2023/Justin2023/182352.ts
+#EXTINF:-1,FR: CANAL PLAY 02
+http://ky-iptv.com:80/Justin2023/Justin2023/182353.ts
+#EXTINF:-1,FR: CANAL PLAY 03
+http://ky-iptv.com:80/Justin2023/Justin2023/182354.ts
+#EXTINF:-1,FR: CANAL PLAY 04
+http://ky-iptv.com:80/Justin2023/Justin2023/182355.ts
+#EXTINF:-1,FR: CANAL PLAY 05
+http://ky-iptv.com:80/Justin2023/Justin2023/182356.ts
+#EXTINF:-1,FR: CANAL PLAY 06
+http://ky-iptv.com:80/Justin2023/Justin2023/182357.ts
+#EXTINF:-1,FR: CANAL PLAY 07
+http://ky-iptv.com:80/Justin2023/Justin2023/182358.ts
+#EXTINF:-1,FR: CANAL PLAY 08
+http://ky-iptv.com:80/Justin2023/Justin2023/182359.ts
+#EXTINF:-1,FR Equidia Live
+http://ky-iptv.com:80/Justin2023/Justin2023/182366.ts
+#EXTINF:-1,FR Equipe 21
+http://ky-iptv.com:80/Justin2023/Justin2023/182368.ts
+#EXTINF:-1,FR EuroSport 1
+http://ky-iptv.com:80/Justin2023/Justin2023/182370.ts
+#EXTINF:-1,FR EuroSport 2
+http://ky-iptv.com:80/Justin2023/Justin2023/182372.ts
+#EXTINF:-1,FR EXTREME SPORTS HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182374.ts
+#EXTINF:-1,FR Golf Channel
+http://ky-iptv.com:80/Justin2023/Justin2023/182377.ts
+#EXTINF:-1,FR Golf Plus
+http://ky-iptv.com:80/Justin2023/Justin2023/182379.ts
+#EXTINF:-1,FR Infosport HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182382.ts
+#EXTINF:-1,FR RMC Sport Access 2 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182386.ts
+#EXTINF:-1,FR RMC Sport Access 3 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182387.ts
+#EXTINF:-1,FR RMC Sport Live 10 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182390.ts
+#EXTINF:-1,FR RMC Sport Live 11 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182391.ts
+#EXTINF:-1,FR RMC Sport Live 12 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182392.ts
+#EXTINF:-1,FR RMC Sport Live 13 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182393.ts
+#EXTINF:-1,FR RMC Sport Live 14 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182394.ts
+#EXTINF:-1,FR RMC Sport Live 16 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182396.ts
+#EXTINF:-1,FR: RMC Sport Live 2 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182397.ts
+#EXTINF:-1,FR RMC Sport Live 5 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182402.ts
+#EXTINF:-1,FR RMC Sport Live 6 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182403.ts
+#EXTINF:-1,FR RMC Sport Live 7 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182404.ts
+#EXTINF:-1,FR RMC Sport Live 8 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182405.ts
+#EXTINF:-1,FR RMC Sport Live 9 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182406.ts
+#EXTINF:-1,FR 13eme RUE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182409.ts
+#EXTINF:-1,FR ACTION HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182411.ts
+#EXTINF:-1,FR CANAL PLUS CINEMA FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182414.ts
+#EXTINF:-1,FR: CANAL PLUS DECALE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182418.ts
+#EXTINF:-1,FR CANAL PLUS FAMILY
+http://ky-iptv.com:80/Justin2023/Justin2023/182419.ts
+#EXTINF:-1,FR CANAL PLUS FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182422.ts
+#EXTINF:-1,FR CANAL PLUS SERIES FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182425.ts
+#EXTINF:-1,FR: CANAL PLUS SPORT FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182428.ts
+#EXTINF:-1,FR CINE CLASSIC
+http://ky-iptv.com:80/Justin2023/Justin2023/182431.ts
+#EXTINF:-1,FR CINE EMOTION HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182436.ts
+#EXTINF:-1,FR CINE FAMIZ HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182438.ts
+#EXTINF:-1,FR CINE FRISSON HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182439.ts
+#EXTINF:-1,FR CINE PREMIER
+http://ky-iptv.com:80/Justin2023/Justin2023/182442.ts
+#EXTINF:-1,FR OCS CITY HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182447.ts
+#EXTINF:-1,FR OCS Geants HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182449.ts
+#EXTINF:-1,FR PARAMOUNT CHANNEL HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182453.ts
+#EXTINF:-1,FR PARIS PREMIERE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182455.ts
+#EXTINF:-1,FR ROUGE TV HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182457.ts
+#EXTINF:-1,FR RTL9 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182459.ts
+#EXTINF:-1,FR SERIE CLUB FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182460.ts
+#EXTINF:-1,FR SYFY HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182463.ts
+#EXTINF:-1,FR TCM CINEMA HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182465.ts
+#EXTINF:-1,FR TFX HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182467.ts
+#EXTINF:-1,FR TMC HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182469.ts
+#EXTINF:-1,FR ANIMAUX HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182471.ts
+#EXTINF:-1,FR CHASSE&PECHE
+http://ky-iptv.com:80/Justin2023/Justin2023/182472.ts
+#EXTINF:-1,FR Comedie + HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182475.ts
+#EXTINF:-1,FR CRIME DISTRICT HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182477.ts
+#EXTINF:-1,FR DISCOVERY HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182479.ts
+#EXTINF:-1,FR DISCOVERY INVESTIGATION HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182481.ts
+#EXTINF:-1,FR DISCOVERY SCIENCE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182483.ts
+#EXTINF:-1,FR HISTOIRE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182485.ts
+#EXTINF:-1,FR National Geographic Wild
+http://ky-iptv.com:80/Justin2023/Justin2023/182486.ts
+#EXTINF:-1,FR National Geographic HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182488.ts
+#EXTINF:-1,FR PLANETE A&E
+http://ky-iptv.com:80/Justin2023/Justin2023/182492.ts
+#EXTINF:-1,FR Planete Crime+Investigation HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182494.ts
+#EXTINF:-1,FR RMC Decouverte HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182498.ts
+#EXTINF:-1,FR RMC STORY HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182500.ts
+#EXTINF:-1,FR SCIENCE ET VIE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182502.ts
+#EXTINF:-1,FR SEASON
+http://ky-iptv.com:80/Justin2023/Justin2023/182503.ts
+#EXTINF:-1,FR TOUTE L'HISTOIRE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182506.ts
+#EXTINF:-1,FR Trek HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182508.ts
+#EXTINF:-1,FR Ushuaia HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182510.ts
+#EXTINF:-1,FR AB1 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182514.ts
+#EXTINF:-1,FR BET HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182515.ts
+#EXTINF:-1,FR BFM Business HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182517.ts
+#EXTINF:-1,FR E! Entertainment HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182522.ts
+#EXTINF:-1,FR ONE TV HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182527.ts
+#EXTINF:-1,FR TEVA HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182529.ts
+#EXTINF:-1,FR TRACE Urban HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182530.ts
+#EXTINF:-1,FR Tv Breizh HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182533.ts
+#EXTINF:-1,FR TVM3 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182534.ts
+#EXTINF:-1,FR WEO HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182535.ts
+#EXTINF:-1,FR BOING HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182537.ts
+#EXTINF:-1,FR BOOMERANG HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182540.ts
+#EXTINF:-1,FR CANAL J HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182542.ts
+#EXTINF:-1,FR CartoonNetwork HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182544.ts
+#EXTINF:-1,FR DISNEY CHANNEL HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182546.ts
+#EXTINF:-1,FR DISNEY JUNIOR HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182550.ts
+#EXTINF:-1,FR GAME ONE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182554.ts
+#EXTINF:-1,FR GULLI HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182556.ts
+#EXTINF:-1,FR J-ONE HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182557.ts
+#EXTINF:-1,FR MANGAS TV
+http://ky-iptv.com:80/Justin2023/Justin2023/182559.ts
+#EXTINF:-1,FR NICKELODEON HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182561.ts
+#EXTINF:-1,FR NICKELODEON 4 TEEN HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182562.ts
+#EXTINF:-1,FR NICKELODEON JUNIOR HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182566.ts
+#EXTINF:-1,FR Piwi + HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182568.ts
+#EXTINF:-1,FR: TELETOON+
+http://ky-iptv.com:80/Justin2023/Justin2023/182571.ts
+#EXTINF:-1,FR TIJI HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182574.ts
+#EXTINF:-1,FR Toonami HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182576.ts
+#EXTINF:-1,FR: BFM PARIS FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182363.ts
+#EXTINF:-1,FR: A LA CARTE 02
+http://ky-iptv.com:80/Justin2023/Justin2023/182344.ts
+#EXTINF:-1,FR: MELODY HD
+http://ky-iptv.com:80/Justin2023/Justin2023/560933.ts
+#EXTINF:-1,FR: beIN Sports Max 4 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/819492.ts
+#EXTINF:-1,FR: beIN Sports Max 6 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/819493.ts
+#EXTINF:-1,FR: beIN Sports Max 7 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/819495.ts
+#EXTINF:-1,FR: beIN Sports Max 8 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/819496.ts
+#EXTINF:-1,FR: beIN Sports Max 9 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/819497.ts
+#EXTINF:-1,FR: beIN Sports Max 5 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/819494.ts
+#EXTINF:-1,FR beIN SPORTS 3 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182322.ts
+#EXTINF:-1,FR DISNEY+1 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182325.ts
+#EXTINF:-1,FR RFM TV HD
+http://ky-iptv.com:80/Justin2023/Justin2023/185615.ts
+#EXTINF:-1,FR: NRJ HITS
+http://ky-iptv.com:80/Justin2023/Justin2023/226595.ts
+#EXTINF:-1,FR MTV Dance HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182335.ts
+#EXTINF:-1,FR OCS CHOC HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182445.ts
+#EXTINF:-1,FR DISNEY+ HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182548.ts
+#EXTINF:-1,FR OCS MAX
+http://ky-iptv.com:80/Justin2023/Justin2023/182450.ts
+#EXTINF:-1,FR: RMC Sport 1 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/1345663.ts
+#EXTINF:-1,FR: RMC Sport 2 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/1345664.ts
+#EXTINF:-1,FR: RMC Sport 3 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/1345665.ts
+#EXTINF:-1,FR: AMAZON PRIME 8 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636094.ts
+#EXTINF:-1,FR: AMAZON PRIME 7 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636095.ts
+#EXTINF:-1,FR: AMAZON PRIME 6 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636096.ts
+#EXTINF:-1,FR: AMAZON PRIME 5 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636097.ts
+#EXTINF:-1,FR: AMAZON PRIME 4 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636098.ts
+#EXTINF:-1,FR: AMAZON PRIME 3 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636099.ts
+#EXTINF:-1,FR: AMAZON PRIME 2 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636100.ts
+#EXTINF:-1,FR: AMAZON PRIME 1 FHD (LIVE EVENTS ONLY)
+http://ky-iptv.com:80/Justin2023/Justin2023/1636101.ts
+#EXTINF:-1,FR CINE CLUB HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182434.ts
+#EXTINF:-1,FR CINE POLAR+ HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182441.ts
+#EXTINF:-1,FR: MULTISPORTS 1
+http://ky-iptv.com:80/Justin2023/Justin2023/1754195.ts
+#EXTINF:-1,FR: MULTISPORTS 2
+http://ky-iptv.com:80/Justin2023/Justin2023/1754196.ts
+#EXTINF:-1,FR: MULTISPORTS 3
+http://ky-iptv.com:80/Justin2023/Justin2023/1754197.ts
+#EXTINF:-1,FR: MULTISPORTS 4
+http://ky-iptv.com:80/Justin2023/Justin2023/1754198.ts
+#EXTINF:-1,FR: MULTISPORTS 5
+http://ky-iptv.com:80/Justin2023/Justin2023/1754199.ts
+#EXTINF:-1,FR: MULTISPORTS 6
+http://ky-iptv.com:80/Justin2023/Justin2023/1754200.ts
+#EXTINF:-1,FR FRANCE 4
+http://ky-iptv.com:80/Justin2023/Justin2023/182273.ts
+#EXTINF:-1,FR BFM HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182307.ts
+#EXTINF:-1,FR C NEWS FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/182309.ts
+#EXTINF:-1,FR EURONEWS HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182311.ts
+#EXTINF:-1,FR LCI HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182313.ts
+#EXTINF:-1,FR LCP HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182315.ts
+#EXTINF:-1,FR RMC Sport Live 15 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182395.ts
+#EXTINF:-1,FR RMC Sport Access 1 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182385.ts
+#EXTINF:-1,FR RMC Sport News HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182407.ts
+#EXTINF:-1,FR: La Chaine Meteo HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182010.ts
+#EXTINF:-1,FR: BRAVA Stingray Classics
+http://ky-iptv.com:80/Justin2023/Justin2023/182518.ts
+#EXTINF:-1,FR: Bein Sports 1 FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/1782980.ts
+#EXTINF:-1,FR: L Equipe FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/1791076.ts
+#EXTINF:-1,FR BFM Paris HD
+http://ky-iptv.com:80/Justin2023/Justin2023/1796580.ts
+#EXTINF:-1,FR: NOVELAS TV FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/1821178.ts
+#EXTINF:-1,FR: PLANETE+
+http://ky-iptv.com:80/Justin2023/Justin2023/1842921.ts
+#EXTINF:-1,FR KOMBAT SPORT HD
+http://ky-iptv.com:80/Justin2023/Justin2023/182383.ts
+#EXTINF:-1,FR RMC Sport Live 3
+http://ky-iptv.com:80/Justin2023/Justin2023/182399.ts
+#EXTINF:-1,FR: Canal+ HD
+http://ky-iptv.com:80/Justin2023/Justin2023/2062801.ts
+#EXTINF:-1,FR: CANAL+ Sport
+http://ky-iptv.com:80/Justin2023/Justin2023/2160269.ts
+#EXTINF:-1,FR: CANAL+ Sport 1
+http://ky-iptv.com:80/Justin2023/Justin2023/2160270.ts
+#EXTINF:-1,FR: CANAL+ Sport 3
+http://ky-iptv.com:80/Justin2023/Justin2023/2160271.ts
+#EXTINF:-1,FR: CANAL+ Sport 5
+http://ky-iptv.com:80/Justin2023/Justin2023/2160272.ts
+#EXTINF:-1,FR: CANAL DOCS FHD
+http://ky-iptv.com:80/Justin2023/Justin2023/2171564.ts
+#EXTINF:-1,FR: CANAL+ ELLES
+http://ky-iptv.com:80/Justin2023/Justin2023/2207516.ts
+#EXTINF:-1,FR CANAL+ Foot
+http://ky-iptv.com:80/Justin2023/Justin2023/182375.ts
+#EXTINF:-1,FR: CANAL+ SPORT 360 HD
+http://ky-iptv.com:80/Justin2023/Justin2023/2285534.ts
+#EXTINF:-1,FR: Mezzo Live
+http://ky-iptv.com:80/Justin2023/Justin2023/2295534.ts
+#EXTINF:-1,FR: Warner TV
+http://ky-iptv.com:80/Justin2023/Justin2023/2420975.ts
+#EXTINF:-1,FR: CANAL TOP 14
+http://ky-iptv.com:80/Justin2023/Justin2023/2662843.ts
