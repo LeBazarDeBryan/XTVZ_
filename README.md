@@ -61,5 +61,5 @@
 <h2>Question</h2>
 </div>
 
-<h3>C'est quoi <a href="IPTV/All.m3u">ALL</a>?</h3>
+<h3>C'est quoi <a href="IPTV/All.m3u">ALL</a> ?</h3>
 <p><a href="IPTV/All.m3u">ALL</a> est une playlist de toute (Voila d'ou vient le nom de la playlist) les chaînes gratuite et payante.</a></p>
