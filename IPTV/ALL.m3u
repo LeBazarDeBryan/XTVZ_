@@ -1,848 +1,285 @@
-#EXTINF:-1 tvg-id="" tvg-name="►►► FRANCE  ◄◄◄" tvg-logo="http://starsat123.com:8080/images/8a3b76f168c8a27273634ad1df29470c.png" group-title="|FR| FRANCE HD",►►► FRANCE  ◄◄◄
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/34769
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: TF1 HD" tvg-logo="http://iptv-tn.com:8080/images/eae78e001f68ca604b6a86f41152dfb6.png" group-title="|FR| FRANCE HD",FR: TF1 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/530
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="FR: TF1 +1" tvg-logo="http://iptv-tn.com:8080/images/eae78e001f68ca604b6a86f41152dfb6.png" group-title="|FR| FRANCE HD",FR: TF1 +1
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/34794
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="http://iptv-tn.com:8080/images/148a3105cbd632fa7afd467c0a71c604.png" group-title="|FR| FRANCE HD",FR: TF1 SERIES FILMS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/532
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 HD" tvg-logo="http://iptv-tn.com:8080/images/29d54194b550457163898d525d10c2fa.png" group-title="|FR| FRANCE HD",FR: M6 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/533
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="http://iptv-tn.com:8080/images/727999d580f3708378e3d903ddfa246d.png" group-title="|FR| FRANCE HD",FR: C8 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/540
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 HD" tvg-logo="http://iptv-tn.com:8080/images/68da5750c408c276e3bcd1df60096ddc.png" group-title="|FR| FRANCE HD",FR: W9 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/536
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX HD" tvg-logo="http://iptv-tn.com:8080/images/cfc736f9d56d2ff4f535f0f0e38e3037.png" group-title="|FR| FRANCE HD",FR: TFX HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3558
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER HD" tvg-logo="http://iptv-tn.com:8080/images/85502af8e2486ef966d57c805f171c84.png" group-title="|FR| FRANCE HD",FR: 6TER HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/545
-#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR: RTL9  HD" tvg-logo="http://iptv-tn.com:8080/images/9f09594706f0260bb0316ff55b5b1a60.png" group-title="|FR| FRANCE HD",FR: RTL9  HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/534
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2 HD" tvg-logo="http://iptv-tn.com:8080/images/102db0c2748cfddee2a4b453bad98ddb.png" group-title="|FR| FRANCE HD",FR: FRANCE 2 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/511
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3 HD" tvg-logo="http://iptv-tn.com:8080/images/d26f3b178b286e29817a99700b56048f.png" group-title="|FR| FRANCE HD",FR: FRANCE 3 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/512
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://iptv-tn.com:8080/images/53b592087de17599929f3451f2381a04.png" group-title="|FR| FRANCE HD",FR: FRANCE 4 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/513
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: France 5 HD" tvg-logo="http://iptv-tn.com:8080/images/0000ba56aeabdb60be7850f7631ec8c7.png" group-title="|FR| FRANCE HD",FR: France 5 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/514
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FR: FRANCE INFO " tvg-logo="http://iptv-tn.com:8080/images/1700002963a49da13542e0726b7bb758.png" group-title="|FR| FRANCE INFO",FR: FRANCE INFO 
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/516
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFM TV" tvg-logo="http://iptv-tn.com:8080/images/0b9f39b2c6bb23ba6d55401e851ada8c.png" group-title="|FR| FRANCE INFO",FR: BFM TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/579
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="FR: BFM PARIS ᴴᴰ" tvg-logo="http://iptv-tn.com:8080/images/be533e531303b68ce1cbd0837c0479d8.png" group-title="|FR| FRANCE INFO",FR: BFM PARIS ᴴᴰ
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/623
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS SD" tvg-logo="http://iptv-tn.com:8080/images/a53219c19e247284cfcec86b5f85d74a.png" group-title="|FR| FRANCE INFO",FR: BFM BUSINESS SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85073
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="FR: RT  FRANCE" tvg-logo="http://iptv-tn.com:8080/images/0eec27c419d0fe24e53c90338cdc8bc6.png" group-title="|FR| FRANCE INFO",FR: RT  FRANCE
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35991
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="FR: TVR (Bretagne) (720p)" tvg-logo="http://iptv-tn.com:8080/images/1a117b06803b616eadbb724593d56e7c.png" group-title="|FR| FRANCE HD",FR: TVR (Bretagne) (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35990
-#EXTINF:-1 tvg-id="TV5MONDE FR" tvg-name="FR: TV5 MONDE INFO" tvg-logo="http://iptv-tn.com:8080/images/f9e830e26b6f8b9af4a14580ad7e19c6.png" group-title="|FR| FRANCE INFO",FR: TV5 MONDE INFO
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/587
-#EXTINF:-1 tvg-id="tv3v.fr" tvg-name="FR: MDL" tvg-logo="http://starsat123.com:8080/images/f7be495a94b41c5b13069296eb59f159.png" group-title="|FR| FRANCE HD",FR: MDL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17757
-#EXTINF:-1 tvg-id="tv78.fr" tvg-name="FR: TV78" tvg-logo="http://starsat123.com:8080/images/48b408e532b8f3777775cac8baf01310.png" group-title="|FR| FRANCE HD",FR: TV78
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35994
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB1 ᴴᴰ" tvg-logo="http://iptv-tn.com:8080/images/1109867462b2f0f0470df8386036243c.png" group-title="|FR| FRANCE HD",FR: AB1 ᴴᴰ
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/561
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: ANIMAUX HD" tvg-logo="http://iptv-tn.com:8080/images/76c0323e99ebe06f51805c257981d468.png" group-title="|FR| FRANCE HD",FR: ANIMAUX HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/566
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: USHUAIA TV HD" tvg-logo="http://iptv-tn.com:8080/images/c52e5234714d28ccfd40e213f2142739.png" group-title="|FR| FRANCE HD",FR: USHUAIA TV HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/570
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: CHERIE 25 HD" tvg-logo="http://iptv-tn.com:8080/images/f3b1b3267cd69bdf64dda2c49f23ad54.png" group-title="|FR| FRANCE HD",FR: CHERIE 25 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/565
-#EXTINF:-1 tvg-id="France24English.fr" tvg-name="FR: FRANCE 24" tvg-logo="http://iptv-tn.com:8080/images/40b0165992c508339b5053c63ae02629.png" group-title="|FR| FRANCE INFO",FR: FRANCE 24
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/585
-#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR: 13EME Rue HD" tvg-logo="http://starsat123.com:8080/images/759c0925f199486b0d00f9411c852ed5.png" group-title="|FR| FRANCE HD",FR: 13EME Rue HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/535
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION HD" tvg-logo="http://iptv-tn.com:8080/images/e58a1b00942e66d8b4abc960da7877ab.png" group-title="|FR| FRANCE HD",FR: ACTION HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/537
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="FR: CANAL+ HD" tvg-logo="http://iptv-tn.com:8080/images/17d8d4c1bd9833793b45661ae01c8e9c.png" group-title="|FR| FRANCE HD",FR: CANAL+ HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/517
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR: CANAl+ CINEMA HD" tvg-logo="http://starsat123.com:8080/images/52f1e421e471993ad7ae9f8fe209ef76.png" group-title="|FR| FRANCE HD",FR: CANAl+ CINEMA HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/519
-#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-name="FR: CANAL+ KIDS HD" tvg-logo="http://starsat123.com:8080/images/2a5c034739cf2314bdbdd9c2418fd8b5.png" group-title="|FR| FRANCE HD",FR: CANAL+ KIDS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/520
-#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="http://iptv-tn.com:8080/images/37e6ca59e7f203a35590e51b25d9fe1c.png" group-title="|FR| FRANCE HD",FR: CANAL+ DECALE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/521
-#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="FR: CINE PREMIER HD" tvg-logo="http://iptv-tn.com:8080/images/8a261e8db6f859f4cfc1144336feac5d.png" group-title="|FR| FRANCE HD",FR: CINE PREMIER HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/523
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="FR: CINE FRISSON HD" tvg-logo="http://starsat123.com:8080/images/30cc5fd35d05db2a30dc175b57fc4a2a.png" group-title="|FR| FRANCE HD",FR: CINE FRISSON HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/524
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="FR: CINE FAMIZ HD" tvg-logo="http://starsat123.com:8080/images/f4d6f129e4c62e375e90b4434310c344.png" group-title="|FR| FRANCE HD",FR: CINE FAMIZ HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/525
-#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="FR: CINE Emotion HD" tvg-logo="http://starsat123.com:8080/images/4ada124c05cfc157b7d68f0ea8faff9b.png" group-title="|FR| FRANCE HD",FR: CINE Emotion HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/526
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="FR: CINE CLASSIC HD" tvg-logo="http://iptv-tn.com:8080/images/10096c34a06b01aec2ef939f95bf7d6a.png" group-title="|FR| FRANCE HD",FR: CINE CLASSIC HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/527
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="FR: MUSEUM" tvg-logo="http://iptv-tn.com:8080/images/cb1cafbaa742705f66c8d6fc125ccdb9.png" group-title="|FR| FRANCE HD",FR: MUSEUM
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/548
-#EXTINF:-1 tvg-id="Polar.fr" tvg-name="FR: POLAR +" tvg-logo="http://iptv-tn.com:8080/images/5900c04881b7d1d33cf4652ceb64330d.png" group-title="|FR| FRANCE HD",FR: POLAR +
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/528
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="FR: CGTN Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="|FR| FRANCE HD",FR: CGTN Français
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/36429
-#EXTINF:-1 tvg-id="" tvg-name="FR: Francophonie" tvg-logo="http://iptv-tn.com:8080/images/6d094c9e3ed52800cdc2d7421a41db26.png" group-title="|FR| FRANCE HD",FR: Francophonie
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/36430
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Midnite Secrets" tvg-logo="http://iptv-tn.com:8080/images/d3e0b797788542f766f1452466469184.png" group-title="|FR| FRANCE HD",FR: Fashion TV Midnite Secrets
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/36431
-#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="FR: TCM CINEMA HD" tvg-logo="http://iptv-tn.com:8080/images/f45606e067b49bbe0936131254bff8b0.png" group-title="|FR| FRANCE HD",FR: TCM CINEMA HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/543
-#EXTINF:-1 tvg-id="serieclub FR" tvg-name="FR: SERIE CLUB HD" tvg-logo="http://starsat123.com:8080/images/437dc7c96e181ae74c55197f62d12c27.png" group-title="|FR| FRANCE HD",FR: SERIE CLUB HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/544
-#EXTINF:-1 tvg-id="Teva FR" tvg-name="FR: TEVA HD" tvg-logo="http://iptv-tn.com:8080/images/3c9a2e4e3f2321971f8fdb8bf33dae35.png" group-title="|FR| FRANCE HD",FR: TEVA HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/546
-#EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="http://starsat123.com:8080/images/a0a112633c93d1a6da42d5b3c83f076b.png" group-title="|FR| FRANCE HD",FR: CRIME DISTRICT HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/547
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="http://iptv-tn.com:8080/images/23162a1cfeb8c2dbe7b9029b25532b93.png" group-title="|FR| FRANCE HD",FR: ARTE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/551
-#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="http://iptv-tn.com:8080/images/0f49c89d1e7298bb9930789c8ed59d48.png" group-title="|FR| FRANCE HD",FR: CHASSE ET PECHE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/552
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: NATIONAL GEO FR" tvg-logo="http://iptv-tn.com:8080/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="|FR| FRANCE HD",FR: NATIONAL GEO FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/553
-#EXTINF:-1 tvg-id="national.geographic.wild.fr" tvg-name="FR: NATIONAL GEO WILD FR" tvg-logo="http://starsat123.com:8080/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="|FR| FRANCE HD",FR: NATIONAL GEO WILD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/556
-#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="FR: SCIENCE ET VIE TV" tvg-logo="http://iptv-tn.com:8080/images/78aadb9b22ebdb98e58055463b7ce9bf.png" group-title="|FR| FRANCE HD",FR: SCIENCE ET VIE TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/557
-#EXTINF:-1 tvg-id="paramount.fr" tvg-name="FR: PARAMOUNT CH DECALE" tvg-logo="http://iptv-tn.com:8080/images/62e2fab4aef6babf25c9fbc8d03bd9a4.png" group-title="|FR| FRANCE HD",FR: PARAMOUNT CH DECALE
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/555
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: PARAMOUNT CHANNEL" tvg-logo="https://www7.0zz0.com/2021/08/15/06/726158240.png" group-title="|FR| FRANCE HD",FR: PARAMOUNT CHANNEL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/554
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: PARIS PREMIERE ᴴᴰ" tvg-logo="http://iptv-tn.com:8080/images/ae18e33c912b93ec602c6123769c21ab.png" group-title="|FR| FRANCE HD",FR: PARIS PREMIERE ᴴᴰ
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/559
-#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR: TV BREIZH ᴴᴰ" tvg-logo="http://starsat123.com:8080/images/f1dc817145dab0596892c1017565f0c9.jpg" group-title="|FR| FRANCE HD",FR: TV BREIZH ᴴᴰ
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/562
-#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="FR: COMEDIE+ HD" tvg-logo="http://iptv-tn.com:8080/images/382723efbfa455a3ae05f7fd11551552.png" group-title="|FR| FRANCE HD",FR: COMEDIE+ HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/563
-#EXTINF:-1 tvg-id="es1.fr" tvg-name="FR: TV78" tvg-logo="http://starsat123.com:8080/images/48b408e532b8f3777775cac8baf01310.png" group-title="|FR| FRANCE HD",FR: TV78
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/564
-#EXTINF:-1 tvg-id="" tvg-name="FR: NOTELE TV" tvg-logo="http://iptv-tn.com:8080/images/559c5d13d2535837e21bbc1d0232c639.png" group-title="|FR| FRANCE HD",FR: NOTELE TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/567
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="FR: ALSACE 20 HD" tvg-logo="http://iptv-tn.com:8080/images/14eb0725efcb664699b6d077649132c0.png" group-title="|FR| FRANCE HD",FR: ALSACE 20 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/568
-#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="FR: TOUTE L HISTOIRE HD" tvg-logo="http://iptv-tn.com:8080/images/ba09352bf096d85f102d3bb9f06a6992.png" group-title="|FR| FRANCE HD",FR: TOUTE L HISTOIRE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/569
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="FR: DISCOVERY HD" tvg-logo="http://iptv-tn.com:8080/images/e3d4370296451491db771140cd44ea6d.png" group-title="|FR| FRANCE HD",FR: DISCOVERY HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/571
-#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR: DISCOVERY SCIENCE-FR HD" tvg-logo="http://iptv-tn.com:8080/images/1a17a56f4aa63450618d57e84f620565.png" group-title="|FR| FRANCE HD",FR: DISCOVERY SCIENCE-FR HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/572
-#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="FR: Wildside TV (720p)" tvg-logo="http://iptv-tn.com:8080/images/313184f9255b1975cf077c2d1b1cb1db.jpg" group-title="|FR| FRANCE HD",FR: Wildside TV (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/574
-#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="FR: PLANETE AE HD" tvg-logo="http://starsat123.com:8080/images/266f9f2ddf8617ef083e53c963bc1dc5.png" group-title="|FR| FRANCE HD",FR: PLANETE AE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/575
-#EXTINF:-1 tvg-id="planete.plus.ci.fr" tvg-name="FR: PLANETE+ CI" tvg-logo="http://iptv-tn.com:8080/images/e4aa3f53ff9421a7f237e01ec0b44272.png" group-title="|FR| FRANCE HD",FR: PLANETE+ CI
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/576
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="FR: PLANETE+ HD" tvg-logo="http://starsat123.com:8080/images/15a94a0d4ebca21320991da15c66e71c.png" group-title="|FR| FRANCE HD",FR: PLANETE+ HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/577
-#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="FR: SEASON HD" tvg-logo="http://iptv-tn.com:8080/images/8ea4fc5437269d5ae6f73eb229a165c7.png" group-title="|FR| FRANCE HD",FR: SEASON HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/580
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="FR:  Alpe d’Huez TV" tvg-logo="http://starsat123.com:8080/images/1d0072a9b271d30ef436297ff49235af.png" group-title="|FR| FRANCE HD",FR:  Alpe d’Huez TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/586
-#EXTINF:-1 tvg-id="" tvg-name="FR: MY TV" tvg-logo="http://starsat123.com:8080/images/68a4bcb59ac9c72acfcb68c4be30550b.png" group-title="|FR| FRANCE HD",FR: MY TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/50500
-#EXTINF:-1 tvg-id="Auto Motor Sport BG" tvg-name="FR: AUTO MOTO ᴴᴰ" tvg-logo="http://starsat123.com:8080/images/60d40c90d305bfc0a16270df37b06e79.png" group-title="|FR| FRANCE HD",FR: AUTO MOTO ᴴᴰ
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/560
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 1 FR" tvg-logo="http://iptv-tn.com:8080/images/2c0a9a0e8a64f5ecb92b52c6900f7fa3.png" group-title="|FR| FRANCE HD",FR: CANAL PLAY 1 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/496
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 2 FR" tvg-logo="http://iptv-tn.com:8080/images/2c0a9a0e8a64f5ecb92b52c6900f7fa3.png" group-title="|FR| FRANCE HD",FR: CANAL PLAY 2 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/497
-#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 4 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="|FR| FRANCE HD",CANALPLAY 4 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/498
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 3 FR" tvg-logo="http://iptv-tn.com:8080/images/2c0a9a0e8a64f5ecb92b52c6900f7fa3.png" group-title="|FR| FRANCE HD",FR: CANALPLAY 3 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/499
-#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 5 FR" tvg-logo="http://iptv-tn.com:8080/images/2c0a9a0e8a64f5ecb92b52c6900f7fa3.png" group-title="|FR| FRANCE HD",CANALPLAY 5 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/500
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: CANALPLAY 9 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="|FR| FRANCE HD",FR: CANALPLAY 9 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/504
-#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 10 FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/1280px-Canalplay.svg.png" group-title="|FR| FRANCE HD",CANALPLAY 10 FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/505
-#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="FR: OCS GEANTS HD" tvg-logo="http://iptv-tn.com:8080/images/ce6d1a9cc35670dd52757de7591ab756.png" group-title="|FR| FRANCE HD",FR: OCS GEANTS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/588
-#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="FR: OCS CHOC HD" tvg-logo="http://starsat123.com:8080/images/9eda79a0b06c575db4eb822621fda477.png" group-title="|FR| FRANCE HD",FR: OCS CHOC HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/589
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="FR: OCS CITY HD" tvg-logo="http://starsat123.com:8080/images/5d2e6101b3ff57ff53445f4771b527c2.png" group-title="|FR| FRANCE HD",FR: OCS CITY HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/590
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="FR: OCS Max HD" tvg-logo="http://iptv-tn.com:8080/images/0961b1aea1c4216ef9f8d9c18f6233ca.png" group-title="|FR| FRANCE HD",FR: OCS Max HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/591
-#EXTINF:-1 tvg-id="" tvg-name="FR: JOCKER KIDS" tvg-logo="http://starsat123.com:8080/images/4cae93c1e615d3430d5d90576bc8a193.png" group-title=" |FR| FRANCE KIDS",FR: JOCKER KIDS
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/79328
-#EXTINF:-1 tvg-id="" tvg-name="FR: JOCKER MUSIC" tvg-logo="http://iptv-tn.com:8080/images/fc2e99bb7987e07c2ce34298ec6b086a.png" group-title="|FR| FRANCE MUSIC",FR: JOCKER MUSIC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/78519
-#EXTINF:-1 tvg-id="" tvg-name="FR: JOCKER RELAX" tvg-logo="http://starsat123.com:8080/images/8bbff0a5294b9ea936020e071e8117e1.png" group-title="|FR| FRANCE MUSIC",FR: JOCKER RELAX
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/79019
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC FHD" tvg-logo="http://iptv-tn.com:8080/images/cac5438ea28581c43d4ca419db44d7b9.png" group-title="|FR| FRANCE MUSIC",FR: M6 MUSIC FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/581
-#EXTINF:-1 tvg-id="ABXplore.fr" tvg-name="ABXPLORE FHD" tvg-logo="http://starsat123.com:8080/images/96af8e15893aa2f9a06bfd0810810f99.png" group-title="|FR| FRANCE HD",ABXPLORE FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35595
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR: GAME ONE HD" tvg-logo="http://iptv-tn.com:8080/images/f5d7d07995a37b5ec1fbc1f6157c75b9.png" group-title=" |FR| FRANCE KIDS",FR: GAME ONE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/609
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR: MANGA HD" tvg-logo="http://iptv-tn.com:8080/images/8cd7d19074d05cbc1577bafae3e47b23.png" group-title=" |FR| FRANCE KIDS",FR: MANGA HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/594
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: GULLI HD" tvg-logo="http://iptv-tn.com:8080/images/046c183f4f6e980aa3ca6d6105002fcb.png" group-title=" |FR| FRANCE KIDS",FR: GULLI HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/592
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="FR: CARTOON NETWORK HD" tvg-logo="http://iptv-tn.com:8080/images/9db589004ad365566847bdb623a8c2fe.png" group-title=" |FR| FRANCE KIDS",FR: CARTOON NETWORK HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/606
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR: DISNEY CHANNEL-FR " tvg-logo="http://starsat123.com:8080/images/41981c53bb8e17386acd314b047c43da.png" group-title=" |FR| FRANCE KIDS",FR: DISNEY CHANNEL-FR 
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/607
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="http://starsat123.com:8080/images/be7d420da504490a5f2ed6061691f4ea.png" group-title=" |FR| FRANCE KIDS",FR: DISNEY JUNIOR HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/599
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY XD HD" tvg-logo="http://starsat123.com:8080/images/5f5d81917ade5f3321183915f67bed96.png" group-title=" |FR| FRANCE KIDS",FR: DISNEY XD HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/602
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: NICKELODEON FR HD" tvg-logo="http://starsat123.com:8080/images/752426dbe1a539250d564270c20a27f2.png" group-title=" |FR| FRANCE KIDS",FR: NICKELODEON FR HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/593
-#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="http://iptv-tn.com:8080/images/dba033acd5cb495b674ae2e9bb01f2fc.png" group-title=" |FR| FRANCE KIDS",FR: NICKELODEON JUNIOR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/608
-#EXTINF:-1 tvg-id="NickelodeonTeen.fr" tvg-name="FR: NICKELODEON 4 TEEN FULL HD" tvg-logo="http://starsat123.com:8080/images/babac85d03f77e4961f35eb90ab397a7.png" group-title=" |FR| FRANCE KIDS",FR: NICKELODEON 4 TEEN FULL HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/595
-#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON +" tvg-logo="http://starsat123.com:8080/images/d0948ea6c7c2925b5cc8c82285e9a5a5.png" group-title=" |FR| FRANCE KIDS",FR: TELETOON +
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/597
-#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG HD" tvg-logo="http://starsat123.com:8080/images/2336665748d9da610df39ac9456e49c0.png" group-title=" |FR| FRANCE KIDS",FR: BOOMERANG HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/610
-#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI HD" tvg-logo="http://iptv-tn.com:8080/images/3b9f63d6ce710d70297a9bc5a1b0e247.png" group-title=" |FR| FRANCE KIDS",FR: PIWI HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/596
-#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI HD" tvg-logo="http://starsat123.com:8080/images/232e0b8cf0d28bc80aa685daf6e9c729.png" group-title=" |FR| FRANCE KIDS",FR: TIJI HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/598
-#EXTINF:-1 tvg-id="" tvg-name="FR: BOING HD" tvg-logo="http://iptv-tn.com:8080/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title=" |FR| FRANCE KIDS",FR: BOING HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/603
-#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE HD" tvg-logo="http://iptv-tn.com:8080/images/ea2889f76cfd2275f06e56321d931eb0.png" group-title=" |FR| FRANCE KIDS",FR: J-ONE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/604
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J FHD" tvg-logo="http://starsat123.com:8080/images/5ead726f27f6a23797dde593c7476a1c.png" group-title=" |FR| FRANCE KIDS",FR: CANAL J FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/522
-#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="FR: TOONAMI HD" tvg-logo="http://iptv-tn.com:8080/images/727aadd614211b3a1088812494834abc.png" group-title=" |FR| FRANCE KIDS",FR: TOONAMI HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/605
-#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="http://iptv-tn.com:8080/images/43bb252d829f3ea6fe15336d9f6bac2c.png" group-title="|FR| FRANCE HD",FR: RMC DECOUVERTE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3562
-#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="FR: RMC STORY HD" tvg-logo="http://starsat123.com:8080/images/927a7e1172f2c192ebf274ebf86e41b8.png" group-title="|FR| FRANCE HD",FR: RMC STORY HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3563
-#EXTINF:-1 tvg-id="weo.fr" tvg-name="FR WEO HD" tvg-logo="http://starsat123.com:8080/images/cfcd208495d565ef66e7dff9f98764da.png" group-title="|FR| FRANCE HD",FR WEO HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3576
-#EXTINF:-1 tvg-id="e.fr" tvg-name="FR:  E! ENTERTAINMENT HD" tvg-logo="http://starsat123.com:8080/images/de50ff5180ab978391c39044beb05dde.png" group-title="|FR| FRANCE HD",FR:  E! ENTERTAINMENT HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3577
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 1" tvg-logo="http://starsat123.com:8080/images/1c7d099ba7df250e344fe2fb6db55776.png" group-title="|FR| FRANCE HD",FR: Orange Cine 1
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/486
-#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 2" tvg-logo="http://iptv-tn.com:8080/images/1c7d099ba7df250e344fe2fb6db55776.png" group-title="|FR| FRANCE HD",Orange Cine 2
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/487
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 3" tvg-logo="http://iptv-tn.com:8080/images/1c7d099ba7df250e344fe2fb6db55776.png" group-title="|FR| FRANCE HD",FR: Orange Cine 3
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/26423
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 4" tvg-logo="http://iptv-tn.com:8080/images/1c7d099ba7df250e344fe2fb6db55776.png" group-title="|FR| FRANCE HD",FR: Orange Cine 4
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/489
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="FR: Orange Cine 5 ACTION HD" tvg-logo="http://starsat123.com:8080/images/1c7d099ba7df250e344fe2fb6db55776.png" group-title="|FR| FRANCE HD",FR: Orange Cine 5 ACTION HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/490
-#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="FR: Syfy HD" tvg-logo="http://iptv-tn.com:8080/images/8b2b4842e5fd3db22abc12dc94470381.png" group-title="|FR| FRANCE HD",FR: Syfy HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/538
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: C STAR HD" tvg-logo="http://iptv-tn.com:8080/images/c6a237bb909425988e0f1f4e0b75d0f4.png" group-title="|FR| FRANCE HD",FR: C STAR HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/539
-#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR: TREK HD" tvg-logo="http://starsat123.com:8080/images/d395771085aab05244a4fb8fd91bf4ee.png" group-title="|FR| FRANCE HD",FR: TREK HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/541
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX_HD" tvg-logo="http://iptv-tn.com:8080/images/cfc736f9d56d2ff4f535f0f0e38e3037.png" group-title="|FR| FRANCE HD",FR: TFX_HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/542
-#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR: TMC HD" tvg-logo="http://iptv-tn.com:8080/images/60813764ee71311b6ff5dc90b2eaab94.png" group-title="|FR| FRANCE HD",FR: TMC HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/549
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: AB3" tvg-logo="http://iptv-tn.com:8080/images/99a7dd8f21187921b3b62d328a98a10e.png" group-title="|FR| FRANCE HD",FR: AB3
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/550
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: C NEWS HD" tvg-logo="http://iptv-tn.com:8080/images/ef0d3930a7b6c95bd2b32ed45989c61f.png" group-title="|FR| FRANCE HD",FR: C NEWS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3557
-#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="FR: Investigation Discovery FHD" tvg-logo="http://iptv-tn.com:8080/images/c6bff625bdb0393992c9d4db0c6bbe45.png" group-title="|FR| FRANCE HD",FR: Investigation Discovery FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3578
-#EXTINF:-1 tvg-id="" tvg-name="FR: NAGO DBM TV" tvg-logo="http://starsat123.com:8080/images/4461e544185269c9b322cac9a14148c8.png" group-title="|FR| FRANCE MUSIC",FR: NAGO DBM TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/36428
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: LCP HD" tvg-logo="http://iptv-tn.com:8080/images/5936c61a9f71fdd7e0cfd388a4c37353.png" group-title="|FR| FRANCE INFO",FR: LCP HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/38096
-#EXTINF:-1 tvg-id="" tvg-name="FR: PUBLIC SENAT" tvg-logo="http://iptv-tn.com:8080/images/a6c0147546e1552177547e424ad2ae99.png" group-title="|FR| FRANCE INFO",FR: PUBLIC SENAT
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/42191
-#EXTINF:-1 tvg-id="" tvg-name="FR: Monaco Info" tvg-logo="http://starsat123.com:8080/images/7cc8613f8e41659f97352f05beda0044.png" group-title="|FR| FRANCE INFO",FR: Monaco Info
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/38098
-#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="FR: FR NRJ 12 HD" tvg-logo="http://starsat123.com:8080/images/5298b7c1ccf87246b1216c501c623cb2.jpg" group-title="|FR| FRANCE HD",FR: FR NRJ 12 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/558
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEST CABLE / TV BREEZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png" group-title="|FR| FRANCE MUSIC",FR: BEST CABLE / TV BREEZ HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/50454
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="http://starsat123.com:8080/images/18af953948772fb973d1b5dc39573983.png" group-title="|FR| FRANCE MUSIC",FR: MTV HITS
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/582
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HD" tvg-logo="http://starsat123.com:8080/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="|FR| FRANCE MUSIC",FR: MTV HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/583
-#EXTINF:-1 tvg-id="NRJ Hits FR" tvg-name="FR: NRJ HIT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/langfr-400px-NRJ_Hits_2017.svg.png" group-title="|FR| FRANCE MUSIC",FR: NRJ HIT
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/584
-#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="FR: NRJ 12 HD" tvg-logo="http://iptv-tn.com:8080/images/aa7c86e46f5966a39d752ef3117dbb4d.png" group-title="|FR| FRANCE MUSIC",FR: NRJ 12 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3559
-#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO HD" tvg-logo="http://iptv-tn.com:8080/images/1bacc6eca7f6638ac863deedd9c27728.png" group-title="|FR| FRANCE MUSIC",FR: MEZZO HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3560
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TOCA" tvg-logo="http://iptv-tn.com:8080/images/d1936b6c0d0edecae808fbdd581e5382.png" group-title="|FR| FRANCE MUSIC",FR: TRACE TOCA
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/18884
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AFRICA FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE AFRICA FRANCE
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/16910
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN DOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE URBAN DOM
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35612
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN INTER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE URBAN INTER
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35613
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE TROPICAL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35614
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE GOSPEL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35615
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE NAIJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE NAIJA
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35617
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE KITOKO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE KITOKO
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35618
-#EXTINF:-1 tvg-id="" tvg-name="FR: A2i Music" tvg-logo="http://starsat123.com:8080/images/9cb2995e30aabd07992e333694901f14.jpg" group-title="|FR| FRANCE MUSIC",FR: A2i Music
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35619
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE HIP HOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE HIP HOP
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35620
-#EXTINF:-1 tvg-id="" tvg-name="FR: DanceStar LOCAL MUSIC TV" tvg-logo="http://starsat123.com:8080/images/f719c1d3518e8478ae88a9b560bdce2a.png" group-title="|FR| FRANCE MUSIC",FR: DanceStar LOCAL MUSIC TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35621
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AFRICA ENGLAIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE AFRICA ENGLAIS
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35622
-#EXTINF:-1 tvg-id="" tvg-name="FR: AFROBEATS" tvg-logo="http://starsat123.com:8080/images/ebc4094a88e19dbfe24a0f747165dda8.png" group-title="|FR| FRANCE MUSIC",FR: AFROBEATS
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35623
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE VANILLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Trace_TV_Logo.svg/1308px-Trace_TV_Logo.svg.png" group-title="|FR| FRANCE MUSIC",FR: TRACE VANILLA
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35624
-#EXTINF:-1 tvg-id="" tvg-name="FR: Music Channel" tvg-logo="http://starsat123.com:8080/images/0a15ff17d6954c258e155a14dbe7f663.png" group-title="|FR| FRANCE MUSIC",FR: Music Channel
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35625
-#EXTINF:-1 tvg-id="" tvg-name="FR: GENERATIONS / P2M TV HD" tvg-logo="http://iptv-tn.com:8080/images/5eace96fe57a7703ac7ee26485528ef4.png" group-title="|FR| FRANCE MUSIC",FR: GENERATIONS / P2M TV HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35626
-#EXTINF:-1 tvg-id="comedie.fr" tvg-name="FR: PRESS TV FHD" tvg-logo="logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/512px-Press_Tv_logo.svg.png" group-title="|FR| FRANCE HD",FR: PRESS TV FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/16214
-#EXTINF:-1 tvg-id="I24News.fr" tvg-name="FR: i24 News FHD" tvg-logo="http://iptv-tn.com:8080/images/46a82157c0ae560579b6d4bac45f9015.png" group-title="|FR| FRANCE INFO",FR: i24 News FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/23199
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 1
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/478
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 2
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/479
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 3
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/480
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="http://starsat123.com:8080/images/9251a8343c8252e23739a689b8a7f8d6.png" group-title="|FR| A LA CARTE ",A LA CARTE 4
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/481
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="http://iptv-tn.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 5
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/482
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 6" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 6
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/483
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 7
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/484
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="http://starsat123.com:8080/images/9251a8343c8252e23739a689b8a7f8d6.png" group-title="|FR| A LA CARTE ",A LA CARTE 8
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/485
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 9" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 9
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17745
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 10" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 10
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17746
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 11" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 11
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17747
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 12" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 12
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17748
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 13" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 13
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17749
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 14" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 14
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17750
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 15" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 15
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17751
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 16" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 16
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17752
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 17" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 17
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17753
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 18" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 18
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17754
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 19" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 19
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17755
-#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 20" tvg-logo="http://starsat123.com:8080/images/b4a1698d38636a7ec82466b126404dd1.png" group-title="|FR| A LA CARTE ",A LA CARTE 20
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/17756
-#EXTINF:-1 tvg-id="" tvg-name="►►► FRANCE TNT ◄◄◄" tvg-logo="http://starsat123.com:8080/images/e165d4f2174b66a7d1a95cb204d296eb.png" group-title="|FR| FRANCE SD",►►► FRANCE TNT ◄◄◄
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35494
-#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR: TF1 SD" tvg-logo="http://iptv-tn.com:8080/images/62c2aaedfb32351b6cd4c64b7362000b.png" group-title="|FR| FRANCE SD",FR: TF1 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35461
-#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FR: FRANCE 2 SD" tvg-logo="http://iptv-tn.com:8080/images/102db0c2748cfddee2a4b453bad98ddb.png" group-title="|FR| FRANCE SD",FR: FRANCE 2 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35462
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FR: France 3 SD" tvg-logo="http://iptv-tn.com:8080/images/d26f3b178b286e29817a99700b56048f.png" group-title="|FR| FRANCE SD",FR: France 3 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35463
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR: France 4 SD" tvg-logo="http://iptv-tn.com:8080/images/53b592087de17599929f3451f2381a04.png" group-title="|FR| FRANCE SD",FR: France 4 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35464
-#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FR: France 5 SD" tvg-logo="http://iptv-tn.com:8080/images/d0063a643f266b1d2e33c3a0f01d579b.png" group-title="|FR| FRANCE SD",FR: France 5 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35465
-#EXTINF:-1 tvg-id="6ter FR" tvg-name="FR: 6ter SD" tvg-logo="http://iptv-tn.com:8080/images/791cff92cadb98c242f47f74a5972f18.png" group-title="|FR| FRANCE SD",FR: 6ter SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35467
-#EXTINF:-1 tvg-id="M6 FR" tvg-name="FR: M6 SD" tvg-logo="http://iptv-tn.com:8080/images/fc1df6307a9c4971569997963dcc8b08.png" group-title="|FR| FRANCE SD",FR: M6 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35468
-#EXTINF:-1 tvg-id="KTO.fr" tvg-name="FR: Francophonie24" tvg-logo="http://iptv-tn.com:8080/images/6d094c9e3ed52800cdc2d7421a41db26.png" group-title="|FR| FRANCE SD",FR: Francophonie24
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53703
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR: TF1 SERIES FILMS SD" tvg-logo="http://iptv-tn.com:8080/images/be36ef6d623f2bfe8fef0f0f4443fa62.png" group-title="|FR| FRANCE SD",FR: TF1 SERIES FILMS SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35469
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX SD" tvg-logo="http://iptv-tn.com:8080/images/cfc736f9d56d2ff4f535f0f0e38e3037.png" group-title="|FR| FRANCE SD",FR: TFX SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35470
-#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR: RTL 9 SD" tvg-logo="http://iptv-tn.com:8080/images/9f09594706f0260bb0316ff55b5b1a60.png" group-title="|FR| FRANCE SD",FR: RTL 9 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35471
-#EXTINF:-1 tvg-id="Teva FR" tvg-name="FR: TEVA " tvg-logo="http://iptv-tn.com:8080/images/0c76780bfddc69862717b555d51eee3c.png" group-title="|FR| FRANCE SD",FR: TEVA 
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35472
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC SD" tvg-logo="http://iptv-tn.com:8080/images/60813764ee71311b6ff5dc90b2eaab94.png" group-title="|FR| FRANCE SD",FR: TMC SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35473
-#EXTINF:-1 tvg-id="W9 FR" tvg-name="FR: W9 SD" tvg-logo="http://iptv-tn.com:8080/images/68da5750c408c276e3bcd1df60096ddc.png" group-title="|FR| FRANCE SD",FR: W9 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35474
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 SD" tvg-logo="http://iptv-tn.com:8080/images/727999d580f3708378e3d903ddfa246d.png" group-title="|FR| FRANCE SD",FR: C8 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35475
-#EXTINF:-1 tvg-id="Polar.fr" tvg-name="FR: POLAR + HD" tvg-logo="http://iptv-tn.com:8080/images/0306b4b00577ffeb67c1643e6df96a49.png" group-title="|FR| FRANCE SD",FR: POLAR + HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35476
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: Arte HD" tvg-logo="http://iptv-tn.com:8080/images/185b621863f2e1688f7a6285f0a4459a.png" group-title="|FR| FRANCE SD",FR: Arte HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35477
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="FR: CANAL+ CINEMA SD" tvg-logo="http://iptv-tn.com:8080/images/d0c9e34c07a489ff684361bf047a3a1d.png" group-title="|FR| FRANCE SD",FR: CANAL+ CINEMA SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35478
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: CANAL+ DECALE SD" tvg-logo="http://iptv-tn.com:8080/images/4863001cd0a5a2cbe57e926d11e072ee.png" group-title="|FR| FRANCE SD",FR: CANAL+ DECALE SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35479
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: CANAL+ KIDS SD" tvg-logo="http://iptv-tn.com:8080/images/678677d4a4d4fd32cd0d00b2ce366572.png" group-title="|FR| FRANCE SD",FR: CANAL+ KIDS SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35480
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES" tvg-logo="http://iptv-tn.com:8080/images/23c64c6fd2915489a67b63e6946f4357.png" group-title="|FR| FRANCE SD",FR: CANAL+ SERIES
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35481
-#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR: CHASSE ET PECHE SD" tvg-logo="http://starsat123.com:8080/images/0f49c89d1e7298bb9930789c8ed59d48.png" group-title="|FR| FRANCE SD",FR: CHASSE ET PECHE SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35482
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: CHERIE 25 SD" tvg-logo="http://iptv-tn.com:8080/images/12c0f66b851661262daa6f68901c19f4.png" group-title="|FR| FRANCE SD",FR: CHERIE 25 SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35483
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="FR: CINE+ CLASSIC" tvg-logo="http://iptv-tn.com:8080/images/84f9c22eb809697687568294eaf8f951.png" group-title="|FR| FRANCE SD",FR: CINE+ CLASSIC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35484
-#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR: CINE+ CLUB" tvg-logo="http://iptv-tn.com:8080/images/88fcfc7877d9e49ca11ebc2e1a6ee29a.png" group-title="|FR| FRANCE SD",FR: CINE+ CLUB
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35485
-#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="FR: CINE+ FAMIZ SD" tvg-logo="http://iptv-tn.com:8080/images/544da628b15a5483d2882f61a955abf1.png" group-title="|FR| FRANCE SD",FR: CINE+ FAMIZ SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35486
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="FR: CINE+ FRISSON SD" tvg-logo="http://starsat123.com:8080/images/30cc5fd35d05db2a30dc175b57fc4a2a.png" group-title="|FR| FRANCE SD",FR: CINE+ FRISSON SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35487
-#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="FR: CINE+ PREMIER SD" tvg-logo="http://starsat123.com:8080/images/8a261e8db6f859f4cfc1144336feac5d.png" group-title="|FR| FRANCE SD",FR: CINE+ PREMIER SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35488
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: CNEWS HD" tvg-logo="http://starsat123.com:8080/images/1b11c0da8b3fc2879cfe2309efdb99c4.png" group-title="|FR| FRANCE INFO",FR: CNEWS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35489
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: CSTAR SD" tvg-logo="http://iptv-tn.com:8080/images/c6a237bb909425988e0f1f4e0b75d0f4.png" group-title="|FR| FRANCE SD",FR: CSTAR SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35490
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: Discovery Science" tvg-logo="http://starsat123.com:8080/images/1a17a56f4aa63450618d57e84f620565.png" group-title="|FR| FRANCE SD",FR: Discovery Science
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35491
-#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="FR: E ENTERTAINMENT SD" tvg-logo="http://starsat123.com:8080/images/8a5422edbbd1d06cda9567be18d448ab.png" group-title="|FR| FRANCE SD",FR: E ENTERTAINMENT SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35492
-#EXTINF:-1 tvg-id="" tvg-name="FR: Francophonie SD" tvg-logo="http://iptv-tn.com:8080/images/48c8bc409869a26474ade4a356054b5a.png" group-title="|FR| FRANCE SD",FR: Francophonie SD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35903
-#EXTINF:-1 tvg-id="elle.girl.fr" tvg-name="FR: BBC Drama" tvg-logo="http://iptv-tn.com:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="|FR| FRANCE SD",FR: BBC Drama
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35493
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="http://iptv-tn.com:8080/images/fd1ad86f4a2eeefa9353a0b9f33b96f5.png" group-title="|FR| FRANCE SPORT",FR: RMC Sport 1 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/622
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="http://iptv-tn.com:8080/images/4fafc48bce5cd351866e9e64f8f4fe0a.png" group-title="|FR| FRANCE SPORT",FR: RMC Sport 2 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/639
-#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR: BEIN SPORT  1 HD FR" tvg-logo="http://iptv-tn.com:8080/images/07e1cd7dca89a1678042477183b7ac3f.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT  1 HD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/616
-#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR: BEIN SPORT  2 HD FR" tvg-logo="http://iptv-tn.com:8080/images/da4fb5c6e93e74d3df8527599fa62642.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT  2 HD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/617
-#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR: BEIN SPORT  3 HD FR" tvg-logo="http://starsat123.com:8080/images/7eabe3a1649ffa2b3ff8c02ebfd5659f.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT  3 HD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/618
-#EXTINF:-1 tvg-id="infosport.fr" tvg-name="FR: INFOSPORT HD" tvg-logo="http://iptv-tn.com:8080/images/6d6ae23411b564d49df3484943b11e6f.png" group-title="|FR| FRANCE SPORT",FR: INFOSPORT HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/612
-#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="FR: CANAL+ SPORTS HD" tvg-logo="http://iptv-tn.com:8080/images/72a11174331b2bd2a0b62160e63eef58.png" group-title="|FR| FRANCE SPORT",FR: CANAL+ SPORTS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/518
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ LIGUE 1 FHD" tvg-logo="http://starsat123.com:8080/images/59b655b94a54bd63824e2c50cc59f3ef.png" group-title="|FR| FRANCE SPORT",FR: CANAL+ LIGUE 1 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/41529
-#EXTINF:-1 tvg-id="lequipe.fr" tvg-name="FR: L Equipe 21" tvg-logo="http://starsat123.com:8080/images/08acc2238ef62c1ba12bdb126ef04f4d.png" group-title="|FR| FRANCE SPORT",FR: L Equipe 21
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3614
-#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="http://starsat123.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 4
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3565
-#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="http://starsat123.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 5
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3566
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="http://iptv-tn.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 6
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3567
-#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="http://starsat123.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 7
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3568
-#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="http://iptv-tn.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 8
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3569
-#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR: BEIN SPORT MAX 9" tvg-logo="http://iptv-tn.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 9
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3570
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FOOT HD" tvg-logo="http://iptv-tn.com:8080/images/6e3c332330375204351dbb1bee07b987.png" group-title="|FR| FRANCE SPORT",FR: CANAL+ FOOT HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53706
-#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR: RMC Sport 3 HD" tvg-logo="http://iptv-tn.com:8080/images/489955214202453f9981c129e2a0db42.png" group-title="|FR| FRANCE SPORT",FR: RMC Sport 3 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/619
-#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="http://iptv-tn.com:8080/images/bfff5896211c8dca5429b25df3a440a4.png" group-title="|FR| FRANCE SPORT",FR: RMC Sport 4 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/627
-#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR: RMC SPORT LIVE 5" tvg-logo="http://iptv-tn.com:8080/images/2ceb5310e6b630928c9ae4ec02ebb6d5.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 5
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/629
-#EXTINF:-1 tvg-id="rmc.sport.live.6.fr" tvg-name="FR: RMC SPORT LIVE 6" tvg-logo="http://iptv-tn.com:8080/images/b2908d877507fe937deaf223b45e1ae3.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 6
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/630
-#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR: RMC SPORT LIVE 7" tvg-logo="http://starsat123.com:8080/images/a519d442996e4ecb0721f073fe14d2aa.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 7
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/631
-#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR: RMC SPORT LIVE 8" tvg-logo="http://iptv-tn.com:8080/images/c07b2e568a091b06dd9ecb59a5f67fab.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 8
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/632
-#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR: RMC SPORT LIVE 9" tvg-logo="http://iptv-tn.com:8080/images/ab46332ce92fdc19ff73a915b3e91a8c.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 9
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/633
-#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR: RMC SPORT LIVE 10" tvg-logo="http://iptv-tn.com:8080/images/cd29bc0bfce0623b591625b1e4d211f6.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 10
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/634
-#EXTINF:-1 tvg-id="rmc.sport.live.11.fr" tvg-name="FR: RMC SPORT LIVE 11" tvg-logo="http://iptv-tn.com:8080/images/8fb21ee7a2207526da55a679f0332de2.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 11
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/635
-#EXTINF:-1 tvg-id="rmc.sport.live.12.fr" tvg-name="FR: RMC SPORT LIVE 12" tvg-logo="http://starsat123.com:8080/images/c930eecd01935feef55942cc445f708f.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 12
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/636
-#EXTINF:-1 tvg-id="rmc.sport.live.13.fr" tvg-name="FR: RMC SPORT LIVE 13" tvg-logo="http://iptv-tn.com:8080/images/e94f63f579e05cb49c05c2d050ead9c0.png" group-title="|FR| FRANCE SPORT",FR: RMC SPORT LIVE 13
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/637
-#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR: BEIN SPORT MAX 10" tvg-logo="http://starsat123.com:8080/images/01be956e97b0d1a8683021c3ad720deb.png" group-title="|FR| FRANCE SPORT",FR: BEIN SPORT MAX 10
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3571
-#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="http://starsat123.com:8080/images/1a9726d6655d77a85cf628c6ab1bef43.png" group-title="|FR| FRANCE SPORT",FR: EUROSPORT 1 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/620
-#EXTINF:-1 tvg-id="eurosp2.f.fr" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="http://starsat123.com:8080/images/502a9991fd28919c0dc649bf3b0c41d2.png" group-title="|FR| FRANCE SPORT",FR: EUROSPORT 2 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/621
-#EXTINF:-1 tvg-id="equidia.live.fr" tvg-name="FR: EQUIDIA LIVE  HD" tvg-logo="http://starsat123.com:8080/images/8bc63375b4f8e33337f8aa5fc26de6ed.png" group-title="|FR| FRANCE SPORT",FR: EQUIDIA LIVE  HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3556
-#EXTINF:-1 tvg-id="golf.plus.fr" tvg-name="FR: Golf HD" tvg-logo="picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/GOLF+.png" group-title="|FR| FRANCE SPORT",FR: Golf HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/614
-#EXTINF:-1 tvg-id="foot.plus.24.24.fr" tvg-name="FR: Foot+ 24/24 HD" tvg-logo="http://iptv-tn.com:8080/images/26231adcff7146b648c2700079a48e6c.png" group-title="|FR| FRANCE SPORT",FR: Foot+ 24/24 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/615
-#EXTINF:-1 tvg-id="automoto.la.chaine.fr" tvg-name="FR: AUTO MOTO LA CHAINE HD" tvg-logo="http://iptv-tn.com:8080/images/60d40c90d305bfc0a16270df37b06e79.png" group-title="|FR| FRANCE SPORT",FR: AUTO MOTO LA CHAINE HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/3608
-#EXTINF:-1 tvg-id="" tvg-name="FR: Motorvision TV" tvg-logo="http://starsat123.com:8080/images/bf3415b52fe0049707a8620276bb650f.png" group-title="|FR| FRANCE SPORT",FR: Motorvision TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53705
-#EXTINF:-1 tvg-id="" tvg-name="FR: BKNETFLIX 1 H265/HEVC" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 1 H265/HEVC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/24001
-#EXTINF:-1 tvg-id="" tvg-name="FR: BKNETFLIX 3 H265/HEVC" tvg-logo="http://iptv-tn.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 3 H265/HEVC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/24002
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 3 CRIME-DRAME HD FR" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX MOVIES 3 CRIME-DRAME HD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/24003
-#EXTINF:-1 tvg-id="" tvg-name="FR: BKNETFLIX 2 H265/HEVC" tvg-logo="http://iptv-tn.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 2 H265/HEVC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/24004
-#EXTINF:-1 tvg-id="" tvg-name="FR: BKNETFLIX 4 H265/HEVC" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 4 H265/HEVC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/24006
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 7 HD FR" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX MOVIES 7 HD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/24007
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 8 HD FR" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX MOVIES 8 HD FR
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/34410
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Play TV KIDS 1" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 1
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35566
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Play TV KIDS 2" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 2
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35567
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Play TV KIDS 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/616QXs8yg0L.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 3
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35568
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Play TV KIDS 4" tvg-logo="http://starsat123.com:8080/images/9cefa9a3e693d6003e39b5298e64e77b.png" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 4
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35569
-#EXTINF:-1 tvg-id="" tvg-name="MC: Rap" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Rap
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35579
-#EXTINF:-1 tvg-id="" tvg-name="MC: HIT LIST" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: HIT LIST
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35580
-#EXTINF:-1 tvg-id="" tvg-name="MC: Hip-Hop RnB" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Hip-Hop RnB
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35581
-#EXTINF:-1 tvg-id="" tvg-name="MC Todays Country" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC Todays Country
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35582
-#EXTINF:-1 tvg-id="" tvg-name="MC: Rap 2K" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Rap 2K
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35583
-#EXTINF:-1 tvg-id="" tvg-name="MC: RɛB/Soul" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: RɛB/Soul
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35584
-#EXTINF:-1 tvg-id="" tvg-name="MC: Dance EDM" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Dance EDM
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35585
-#EXTINF:-1 tvg-id="" tvg-name="MC: Musica Urbana" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Musica Urbana
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35586
-#EXTINF:-1 tvg-id="" tvg-name="MC: Indie" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Indie
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35587
-#EXTINF:-1 tvg-id="" tvg-name="MC: Kidz Only " tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Kidz Only 
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35588
-#EXTINF:-1 tvg-id="" tvg-name="MC: Mexicana" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Mexicana
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35589
-#EXTINF:-1 tvg-id="" tvg-name="MC: Pop ɛ Country" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Pop ɛ Country
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35590
-#EXTINF:-1 tvg-id="" tvg-name="MC: Pop Hits" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Pop Hits
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35591
-#EXTINF:-1 tvg-id="" tvg-name="MC: Tropicales" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Tropicales
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35592
-#EXTINF:-1 tvg-id="" tvg-name="MC: Y2K" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c5c78f092441b8ec31a847d/1572990045835-QYOIOODUDC02RCMBE8MI/ke17ZwdGBToddI8pDm48kMVuQqta9v-VsmS1Jw19CflZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5Mplo9yO8wzUs5VRTXsxcfrrL2tjRchK7DrddUE_cPW4BDxDhoY2AiP7KZ_ioVsU/Amazon-Music-Logo-1476279710-640x400+%282%29.png" group-title="|MC| MUSIC",MC: Y2K
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35593
-#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/OLTV_3e_logo.svg/1280px-OLTV_3e_logo.svg.png" group-title="|FR| FRANCE SPORT",FR: OL TV FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/38099
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FORMULE 1 FHD" tvg-logo="http://iptv-tn.com:8080/images/f02a49552d1b18be0663138d2166e595.png" group-title="|FR| FRANCE SPORT",FR: CANAL+ FORMULE 1 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/44324
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Dating (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Dating (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/42192
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Les Cordier (240p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Les Cordier (240p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47383
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Kids Collection (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Kids Collection (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47384
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Animaux" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Animaux
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/65944
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Kids Séries+ (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Kids Séries+ (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47387
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV La Chica Invisible (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV La Chica Invisible (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47388
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Les filles d'à côté (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Les filles d'à côté (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47390
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Les Nouveaux Detectives (480p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Les Nouveaux Detectives (480p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47391
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Live in Concert (720p) (Music)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Live in Concert (720p) (Music)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47392
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Louis La Brocante (480p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Louis La Brocante (480p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47393
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV MTV Catfish+ (720p) (Series)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV MTV Catfish+ (720p) (Series)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47394
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Plus Belle La Vie (480p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Plus Belle La Vie (480p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47395
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Plus Belle la Vie+ (720p) (Series)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Plus Belle la Vie+ (720p) (Series)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47396
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Romance (720p) (movies)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Romance (720p) (movies)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47397
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Sports (720p) " tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Sports (720p) 
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47399
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Telenovela (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Telenovela (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47400
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Tortues Ninja TV (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Tortues Ninja TV (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47401
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV TROL (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV TROL (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47403
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Yoga (720p) Sports" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Yoga (720p) Sports
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47404
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Inside (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Inside (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47405
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV iCarly+ (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV iCarly+ (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47406
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Drama+ (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Drama+ (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47408
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Extrême (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Extrême (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47409
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV FailArmy (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV FailArmy (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47410
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Gaming TV (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Gaming TV (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47411
-#EXTINF:-1 tvg-id="" tvg-name="FR: Pluto TV Hélène et les garçons (720p)" tvg-logo="http://starsat123.com:8080/images/448d91dd9297c712ef2479969fac7877.png" group-title="|FR| EXCLUSIF PLUTO TV",FR: Pluto TV Hélène et les garçons (720p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/47412
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Savoir (ca)" tvg-logo="http://iptv-tn.com:8080/images/461ec7c80074c76d583724492e9c3c0f.png" group-title="|FR| FRANCE HD",FR: Canal Savoir (ca)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53704
-#EXTINF:-1 tvg-id="" tvg-name="FR: SOFY TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="|FR| FRANCE HD",FR: SOFY TV
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53707
-#EXTINF:-1 tvg-id="" tvg-name="FR: viàVosges " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Viavosges.png/1200px-Viavosges.png" group-title="|FR| FRANCE SD",FR: viàVosges 
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53708
-#EXTINF:-1 tvg-id="" tvg-name="FR: Vision 4 (360p)" tvg-logo="http://iptv-tn.com:8080/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="|FR| FRANCE HD",FR: Vision 4 (360p)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/53709
-#EXTINF:-1 tvg-id="" tvg-name="FR viàMATÉLÉ" tvg-logo="http://starsat123.com:8080/images/426a03b98f59bbb6c6c6d8f22f6b9072.png" group-title="|FR| FRANCE HD",FR viàMATÉLÉ
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35912
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal 9 (Sierre - Valais) FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Canal_9_%28Logo_2003_-_2%29.png" group-title="|FR| FRANCE FULL HD ",FR: Canal 9 (Sierre - Valais) FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85014
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG ULTRAS" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG ULTRAS
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85914
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG O VILLE LUMIERE 50 ANS DE LEG" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG O VILLE LUMIERE 50 ANS DE LEG
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85915
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG TV MATCHS COMPLETS 24/24" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG TV MATCHS COMPLETS 24/24
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85916
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG TV RÉSUMÉS 24/24" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG TV RÉSUMÉS 24/24
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85917
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG TV RÉACTIONS 24/24" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG TV RÉACTIONS 24/24
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85918
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG TV INTERVIEWS 24/24" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG TV INTERVIEWS 24/24
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85919
-#EXTINF:-1 tvg-id="" tvg-name="FR: PSG TV (ONLY EVENT)" tvg-logo="http://iptv-tn.com:8080/images/d59951948f0766c3c458b645d3f961b7.png" group-title="|FR| FRANCE SPORT",FR: PSG TV (ONLY EVENT)
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/85920
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR TF1 FULL" tvg-logo="http://iptv-tn.com:8080/images/5c3a37a610aa779333de091ff49188e8.png" group-title="|FR| FRANCE FULL HD ",FR TF1 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35856
-#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR TF1+1 FULL" tvg-logo="http://iptv-tn.com:8080/images/5c3a37a610aa779333de091ff49188e8.png" group-title="|FR| FRANCE FULL HD ",FR TF1+1 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35857
-#EXTINF:-1 tvg-id="" tvg-name="FR M6 FULL" tvg-logo="http://iptv-tn.com:8080/images/d6d0be75dcf0f2768f3dc65b2ca761de.png" group-title="|FR| FRANCE FULL HD ",FR M6 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35858
-#EXTINF:-1 tvg-id="france.2.fr" tvg-name="FR France 2 FULL" tvg-logo="http://iptv-tn.com:8080/images/32aa63151971e94a7b83eb4015014f41.png" group-title="|FR| FRANCE FULL HD ",FR France 2 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35859
-#EXTINF:-1 tvg-id="" tvg-name="FR France 3 FULL" tvg-logo="http://iptv-tn.com:8080/images/d484013db9e22f215d070ce3c7b2e80a.png" group-title="|FR| FRANCE FULL HD ",FR France 3 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35860
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR France 4 FULL" tvg-logo="http://iptv-tn.com:8080/images/9d03ac7f3f0c4402b5c6a9c45eb8a557.png" group-title="|FR| FRANCE FULL HD ",FR France 4 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35861
-#EXTINF:-1 tvg-id="france.5.fr" tvg-name="FR FRANCE 5 FULL" tvg-logo="http://starsat123.com:8080/images/ea452a4927bf4ac1f85d9f9948d39b1a.png" group-title="|FR| FRANCE FULL HD ",FR FRANCE 5 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35862
-#EXTINF:-1 tvg-id="" tvg-name="FR FRANCE INFO FULL" tvg-logo="http://starsat123.com:8080/images/a0ccf0902ce8dbaa3f3cb69561a27601.png" group-title="|FR| FRANCE FULL HD ",FR FRANCE INFO FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35863
-#EXTINF:-1 tvg-id="tf1.serie.films.fr" tvg-name="FR TF1 SERIES FILMS FULL" tvg-logo="http://iptv-tn.com:8080/images/7238b3ebb73b42aa356297cbc96443f8.png" group-title="|FR| FRANCE FULL HD ",FR TF1 SERIES FILMS FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35864
-#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR W9 FULL" tvg-logo="http://iptv-tn.com:8080/images/bc6be487023833d6cf5d7ee771df052d.png" group-title="|FR| FRANCE FULL HD ",FR W9 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35865
-#EXTINF:-1 tvg-id="" tvg-name="FR 13eme Rue FULL" tvg-logo="http://starsat123.com:8080/images/ff4662ca558078b321ae34dfbec1504b.png" group-title="|FR| FRANCE FULL HD ",FR 13eme Rue FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35866
-#EXTINF:-1 tvg-id="rtl.9.fr" tvg-name="FR RTL9 FULL" tvg-logo="http://iptv-tn.com:8080/images/dc27ffe55a7c7c73c26d82db119b4640.png" group-title="|FR| FRANCE FULL HD ",FR RTL9 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35867
-#EXTINF:-1 tvg-id="" tvg-name="FR TEVA FULL" tvg-logo="http://iptv-tn.com:8080/images/ff468c96f85d25d27746e9b7c037eb39.png" group-title="|FR| FRANCE FULL HD ",FR TEVA FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35868
-#EXTINF:-1 tvg-id="action.fr" tvg-name="FR Action FULL" tvg-logo="http://starsat123.com:8080/images/e1a4dbdcf3a44b79eb3fc81a4158563a.png" group-title="|FR| FRANCE FULL HD ",FR Action FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35870
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR 6ter FULL" tvg-logo="http://starsat123.com:8080/images/f33b3d72d86f107e2b3079616f8fb3f2.png" group-title="|FR| FRANCE FULL HD ",FR 6ter FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35871
-#EXTINF:-1 tvg-id="" tvg-name="FR C8 FULL" tvg-logo="http://iptv-tn.com:8080/images/b350eef971b245cb707fa748046542e8.png" group-title="|FR| FRANCE FULL HD ",FR C8 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35872
-#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR TFX FULL" tvg-logo="http://starsat123.com:8080/images/7321f5ac75310340ee18f4967bb927f9.png" group-title="|FR| FRANCE FULL HD ",FR TFX FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35873
-#EXTINF:-1 tvg-id="" tvg-name="FR CSTAR HITS HD" tvg-logo="http://starsat123.com:8080/images/536fb20d4b923da469f0d07b75ce9ca7.jpg" group-title="|FR| FRANCE FULL HD ",FR CSTAR HITS HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35874
-#EXTINF:-1 tvg-id="" tvg-name="FR PARIS PREMIERE FULL" tvg-logo="http://starsat123.com:8080/images/a33a794ce89ca39f46900ad4005d5b2b.png" group-title="|FR| FRANCE FULL HD ",FR PARIS PREMIERE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35875
-#EXTINF:-1 tvg-id="canal.plus.fr" tvg-name="FR CANAL+ FULL" tvg-logo="http://starsat123.com:8080/images/6898dcefbda079a4ce512ba00b654077.png" group-title="|FR| FRANCE FULL HD ",FR CANAL+ FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35876
-#EXTINF:-1 tvg-id="canal.plus.sport.fr" tvg-name="FR Canal+ Sports FULL" tvg-logo="http://tpvod.be:8080/images/4759cfeab5abf9bf5cc1d4b3b3b5b08e.png" group-title="|FR| FRANCE FULL HD ",FR Canal+ Sports FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35877
-#EXTINF:-1 tvg-id="canal.plus.cinema.fr" tvg-name="FR CANAL+ CINEMA FULL" tvg-logo="http://starsat123.com:8080/images/5fa34cfe8c602505502ede5dafcf0fbc.png" group-title="|FR| FRANCE FULL HD ",FR CANAL+ CINEMA FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35878
-#EXTINF:-1 tvg-id="" tvg-name="FR CANAL+ DECALE FULL" tvg-logo="http://starsat123.com:8080/images/79cf04f3bc99d5ef7815fa0a04b5861c.png" group-title="|FR| FRANCE FULL HD ",FR CANAL+ DECALE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35879
-#EXTINF:-1 tvg-id="" tvg-name="FR Canal+ KIDS FULL" tvg-logo="http://starsat123.com:8080/images/b70d4f5363f52965d50c033af920483e.png" group-title="|FR| FRANCE FULL HD ",FR Canal+ KIDS FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35880
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ NOW FHD" tvg-logo="http://iptv-tn.com:8080/images/80dfaa2805818d65e8a49340af705dbb.png" group-title="|FR| FRANCE FULL HD ",FR: CANAL+ NOW FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/80291
-#EXTINF:-1 tvg-id="canal.plus.serie.fr" tvg-name="FR CANAL+ SERIES FULL" tvg-logo="http://starsat123.com:8080/images/a590f6d3423267abe172fcf6038aa815.png" group-title="|FR| FRANCE FULL HD ",FR CANAL+ SERIES FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35881
-#EXTINF:-1 tvg-id="" tvg-name="FR Cine Premier FULL" tvg-logo="http://starsat123.com:8080/images/0bb5b8d0f1339213c4195aa420b69ea2.png" group-title="|FR| FRANCE FULL HD ",FR Cine Premier FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35882
-#EXTINF:-1 tvg-id="" tvg-name="FR Cine POLAR FULL" tvg-logo="http://iptv-tn.com:8080/images/91e9a3bfedd879c05cd7773cd672a029.png" group-title="|FR| FRANCE FULL HD ",FR Cine POLAR FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35883
-#EXTINF:-1 tvg-id="" tvg-name="Fr Cine Frisson FULL" tvg-logo="http://starsat123.com:8080/images/95380f5089cdcd54e850d8d0700ad975.png" group-title="|FR| FRANCE FULL HD ",Fr Cine Frisson FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35884
-#EXTINF:-1 tvg-id="cine.plus.famiz.fr" tvg-name="FR Cine Famiz FULL" tvg-logo="http://iptv-tn.com:8080/images/b93e53bc127a37920072c7777fc751c0.png" group-title="|FR| FRANCE FULL HD ",FR Cine Famiz FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35885
-#EXTINF:-1 tvg-id="" tvg-name="FR Cine Emotion FULL" tvg-logo="http://starsat123.com:8080/images/dd6f3d72ce72ad88d068491eda041160.png" group-title="|FR| FRANCE FULL HD ",FR Cine Emotion FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35886
-#EXTINF:-1 tvg-id="" tvg-name="FR Cine Club FULL" tvg-logo="http://starsat123.com:8080/images/08b4c00965d0a582b6001c546f9a0d5a.png" group-title="|FR| FRANCE FULL HD ",FR Cine Club FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35887
-#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="FR Cine Classic FULL" tvg-logo="http://starsat123.com:8080/images/33bbe740b2d52f52f1aaf8b0dcbbf2e2.png" group-title="|FR| FRANCE FULL HD ",FR Cine Classic FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35888
-#EXTINF:-1 tvg-id="" tvg-name="FR SERIE CLUB FULL" tvg-logo="http://iptv-tn.com:8080/images/485282795e21a8b84769b8797dca3f80.png" group-title="|FR| FRANCE FULL HD ",FR SERIE CLUB FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35889
-#EXTINF:-1 tvg-id="" tvg-name="FR OCS Max FULL" tvg-logo="https://code-gsm.com/logo/OCSMAXFHD.png" group-title="|FR| FRANCE FULL HD ",FR OCS Max FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35890
-#EXTINF:-1 tvg-id="" tvg-name="FR OCS GEANT FULL" tvg-logo="http://iptv-tn.com:8080/images/e666b518955f8fa0769b818c5e26b056.png" group-title="|FR| FRANCE FULL HD ",FR OCS GEANT FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35891
-#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="FR OCS City FULL" tvg-logo="http://starsat123.com:8080/images/7cf9b11660981d424c0142588cd8478f.png" group-title="|FR| FRANCE FULL HD ",FR OCS City FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35892
-#EXTINF:-1 tvg-id="" tvg-name="FR OCS CHOC FULL" tvg-logo="http://starsat123.com:8080/images/5c8056f61b538292bb014fff58194c8a.png" group-title="|FR| FRANCE FULL HD ",FR OCS CHOC FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35893
-#EXTINF:-1 tvg-id="" tvg-name="FR PARAMOUNT CHANNEL FULL" tvg-logo="http://starsat123.com:8080/images/9ff5e5b143b8990f2ffee2877d9b4eaf.png" group-title="|FR| FRANCE FULL HD ",FR PARAMOUNT CHANNEL FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35894
-#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="FR ALTICE STUDIO FULL" tvg-logo="http://iptv-tn.com:8080/images/27b7512e2ea99bac12ee40df36d3d48f.png" group-title="|FR| FRANCE FULL HD ",FR ALTICE STUDIO FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35895
-#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="FR TCM Cinema FULL" tvg-logo="http://iptv-tn.com:8080/images/91b618061f9198b99c9f79dc231344e1.png" group-title="|FR| FRANCE FULL HD ",FR TCM Cinema FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35896
-#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR TMC FULL" tvg-logo="http://iptv-tn.com:8080/images/d5d6837487526c04390184cb46529229.png" group-title="|FR| FRANCE FULL HD ",FR TMC FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35897
-#EXTINF:-1 tvg-id="comedie.plus.fr" tvg-name="FR Comedie Central FULL" tvg-logo="http://starsat123.com:8080/images/f54aea0261723067fce9e48c2353b3fa.png" group-title="|FR| FRANCE FULL HD ",FR Comedie Central FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35898
-#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="FR TVBREIZH FULL" tvg-logo="http://iptv-tn.com:8080/images/831173a6d462f3a8a12bc9d2f39a542f.png" group-title="|FR| FRANCE FULL HD ",FR TVBREIZH FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35899
-#EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR AB1 FULL" tvg-logo="http://starsat123.com:8080/images/c2e16cb63f7fd5d8d15cf2f4d51c7cf6.png" group-title="|FR| FRANCE FULL HD ",FR AB1 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35900
-#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="FR RMC Story FULL" tvg-logo="http://iptv-tn.com:8080/images/232924a6973aaae4397264d5084a90d8.png" group-title="|FR| FRANCE FULL HD ",FR RMC Story FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35902
-#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR BFM TV FULL" tvg-logo="http://iptv-tn.com:8080/images/0b9f39b2c6bb23ba6d55401e851ada8c.png" group-title="|FR| FRANCE FULL HD ",FR BFM TV FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35904
-#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR C NEWS FULL" tvg-logo="http://starsat123.com:8080/images/9b21f272284757f3b540f94a8a37445c.png" group-title="|FR| FRANCE FULL HD ",FR C NEWS FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35905
-#EXTINF:-1 tvg-id="tv5.monde.fr" tvg-name="FR TV5 MONDE FULL" tvg-logo="http://iptv-tn.com:8080/images/381376ea584ad2ed18bfbd2faf30d0cc.png" group-title="|FR| FRANCE FULL HD ",FR TV5 MONDE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35906
-#EXTINF:-1 tvg-id="lci.fr" tvg-name="FR LCI FULL" tvg-logo="http://starsat123.com:8080/images/bf9289e4369db30acb570d7781961f7e.png" group-title="|FR| FRANCE FULL HD ",FR LCI FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35907
-#EXTINF:-1 tvg-id="lcp.fr" tvg-name="FR LCP PUBLIC SÉNAT FULL" tvg-logo="http://starsat123.com:8080/images/2e6b80c20899305830fc86718bb8c4fa.png" group-title="|FR| FRANCE FULL HD ",FR LCP PUBLIC SÉNAT FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35908
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR Arte FULL" tvg-logo="http://starsat123.com:8080/images/ca15357a3bce844b0a177308faba7f3e.png" group-title="|FR| FRANCE FULL HD ",FR Arte FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35909
-#EXTINF:-1 tvg-id="" tvg-name="FR _MUSEUM EAST  FULL" tvg-logo="http://starsat123.com:8080/images/4e8933b296b778a39c7f401acedd82d3.png" group-title="|FR| FRANCE FULL HD ",FR _MUSEUM EAST  FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35910
-#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name="FR Cherie 25 FULL" tvg-logo="http://starsat123.com:8080/images/ae399cbb623ee5327b85ab37676c07bd.png" group-title="|FR| FRANCE FULL HD ",FR Cherie 25 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35911
-#EXTINF:-1 tvg-id="novelas.fr" tvg-name="FR NOVELAS TV FULL" tvg-logo="http://starsat123.com:8080/images/f334c0944bf091c580500502e375812f.png" group-title="|FR| FRANCE FULL HD ",FR NOVELAS TV FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35913
-#EXTINF:-1 tvg-id="" tvg-name="FR Boomerang FULL" tvg-logo="http://starsat123.com:8080/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="|FR| FRANCE FULL HD ",FR Boomerang FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35915
-#EXTINF:-1 tvg-id="cartoon.n.fr" tvg-name="FR Cartoon Network FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR Cartoon Network FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35916
-#EXTINF:-1 tvg-id="" tvg-name="FR NICKELODEON FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR NICKELODEON FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35917
-#EXTINF:-1 tvg-id="" tvg-name="FR NICKELODEON +1 FULL" tvg-logo="http://starsat123.com:8080/images/506bcd33c3b4cabdbedb5d18f53402ee.png" group-title="|FR| FRANCE FULL HD ",FR NICKELODEON +1 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35918
-#EXTINF:-1 tvg-id="" tvg-name="FR Nickelodeon Junior FULL" tvg-logo="http://starsat123.com:8080/images/d9a2f0f5722fda7805a2d1817f0e138b.png" group-title="|FR| FRANCE FULL HD ",FR Nickelodeon Junior FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35919
-#EXTINF:-1 tvg-id="gulli.fr" tvg-name="FR Gulli FULL" tvg-logo="http://iptv-tn.com:8080/images/149a36269e2f819444ed63dbc615f1ee.png" group-title="|FR| FRANCE FULL HD ",FR Gulli FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35920
-#EXTINF:-1 tvg-id="" tvg-name="FR TELETOON FULL" tvg-logo="http://starsat123.com:8080/images/f9bf9db3cac7fa00e1a89c66b15b7c06.png" group-title="|FR| FRANCE FULL HD ",FR TELETOON FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35921
-#EXTINF:-1 tvg-id="disney.plus.fr" tvg-name="FR Disney + FULL" tvg-logo="http://starsat123.com:8080/images/8b9fa55fc3b583d0ebbd4e88ac056a4c.png" group-title="|FR| FRANCE FULL HD ",FR Disney + FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35922
-#EXTINF:-1 tvg-id="disney.fr" tvg-name="FR Disney Channel FULL" tvg-logo="http://starsat123.com:8080/images/501593b514a813a8313c029e6eaeffbe.png" group-title="|FR| FRANCE FULL HD ",FR Disney Channel FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35923
-#EXTINF:-1 tvg-id="" tvg-name="FR DISNEY JUNIOR FULL" tvg-logo="http://starsat123.com:8080/images/3470c08415c1a8a5709e862075466e9e.png" group-title="|FR| FRANCE FULL HD ",FR DISNEY JUNIOR FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35924
-#EXTINF:-1 tvg-id="" tvg-name="FR Disney XD FULL" tvg-logo="http://iptv-tn.com:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="|FR| FRANCE FULL HD ",FR Disney XD FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35925
-#EXTINF:-1 tvg-id="" tvg-name="FR Manga FULL" tvg-logo="http://starsat123.com:8080/images/de0c16d42734a40e238fa9e0571f2d07.png" group-title="|FR| FRANCE FULL HD ",FR Manga FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35926
-#EXTINF:-1 tvg-id="piwi.plus.fr" tvg-name="FR Piwi FULL" tvg-logo="http://starsat123.com:8080/images/737fb263cb0a32966b495181c666842a.png" group-title="|FR| FRANCE FULL HD ",FR Piwi FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35927
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR TIJI FULL" tvg-logo="http://starsat123.com:8080/images/68c96c713560685b41bb36e20d20cfc9.png" group-title="|FR| FRANCE FULL HD ",FR TIJI FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35928
-#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR Boing FULL" tvg-logo="http://starsat123.com:8080/images/c36d748b11694d23ae7ccce14f4286dc.png" group-title="|FR| FRANCE FULL HD ",FR Boing FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35929
-#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="FR CANAL J FULL" tvg-logo="http://starsat123.com:8080/images/9b2af52aa22195cbb6819717e70b3fb2.png" group-title="|FR| FRANCE FULL HD ",FR CANAL J FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35930
-#EXTINF:-1 tvg-id="toonami.fr" tvg-name="FR TOONAMI FULL" tvg-logo="http://starsat123.com:8080/images/b94a3b6c477493819764c40208886e87.png" group-title="|FR| FRANCE FULL HD ",FR TOONAMI FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35931
-#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR TREK FULL" tvg-logo="http://starsat123.com:8080/images/627ef557b6168b81a4e471073094cf4c.png" group-title="|FR| FRANCE FULL HD ",FR TREK FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35932
-#EXTINF:-1 tvg-id="" tvg-name="FR ANIMAUX FULL" tvg-logo="http://starsat123.com:8080/images/47d9dfd2a1f0072ca1b2f49bfa5b25de.png" group-title="|FR| FRANCE FULL HD ",FR ANIMAUX FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35933
-#EXTINF:-1 tvg-id="seasons.plus.fr" tvg-name="FR SEASON FULL" tvg-logo="http://starsat123.com:8080/images/37fa43e7ab3c3f9747870e5c2f406e68.png" group-title="|FR| FRANCE FULL HD ",FR SEASON FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35935
-#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name="FR Ushuaia TV FULL" tvg-logo="http://starsat123.com:8080/images/cd16e6ccd9130711cc7bf726a697829d.png" group-title="|FR| FRANCE FULL HD ",FR Ushuaia TV FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35936
-#EXTINF:-1 tvg-id="" tvg-name="FR TOUTE L HISTOIRE" tvg-logo="http://starsat123.com:8080/images/32844c1cced35f6eaa839f3d911aea68.png" group-title="|FR| FRANCE FULL HD ",FR TOUTE L HISTOIRE
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35937
-#EXTINF:-1 tvg-id="national.geographic.wild.fr" tvg-name="FR NATIONAL GEO WILD FULL" tvg-logo="http://starsat123.com:8080/images/60f0afabc7117a60713fd785365e97b3.png" group-title="|FR| FRANCE FULL HD ",FR NATIONAL GEO WILD FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35938
-#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="FR NATIONAL GEO FULL" tvg-logo="http://starsat123.com:8080/images/dd2ae20df04542b8e0d2fe888d57fa58.png" group-title="|FR| FRANCE FULL HD ",FR NATIONAL GEO FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35939
-#EXTINF:-1 tvg-id="" tvg-name="FR Science et Vie FULL" tvg-logo="http://starsat123.com:8080/images/c7945c04a8d27c3d2d0a19de616242fb.png" group-title="|FR| FRANCE FULL HD ",FR Science et Vie FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35941
-#EXTINF:-1 tvg-id="discovery.family.fr" tvg-name="FR DISCOVERY FAMILY FULL" tvg-logo="http://starsat123.com:8080/images/66ca288adb8569ec49137f4d969a737f.png" group-title="|FR| FRANCE FULL HD ",FR DISCOVERY FAMILY FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35943
-#EXTINF:-1 tvg-id="planete.plus.fr" tvg-name="FR Planete + FULL" tvg-logo="http://starsat123.com:8080/images/9cb86e25b8c065fa9bd86a7bc951d14c.png" group-title="|FR| FRANCE FULL HD ",FR Planete + FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35944
-#EXTINF:-1 tvg-id="" tvg-name="FR PLANETE+ CI FULL" tvg-logo="http://starsat123.com:8080/images/65ae7420e70650ffd33ef3b30c90ec6c.png" group-title="|FR| FRANCE FULL HD ",FR PLANETE+ CI FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35945
-#EXTINF:-1 tvg-id="" tvg-name="FR PLANETE + AE FULL" tvg-logo="http://starsat123.com:8080/images/b5837550279db3051dbf88114872e4dd.jpeg" group-title="|FR| FRANCE FULL HD ",FR PLANETE + AE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35946
-#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="FR RMC Decouvert FULL" tvg-logo="http://starsat123.com:8080/images/a9a18814fc429874e0cf4b62df1f29e3.png" group-title="|FR| FRANCE FULL HD ",FR RMC Decouvert FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35947
-#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="FR NRJ 12 FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR NRJ 12 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35948
-#EXTINF:-1 tvg-id="" tvg-name="FR MTV France FHD" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR MTV France FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35949
-#EXTINF:-1 tvg-id="mezzo.live.fr" tvg-name="FR MEZZO LIVE FULL" tvg-logo="http://starsat123.com:8080/images/8f1c1f0da7a69d7c83b65c8a0e91e6f4.png" group-title="|FR| FRANCE FULL HD ",FR MEZZO LIVE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35950
-#EXTINF:-1 tvg-id="" tvg-name="FR MELODY FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR MELODY FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35951
-#EXTINF:-1 tvg-id="" tvg-name="FR CLIQUE FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR CLIQUE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35952
-#EXTINF:-1 tvg-id="" tvg-name="FR AUTOMOTOR FULL" tvg-logo="http://zemecopt.com:8880/images/17464a3f435a12c071cac6379f446afd.png" group-title="|FR| FRANCE FULL HD ",FR AUTOMOTOR FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35953
-#EXTINF:-1 tvg-id="bfm.paris.fr" tvg-name="FR BFM ILE DE FRANCE FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR BFM ILE DE FRANCE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35954
-#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR EQUIDIA LIVE FULL" tvg-logo="http://starsat123.com:8080/images/05bfee35beb19ade49710084cbb908cf.png" group-title="|FR| FRANCE FULL HD ",FR EQUIDIA LIVE FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35955
-#EXTINF:-1 tvg-id="golf.plus.fr" tvg-name="FR Golf Channel FULL" tvg-logo="http://starsat123.com:8080/images/797a04dfd6f1bba30736beb2c4a0903d.png" group-title="|FR| FRANCE FULL HD ",FR Golf Channel FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35956
-#EXTINF:-1 tvg-id="foot.plus.24.24.fr" tvg-name="FR Foot+ 24/24 FHD" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR Foot+ 24/24 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35957
-#EXTINF:-1 tvg-id="infosport.fr" tvg-name="FR INFOSPORT FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR INFOSPORT FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35958
-#EXTINF:-1 tvg-id="" tvg-name="FR EUROSPORT 1 FHD" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR EUROSPORT 1 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35959
-#EXTINF:-1 tvg-id="" tvg-name="FR EUROSPORT 2 FHD" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR EUROSPORT 2 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35960
-#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR BEIN SPORTS 1 HEVC" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR BEIN SPORTS 1 HEVC
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35962
-#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS 2 FHD" tvg-logo="http://starsat123.com:8080/images/298964d6247cb19cf22cffd8377a2d2d.png" group-title="|FR| FRANCE FULL HD ",FR BEIN SPORTS 2 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35963
-#EXTINF:-1 tvg-id="" tvg-name="FR BEIN SPORTS 3 FHD" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR BEIN SPORTS 3 FHD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35964
-#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR RMC Sport 01 FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR RMC Sport 01 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35965
-#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR RMC Sport 02 FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR RMC Sport 02 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35966
-#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR RMC SPORT 03 FULL" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR RMC SPORT 03 FULL
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35967
-#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR RMC SPORT 04 HD" tvg-logo="" group-title="|FR| FRANCE FULL HD ",FR RMC SPORT 04 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/35968
-#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 1 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR: AMAZON PRIME 1 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/44323
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 1 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 1 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63181
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 2 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 2 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63180
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 3 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 3 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63179
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1600px-Amazon_Prime_Video_logo.svg.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 4 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63178
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 5 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 5 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63177
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 6 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 6 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63176
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 7 HD" tvg-logo="http://starsat123.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 7 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63175
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO 8 HD" tvg-logo="http://iptv-tn.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO 8 HD
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/63174
-#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME VIDEO MULTIPLEX FHd" tvg-logo="http://starsat123.com:8080/images/8fe43e077fa431dd9a6d97c24b1d45a8.png" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO MULTIPLEX FHd
-http://iptv-tn.com:8080/4917631554060@telegram/tv.iptvone.de/67590
+#EXTM3U
+#EXTINF:-1,[FR] W9 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/2
+#EXTINF:-1,[FR] NICKELODEON TEEN HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/3
+#EXTINF:-1,[FR] VH1 CLASSIC HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/4
+#EXTINF:-1,[FR] MTV HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1392
+#EXTINF:-1,[FR] MTV HITS HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1394
+#EXTINF:-1,[FR] USHUAIA HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/5
+#EXTINF:-1,[FR] TV5 MONDE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/8
+#EXTINF:-1,[FR] TV BREIZH HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/9
+#EXTINF:-1,[FR] TREK HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/10
+#EXTINF:-1,[FR] TOUTE L HISTOIRE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/11
+#EXTINF:-1,[FR] TOONAMI HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/12
+#EXTINF:-1,[FR] TMC HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/13
+#EXTINF:-1,[FR] TIJI  HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/14
+#EXTINF:-1,[FR] TFX HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/15
+#EXTINF:-1,[FR] TF1 SERIES HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/16
+#EXTINF:-1,[FR] TF1 FR HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/17
+#EXTINF:-1,[FR] TEVA HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/18
+#EXTINF:-1,[FR] TELETOON+ HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/19
+#EXTINF:-1,[FR] TCM CINIMA HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/21
+#EXTINF:-1,[FR] SERIE CLUB HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/22
+#EXTINF:-1,[FR] SEASON HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/23
+#EXTINF:-1,[FR] SCIENCE VIE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/24
+#EXTINF:-1,[FR] RTS UN HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/25
+#EXTINF:-1,[FR] RTS DEUX HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/26
+#EXTINF:-1,[FR] RTL9 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/27
+#EXTINF:-1,[FR] RMC Sport Live 1 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/36
+#EXTINF:-1,[FR] RMC Sport Live 2 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/34
+#EXTINF:-1,[FR] RMC Sport Live 3 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/895
+#EXTINF:-1,[FR] RMC Sport Live 4 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/123
+#EXTINF:-1,[FR] RMC Sport Live 5 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/28
+#EXTINF:-1,[FR] RMC Sport Live 6 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/896
+#EXTINF:-1,[FR] RMC Sport Live 7 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/20
+#EXTINF:-1,[FR] RMC Sport Live 8 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/7
+#EXTINF:-1,[FR] RMC Sport Live 9 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/6
+#EXTINF:-1,[FR] RMC Sport Live 10 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/897
+#EXTINF:-1,[FR] RMC SPORT ACCESS 1 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/33
+#EXTINF:-1,[FR] RMC SPORT ACCESS 2 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/32
+#EXTINF:-1,[FR] RMC SPORT ACCESS 3 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/31
+#EXTINF:-1,[FR] RMC SPORT NEWS HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/30
+#EXTINF:-1,[FR] RMC STORY HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/29
+#EXTINF:-1,[FR] RMC DECOUVERTE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/35
+#EXTINF:-1,[FR] RFM TV MUSIC HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/37
+#EXTINF:-1,[FR] PLANETE CI HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/38
+#EXTINF:-1,[FR] PLANETE  A E HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/39
+#EXTINF:-1,[FR] PIWI HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/40
+#EXTINF:-1,[FR] PARIS PREMIERE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/41
+#EXTINF:-1,[FR] PARAMOUNT CHANNEL HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/42
+#EXTINF:-1,[FR] OCS MAX HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/44
+#EXTINF:-1,[FR] OCS GEANTS HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/45
+#EXTINF:-1,[FR] OCS CITY HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/46
+#EXTINF:-1,[FR] OCS CHOC HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/47
+#EXTINF:-1,[FR] NICKELODEON JUN HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/49
+#EXTINF:-1,[FR] NICKELODEON HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/50
+#EXTINF:-1,[FR] NATIONAL GEO HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/52
+#EXTINF:-1,[FR] NAT GEO WILD HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/53
+#EXTINF:-1,[FR] MY CUISINE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/54
+#EXTINF:-1,[FR] AUTOMOTO HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/55
+#EXTINF:-1,[FR] MEZZO LIVE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/56
+#EXTINF:-1,[FR] MEZZO FR HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/57
+#EXTINF:-1,[FR] MCM HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/58
+#EXTINF:-1,[FR] MCM  POP HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/59
+#EXTINF:-1,[FR] MANGAS HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/60
+#EXTINF:-1,[FR] M6 FR HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/61
+#EXTINF:-1,[FR] PLANETE +
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/63
+#EXTINF:-1,[FR] LCI HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/64
+#EXTINF:-1,[FR] L'EQUIPE 21 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/65
+#EXTINF:-1,[FR] HISTOIRE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/66
+#EXTINF:-1,[FR] GULLI HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/67
+#EXTINF:-1,[FR] GOLF+ HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/68
+#EXTINF:-1,[FR] GOLF CHANNEL HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/69
+#EXTINF:-1,[FR] GAME ONE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/70
+#EXTINF:-1,[FR] FRANCE INFO  HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/71
+#EXTINF:-1,[FR] FRANCE 5 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/72
+#EXTINF:-1,[FR] FRANCE 4 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/73
+#EXTINF:-1,[FR] FRANCE 3HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/74
+#EXTINF:-1,[FR] FRANCE 2HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/75
+#EXTINF:-1,[FR] FRANCE 24 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/76
+#EXTINF:-1,[FR] EURONEWS HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/78
+#EXTINF:-1,[FR] E! ENTERTAINMENT HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/80
+#EXTINF:-1,[FR] BOOMERANG
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1390
+#EXTINF:-1,[FR] BOING HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1391
+#EXTINF:-1,[FR] DISNEY JUNIOR HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/82
+#EXTINF:-1,[FR] DISNEY CHANNEL FHD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/83
+#EXTINF:-1,[FR] DISNEY CHANNEL HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/84
+#EXTINF:-1,[FR] DISCOVERY SCi HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/85
+#EXTINF:-1,[FR] DISCOVERY INVESTIGATION HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/86
+#EXTINF:-1,[FR] DISCOVERY HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/87
+#EXTINF:-1,[FR] DISCOVERY FAMLIY HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/88
+#EXTINF:-1,[FR] CRIME DISTRICT HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/89
+#EXTINF:-1,[FR] COMEDIE+ HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/90
+#EXTINF:-1,[FR] CINE+ CLUB HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/133
+#EXTINF:-1,[FR] CINE+ PREMIER HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/91
+#EXTINF:-1,[FR] CINE+ FRISSON HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/94
+#EXTINF:-1,[FR] CINE+ FAMIZ HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/95
+#EXTINF:-1,[FR] CINE+ EMOTION HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/96
+#EXTINF:-1,[FR] CINE+ CLASSIC HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/97
+#EXTINF:-1,[FR] CHERIE 25 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/98
+#EXTINF:-1,[FR] CHASSE PECHE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/99
+#EXTINF:-1,[FR] CARTOON NETWORK HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/100
+#EXTINF:-1,[FR] CANAL+ SPORT HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/101
+#EXTINF:-1,[FR] CANAL+ SERIES HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/102
+#EXTINF:-1,[FR] CANAL+ HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/103
+#EXTINF:-1,[FR] CANAL+ DECALE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/105
+#EXTINF:-1,[FR] CANAL+ GRAND ECRAN FHD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/104
+#EXTINF:-1,[FR] CANAL+ CINEMA HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/132
+#EXTINF:-1,[FR] CANAL J  HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/106
+#EXTINF:-1,[FR] C8 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/107
+#EXTINF:-1,[FR] C STAR HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/108
+#EXTINF:-1,[FR] C NEWS HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/109
+#EXTINF:-1,[FR] BFM TV HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/110
+#EXTINF:-1,[FR] BET HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/112
+#EXTINF:-1,[FR] SYFY HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/111
+#EXTINF:-1,[FR] EUROSPORT 2 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1389
+#EXTINF:-1,[FR] EUROSPORT 1 FHD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1388
+#EXTINF:-1,[FR] beIN SPORTS 01 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/115
+#EXTINF:-1,[FR] beIN SPORTS 02 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/114
+#EXTINF:-1,[FR] beIN SPORTS 03 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/113
+#EXTINF:-1,[FR] BeIN Sports MAX 4
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/1
+#EXTINF:-1,[FR] BeIN Sports MAX 5
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/125
+#EXTINF:-1,[FR] BeIN Sports MAX 6
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/126
+#EXTINF:-1,[FR] BeIN Sports MAX 7
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/127
+#EXTINF:-1,[FR] BeIN Sports MAX 8
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/128
+#EXTINF:-1,[FR] BeIN Sports MAX 9
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/129
+#EXTINF:-1,[FR] BeIN Sports MAX 10
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/130
+#EXTINF:-1,[FR] ARTE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/117
+#EXTINF:-1,[FR] ANIMAUX HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/118
+#EXTINF:-1,[FR] ACTION HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/119
+#EXTINF:-1,[FR] AB1 HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/120
+#EXTINF:-1,[FR] 6TER HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/121
+#EXTINF:-1,[FR] 13EME RUE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/122
+#EXTINF:-1,[FR]  NRJ TV HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/124
+#EXTINF:-1,[FR] M6 MUSIC
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/131
+#EXTINF:-1,[FR] FRANCE INFO HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/872
+#EXTINF:-1,[FR] TRACE MZIKI
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/2713
+#EXTINF:-1,[FR] TV 5 
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/2710
+#EXTINF:-1,[FR] J-ONE HD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/12988
+#EXTINF:-1,[FR] AB3 
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/14315
+#EXTINF:-1,[FR] BFM BUSINESS FHD
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/19228
+#EXTINF:-1,[FR] M6 international
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/20056
+#EXTINF:-1,[FR] Clubbing TV
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/20122
+#EXTINF:-1,[FR] My comedy
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/10451
+#EXTINF:-1,[AF-VIP] A+ VIP
+http://xxxxlocal.com:8080/live:kingtivimedya/bOjxr0LFFw/14432
