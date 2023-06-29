@@ -46,6 +46,8 @@
 
   <a href="https://github.com/iptv-org/iptv/blob/master/streams/fr_persiana.m3u?raw=true"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 
+  <a href="IPTV/Stream4free.m3u?raw=true"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+
 <p> Chaînes qu'on retrouve sur des sites de streaming ou autre </p>
 
 #
