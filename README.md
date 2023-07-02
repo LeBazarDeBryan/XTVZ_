@@ -1,4 +1,5 @@
 <div align="center">
+  <h3>🇫🇷</h3>
   <a href="https://github.com/LeBazarDeBryan/XTVZ_/"><img src="Images/Logo.png" /></a>
   
   <a href="https://github.com/LeBazarDeBryan/XTVZ_/stargazers"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" /></a>
@@ -8,7 +9,7 @@
 
 #
 
-<h1>Playlist IPTV 🇫🇷</h1>
+<h1>Playlist IPTV</h1>
 
 
 <h2>TV</h2>
