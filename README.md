@@ -60,6 +60,16 @@
 
 #
 
+<h2>Alternative</h2>
+
+| Playlist | Alternative |
+|----------|-------------|
+| <a href="IPTV/TNT.m3u?raw=true">TNT</a> | <a href="https://www.6play.fr/">6play</a>, <a href="https://www.france.tv/">France TV</a>, <a href="https://www.tf1.fr/">MYTF1</a> |
+
+<p>Si les playlists que vous utilisé ne marche pas voici des alternative pour les remplacer</p>
+
+#
+
 <h2>Question</h2>
 </div>
 
