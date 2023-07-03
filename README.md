@@ -65,7 +65,8 @@
 
 | Playlist | Alternative |
 |----------|-------------|
-| <a href="IPTV/TNT.m3u?raw=true">TNT</a> | <a href="https://www.6play.fr/">6play</a>, <a href="https://www.france.tv/">France TV</a>, <a href="https://www.tf1.fr/">MYTF1</a> |
+| <a href="IPTV/TNT.m3u?raw=true">TNT</a> | <a href="https://www.6play.fr/">6play</a>, <a href="https://www.france.tv/">France TV</a>, <a href="https://www.tf1.fr/">MYTF1</a>, <a href="https://www.molotov.tv/">Molotov</a> |
+| <a href="https://i.mjh.nz/PlutoTV/fr.m3u8">Pluto TV</a> | <a href="https://pluto.tv/">Pluto TV</a> |
 
 <p>Si les playlists que vous utilisé ne marche pas voici des alternative pour les remplacer</p>
 
