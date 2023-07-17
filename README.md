@@ -7,20 +7,18 @@
   <a href="https://github.com/LeBazarDeBryan/XTVZ_/watchers"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" /></a>
   <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues"><img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" /></a>
 
-#
-
 <h1>Playlist IPTV</h1>
 
 
-<h2>TV</h2>
+<details>
+<summary><h2>TV</h2></summary>
   <p>
     <a href="IPTV/TNT.m3u?raw=true"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
     <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite
   </p>
-  
-#
 
-<h2>Streaming</h2>
+<details>
+<summary><h2>Streaming</h2></summary>
   <a href="IPTV/Streaming.m3u?raw=true"><img height="100" width="100" src="Images/XTVZ_.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="https://github.com/iptv-org/iptv/blob/master/streams/fr.m3u?raw=true"><img height="100" width="100" src="Images/iptv-org.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
@@ -50,18 +48,18 @@
   <a href="IPTV/Stream4free.m3u?raw=true"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 
 <p> Chaînes qu'on retrouve sur des sites de streaming ou autre </p>
+</details>
 
-#
-
-<h2>Radio</h2>
+<details>
+<summary><h2>Radio</h2></summary>
 
   <a href="IPTV/Radio.m3u?raw=true"><img height="100" width="100" src="Images/Radio.png" /></a>
 
 <p> Station Radio qu'on peut trouver en ligne, FM ou MHz </p>
+</details>
 
-#
-
-<h2>Alternative</h2>
+<details>
+<summary><h2>Alternative</h2></summary>
 
 | Playlist | Alternative | Source |
 |----------|-------------|--------|
@@ -79,11 +77,11 @@
 
 
 <p>Si les playlists que vous utilisé ne marche pas voici des alternative pour les remplacer</p>
+</details>
 
-#
-
-<h2>Question</h2>
-</div>
-
+<details>
+<summary><h2>Question</h2></summary>
 <h3>C'est quoi <a href="IPTV/ALL.m3u">ALL</a> ?</h3>
-<p><a href="IPTV/ALL.m3u">ALL</a> est une playlist de toute (Voila d'ou vient le nom de la playlist) les chaînes gratuite et payante.</a></p>
+<p><a href="IPTV/ALL.m3u">ALL</a> est une playlist de toute les chaînes gratuite et payante.</a></p>
+</details>
+</div>
