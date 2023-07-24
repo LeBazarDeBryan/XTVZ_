@@ -16,6 +16,7 @@
     <a href="IPTV/TNT.m3u?raw=true"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
     <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite
   </p>
+</details>
 
 <details>
 <summary><h2>Streaming</h2></summary>
