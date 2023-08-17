@@ -1,53 +1,53 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT", TF1
-http://livetv.ktv.zone/3/play.m3u8
+http://s.tv.kwaoo.net/3/play.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT", France 2
-http://livetv.ktv.zone/4/play.m3u8
+http://s.tv.kwaoo.net/4/play.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT", France 3
-http://livetv.ktv.zone/5/play.m3u8
+http://s.tv.kwaoo.net/5/play.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Canal+%20HD.png" group-title="Cinéma/Séries", Canal+
-http://livetv.ktv.zone/6/play.m3u8
+http://s.tv.kwaoo.net/6/play.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
-http://livetv.ktv.zone/7/play.m3u8
+http://s.tv.kwaoo.net/7/play.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT", M6
-http://livetv.ktv.zone/8/play.m3u8
+http://s.tv.kwaoo.net/8/play.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire", Arte
-http://livetv.ktv.zone/9/play.m3u8
+http://s.tv.kwaoo.net/9/play.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/C8.png" group-title="Cinéma/Séries", C8
-http://livetv.ktv.zone/10/play.m3u8
+http://s.tv.kwaoo.net/10/play.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/W9%20HD.png" group-title="TNT", W9
-http://livetv.ktv.zone/11/play.m3u8
+http://s.tv.kwaoo.net/11/play.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TMC%20HD.png" group-title="Cinéma/Séries", TMC
-http://livetv.ktv.zone/12/play.m3u8
+http://s.tv.kwaoo.net/12/play.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TFX.png" group-title="Cinéma/Séries", TFX
-http://livetv.ktv.zone/13/play.m3u8
+http://s.tv.kwaoo.net/13/play.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/NRJ%2012%20HD.png" group-title="Divertissement", NRJ 12
-http://livetv.ktv.zone/14/play.m3u8
+http://s.tv.kwaoo.net/14/play.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info", La Chaine Parlementaire
-http://livetv.ktv.zone/15/play.m3u8
+http://s.tv.kwaoo.net/15/play.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20HD.png" group-title="Divertissement", France 4
-http://livetv.ktv.zone/16/play.m3u8
+http://s.tv.kwaoo.net/16/play.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="Info", BFM TV
-http://livetv.ktv.zone/17/play.m3u8
+http://s.tv.kwaoo.net/17/play.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT", CNews
-http://livetv.ktv.zone/18/play.m3u8
+http://s.tv.kwaoo.net/18/play.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CStar.png" group-title="Divertissement", CStar
-http://livetv.ktv.zone/19/play.m3u8
+http://s.tv.kwaoo.net/19/play.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Gulli%20HD.png" group-title="Enfant", Gulli
-http://livetv.ktv.zone/20/play.m3u8
+hhttp://s.tv.kwaoo.net/20/play.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="Cinéma/Séries", TF1 Séries Films
-http://livetv.ktv.zone/22/play.m3u8
+http://s.tv.kwaoo.net/22/play.m3u8
 #EXTINF:-1 tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/L'Équipe.png" group-title="Sport", L'Équipe TV
-http://livetv.ktv.zone/23/play.m3u8
+http://s.tv.kwaoo.net/23/play.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/6ter.png" group-title="Cinéma/Séries", 6ter
-http://livetv.ktv.zone/24/play.m3u8
+http://s.tv.kwaoo.net/24/play.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RMC%20Story.png" group-title="Documentaire", RMC Story
-http://livetv.ktv.zone/25/play.m3u8
+http://s.tv.kwaoo.net/25/play.m3u8
 #EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RMC%20Découverte.png" group-title="Documentaire", RMC Découverte
-http://livetv.ktv.zone/26/play.m3u8
+http://s.tv.kwaoo.net/26/play.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Chérie%2025.png" group-title="TNT", Chérie 25
-http://livetv.ktv.zone/27/play.m3u8
+http://s.tv.kwaoo.net/27/play.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png" group-title="Info", LCI
-http://livetv.ktv.zone/28/play.m3u8
+http://s.tv.kwaoo.net/28/play.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info", France Info
-http://livetv.ktv.zone/29/play.m3u8
+http://s.tv.kwaoo.net/29/play.m3u8
