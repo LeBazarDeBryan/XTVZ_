@@ -4,9 +4,9 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:0, Vosges Télévision
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://i.imgur.com/xuwvL4i.png" group-title="Enfants",Canal J
-http://livetv.ktv.zone/176/play.m3u8
+http://s.tv.kwaoo.net/176/play.m3u8
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://i.imgur.com/o0ypqoI.png" group-title="Enfants",TIJI
-http://livetv.ktv.zone/175/play.m3u8
+http://s.tv.kwaoo.net/175/play.m3u8
 #EXTINF:0, NHK World HD
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, BBC One
@@ -22,25 +22,25 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, CBS Reality
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, RTL
-http://livetv.ktv.zone/152/play.m3u8
+http://s.tv.kwaoo.net/152/play.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="",CGTN Documentary
-http://livetv.ktv.zone/36/play.m3u8
+http://s.tv.kwaoo.net/36/play.m3u8
 #EXTINF:0, Arirang World
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Vox
-http://livetv.ktv.zone/91/play.m3u8
+http://s.tv.kwaoo.net/91/play.m3u8
 #EXTINF:0, Super RTL
-http://livetv.ktv.zone/55/play.m3u8
+http://s.tv.kwaoo.net/55/play.m3u8
 #EXTINF:0, CBBC
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/TQvMBFy.png" group-title="Information",France 24
-http://livetv.ktv.zone/56/play.m3u8
+http://s.tv.kwaoo.net/56/play.m3u8
 #EXTINF:0, RT
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, BBC World News
-http://livetv.ktv.zone/60/play.m3u8
+http://s.tv.kwaoo.net/60/play.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/AsWc1OH.png" group-title="Information",TV5 Monde
-http://livetv.ktv.zone/61/play.m3u8
+http://s.tv.kwaoo.net/61/play.m3u8
 #EXTINF:0, CNBC
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Bloomberg
@@ -48,19 +48,19 @@ https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="https://i.imgur.com/IHwzyvB.png" group-title="Information",Euronews
 https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:0, Eurosport
-http://livetv.ktv.zone/65/play.m3u8
+http://s.tv.kwaoo.net/65/play.m3u8
 #EXTINF:0, RTL
-http://livetv.ktv.zone/67/play.m3u8
+http://s.tv.kwaoo.net/67/play.m3u8
 #EXTINF:0, Kika
-http://livetv.ktv.zone/68/play.m3u8
+http://s.tv.kwaoo.net/68/play.m3u8
 #EXTINF:0, 3 Sat
-http://livetv.ktv.zone/69/play.m3u8
+http://s.tv.kwaoo.net/69/play.m3u8
 #EXTINF:0, Best of Shopping
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Euronews Français
-http://livetv.ktv.zone/73/play.m3u8
+http://s.tv.kwaoo.net/73/play.m3u8
 #EXTINF:0, Euronews Deutsch
-http://livetv.ktv.zone/74/play.m3u8
+http://s.tv.kwaoo.net/74/play.m3u8
 #EXTINF:0, Adsport1
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Alsharquya
@@ -68,49 +68,49 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, TRT World
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/RvXlNbb.png" group-title="Étrangères",CGTN
-http://livetv.ktv.zone/35/play.m3u8
+http://s.tv.kwaoo.net/35/play.m3u8
 #EXTINF:0, Mirabelle TV
-http://livetv.ktv.zone/346/play.m3u8
+http://s.tv.kwaoo.net/346/play.m3u8
 #EXTINF:0, La Chaîne Normande
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, France 3 Alpes
-http://livetv.ktv.zone/210/play.m3u8
+http://s.tv.kwaoo.net/210/play.m3u8
 #EXTINF:0, France 3 Alsace
-http://livetv.ktv.zone/211/play.m3u8
+http://s.tv.kwaoo.net/211/play.m3u8
 #EXTINF:0, France 3 Aquitaine
-http://livetv.ktv.zone/212/play.m3u8
+http://s.tv.kwaoo.net/212/play.m3u8
 #EXTINF:0, France 3 Auvergne
-http://livetv.ktv.zone/213/play.m3u8
+http://s.tv.kwaoo.net/213/play.m3u8
 #EXTINF:0, France 3 Bretagne
-http://livetv.ktv.zone/216/play.m3u8
+http://s.tv.kwaoo.net/216/play.m3u8
 #EXTINF:0, France 3 Champagne-Ardenne
-http://livetv.ktv.zone/218/play.m3u8
+http://s.tv.kwaoo.net/218/play.m3u8
 #EXTINF:0, France 3 Côte Azur
-http://livetv.ktv.zone/220/play.m3u8
+http://s.tv.kwaoo.net/220/play.m3u8
 #EXTINF:0, France 3 Languedoc
-http://livetv.ktv.zone/223/play.m3u8
+http://s.tv.kwaoo.net/223/play.m3u8
 #EXTINF:0, France 3 Limousin
-http://livetv.ktv.zone/224/play.m3u8
+http://s.tv.kwaoo.net/224/play.m3u8
 #EXTINF:0, France 3 Lorraine
-http://livetv.ktv.zone/225/play.m3u8
+http://s.tv.kwaoo.net/225/play.m3u8
 #EXTINF:0, France 3 Midi-Pyrénées
-http://livetv.ktv.zone/226/play.m3u8
+http://s.tv.kwaoo.net/226/play.m3u8
 #EXTINF:0, France 3 Nord Pas-de-Calais
-http://livetv.ktv.zone/227/play.m3u8
+http://s.tv.kwaoo.net/227/play.m3u8
 #EXTINF:0, France 3 Picardie
-http://livetv.ktv.zone/230/play.m3u8
+http://s.tv.kwaoo.net/230/play.m3u8
 #EXTINF:0, France 3 Poitou-Charentes
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, France 3 Provence-Alpes
-http://livetv.ktv.zone/232/play.m3u8
+http://s.tv.kwaoo.net/232/play.m3u8
 #EXTINF:0, France 3 Rhône-Alpes
-http://livetv.ktv.zone/233/play.m3u8
+http://s.tv.kwaoo.net/233/play.m3u8
 #EXTINF:0, Dubai
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:0, Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0, BFMTV Lille
-http://livetv.ktv.zone/249/play.m3u8
+http://s.tv.kwaoo.net/249/play.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.imgur.com/r9MfPzk.png" group-title="Musique",Trace Latina
 https://amg01131-tracetv-tracelatinach-samsungch-q77mm.amagi.tv/playlist/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/el7rxCx.png" group-title="Musique",Trace Urban
