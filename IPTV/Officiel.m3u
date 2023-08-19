@@ -48,7 +48,7 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Chérie%2025.png" group-title="TNT", Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png" group-title="Info", LCI
-
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci.m3u8
 #EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info", franceinfo:
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Paris%20Première.png" group-title="Divertissement", Paris Première
