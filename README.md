@@ -20,7 +20,9 @@
 
 <details>
 <summary><h2>Streaming</h2></summary>
-  <a href="IPTV/Streaming.m3u?raw=true"><img height="100" width="100" src="Images/XTVZ_.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="IPTV/Officiel.m3u?raw=true"><img height="100" width="100" src="Images/XTVZ_.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+
+  <a href="IPTV/Streaming.m3u?raw=true"><img height="100" width="100" src="Images/Unknown.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="https://github.com/iptv-org/iptv/blob/master/streams/fr.m3u?raw=true"><img height="100" width="100" src="Images/iptv-org.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
