@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT", TF1
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT", France 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr2.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT", France 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr3.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Canal+%20HD.png" group-title="Cinéma/Séries", Canal+
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr5.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT", M6
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/M6.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire", Arte
@@ -26,9 +26,9 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info", La Chaine Parlementaire/Public Sénat
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/PublicSenat.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20HD.png" group-title="Divertissement", France 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/frtv/py/0fr4.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="Info", BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT", CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CStar.png" group-title="Divertissement", CStar
@@ -56,10 +56,12 @@ https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1 tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Téva.png" group-title="Divertissement", Téva
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%2024.png" group-title="Info", France 24
-https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+https://ythlsgo.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/euronews.png" group-title="Info", euronews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/euronews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tiji.png" group-title="Enfant", Tiji
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/GONG.png" group-title="Divertissement", GONG
-https://amg01596-gongnetworks-gong-samsungfr-2q4y3.amagi.tv/playlist/amg01596-gongnetworks-gong-samsungfr/cb54341f6570608e84cb3b66cef341a8f92713dc067a8b6b7fd908c83095691bdae2b5d1f94abb3a089e198f351768025e31d618df2955da8c28fe032978427dcbceb77d889a125de3baaa1b10904288f4763f35e10f6154ebab7c2e973cbb7a006199630c7307fd718d604478f3f54fc92069de87fc59de8ddf6ebd673ea1e20fe0adbe18078f7e8489aa99061a67d4f537aafe25ccc28505ca53f335b506beaa20275a21a0b49764836fc0351a151075908e33f4a338e08dca3969ce3240d27d24eb240837df16ae673ace28cfc045f2813384e500947238ab05d77f85228378907ecd906fadaca1d04c011aa8cb4e6501b2eaae9e895549dd6492ca88af1306fa9c75294dab35884110e600988fcd2cd05d1f1e8e1be3af/80/1280x720_2657600/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Trace%20Urban.png" group-title="Musique", Trace Urban
+https://lightning-traceurban-samsungau.amagi.TV/playlist.m3u8 
