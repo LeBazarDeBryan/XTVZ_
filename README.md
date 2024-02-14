@@ -14,7 +14,7 @@
 <summary><h2>TV</h2></summary>
   <p>
     <a href="https://www.clictune.com/jsfW"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://www.clictune.com/jsfV"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-    <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite
+    <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite.
   </p>
 </details>
 
@@ -50,7 +50,7 @@
 
   <a href="https://www.clictune.com/jsg2"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 
-<p> Chaînes qu'on retrouve sur des sites de streaming ou autre </p>
+<p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p>
 </details>
 
 <details>
@@ -58,7 +58,7 @@
 
   <a href="https://www.clictune.com/jshq"><img height="100" width="100" src="Images/Radio.png" /></a>
 
-<p> Station Radio qu'on peut trouver en ligne, FM ou MHz </p>
+<p>Station Radio qu'on peut trouver en ligne, FM ou MHz.</p>
 </details>
 
 <details>
