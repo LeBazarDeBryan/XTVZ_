@@ -85,6 +85,6 @@
 <details>
 <summary><h2>Question</h2></summary>
 <h3>C'est quoi <a href="https://www.clictune.com/jsg1">ALL</a> ?</h3>
-<p><a href="https://www.clictune.com/jsg1">ALL</a> est une playlist de toute les chaînes gratuite et payante.</a></p>
+<p><a href="https://www.clictune.com/jsg1">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p>
 </details>
 </div>
