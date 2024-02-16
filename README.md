@@ -50,6 +50,8 @@
 
   <a href="https://www.clictune.com/jsg2"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 
+  <a href="https://www.clictune.com/jx7R"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+
 <p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p>
 </details>
 
