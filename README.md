@@ -1,6 +1,6 @@
 <div align="center">
   <h3>🇫🇷</h3>
-  <a href="https://www.clictune.com/jsho"><img src="Images/Logo.png" /></a>
+  <a href="https://www.clictune.com/jt10"><img src="Images/Logo.png" /></a>
   
   <a href="https://www.clictune.com/jsfQ"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" /></a>
   <a href="https://www.clictune.com/jsfR"><img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Fork" /></a>
