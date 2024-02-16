@@ -79,6 +79,7 @@
 | <a href="https://www.clictune.com/jsgR">M6</a> | <a href="https://www.clictune.com/jsgE">6play</a> | Site Officiel |
 | <a href="https://www.clictune.com/jsgS">Persiana</a> | <a href="https://www.clictune.com/jsh3">Persiana Media Group</a> | Site Officiel |
 | <a href="https://www.clictune.com/jsg2">Stream4free</a> | <a href="https://www.clictune.com/jsh4">Stream4free</a> | Site Officiel |
+| <a href="https://www.clictune.com/jx7R">BFM TV</a> | <a href="https://www.bfmtv.com/regions/">BFM TV</a> | Site Officiel |
 
 
 <p>Si les playlists que vous utilisé ne marche pas voici des alternative pour les remplacer</p>
