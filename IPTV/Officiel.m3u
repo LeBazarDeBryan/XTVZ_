@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT", TF1
 http://s2.callofliberty.fr/direct/TF1/master.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT", France 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT", France 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr3nv.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Canal+%20HD.png" group-title="Cinéma/Séries", Canal+
 https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT", M6
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/M6.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire", Arte
@@ -26,7 +26,7 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info", La Chaine Parlementaire/Public Sénat
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20HD.png" group-title="Divertissement", France 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/BFM%20TV.png" group-title="Info", BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CNews.png" group-title="TNT", CNews
