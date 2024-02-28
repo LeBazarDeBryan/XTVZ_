@@ -9,17 +9,17 @@
 
 <h1>Playlist IPTV</h1>
 
+<details><summary><h2>⚠️ Problème ⚠️</h2></summary>
+  <p>Les chaînes de la playlist <a href="https://www.clictune.com/jsfW">TNT</a> ne marchent plus! Cela vient du fournisseur et non de moi. (Voir <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues/3">#3</a>.) Je vous recommande d'utiliser la playlist <a href="https://www.clictune.com/jsfX">Officiel.m3u</a> (XTVZ_) jusqu'à que ce problème soit réparé. Merci de votre compréhension.</p></details>
 
-<details>
-<summary><h2>TV</h2></summary>
+
+<details><summary><h2>TV</h2></summary>
   <p>
     <a href="https://www.clictune.com/jsfW"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://www.clictune.com/jsfV"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-    <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite.
-  </p>
-</details>
+    <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite.</p>
+  </p></details>
 
-<details>
-<summary><h2>Streaming</h2></summary>
+<details><summary><h2>Streaming</h2></summary>
   <a href="https://www.clictune.com/jsfX"><img height="100" width="100" src="Images/XTVZ_.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 
   <a href="https://www.clictune.com/jsfY"><img height="100" width="100" src="Images/Unknown.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
@@ -55,16 +55,14 @@
 <p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p>
 </details>
 
-<details>
-<summary><h2>Radio</h2></summary>
+<details><summary><h2>Radio</h2></summary>
 
   <a href="https://www.clictune.com/jshq"><img height="100" width="100" src="Images/Radio.png" /></a>
 
 <p>Station Radio qu'on peut trouver en ligne, FM ou MHz.</p>
 </details>
 
-<details>
-<summary><h2>Alternative</h2></summary>
+<details><summary><h2>Alternative</h2></summary>
 
 | Playlist | Alternative | Source |
 |----------|-------------|--------|
@@ -82,12 +80,9 @@
 | <a href="https://www.clictune.com/jx7R">BFM TV</a> | <a href="https://www.bfmtv.com/regions/">BFM TV</a> | Site Officiel |
 
 
-<p>Si les playlists que vous utilisé ne marche pas voici des alternative pour les remplacer</p>
-</details>
+<p>Si les playlists que vous utilisez ne marchent pas voici des alternatives pour les remplacer.</p></details>
 
-<details>
-<summary><h2>Question</h2></summary>
-<h3>C'est quoi <a href="https://www.clictune.com/jsg1">ALL</a> ?</h3>
-<p><a href="https://www.clictune.com/jsg1">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p>
-</details>
+<details><summary><h2>Question</h2></summary>
+  <h3>C'est quoi <a href="https://www.clictune.com/jsg1">ALL</a> ?</h3>
+  <p><a href="https://www.clictune.com/jsg1">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p></details>
 </div>
