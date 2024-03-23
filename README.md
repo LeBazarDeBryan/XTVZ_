@@ -31,15 +31,25 @@
   <a href="https://www.clictune.com/jsg1"><img height="100" width="100" src="Images/All.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="https://www.clictune.com/jsgJ"><img height="100" width="100" src="Images/Pluto%20TV.png" /></a><a href="https://i.mjh.nz/PlutoTV/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jsgK"><img height="100" width="100" src="Images/Samsung%20TV%20Plus.png?raw=true" /></a><a href="https://i.mjh.nz/SamsungTVPlus/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshf"><img height="100" width="100" src="Images/euronews.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshg"><img height="100" width="100" src="Images/Rakuten.png" /></a><a href="https://www.clictune.com/jsh7"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshh"><img height="100" width="100" src="Images/Fashion%20TV.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshi"><img height="100" width="100" src="Images/France%2024.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshk"><img height="100" width="100" src="Images/Groupe%20Canal+.png" /></a><a href="https://www.clictune.com/jsh7"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshl"><img height="100" width="100" src="Images/Groupe%20M6.png" /></a><a href="https://www.clictune.com/jsh7"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jshn"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jsg2"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  
   <a href="https://www.clictune.com/jx7R"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 <p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p>
 </details>
@@ -64,7 +74,7 @@
 | <a href="https://www.clictune.com/jsgR">M6</a> | <a href="https://www.clictune.com/jsgE">6play</a> | Site Officiel |
 | <a href="https://www.clictune.com/jsgS">Persiana</a> | <a href="https://www.clictune.com/jsh3">Persiana Media Group</a> | Site Officiel |
 | <a href="https://www.clictune.com/jsg2">Stream4free</a> | <a href="https://www.clictune.com/jsh4">Stream4free</a> | Site Officiel |
-| <a href="https://www.clictune.com/jx7R">BFM TV</a> | <a href="https://www.bfmtv.com/regions/">BFM TV</a> | Site Officiel |
+| <a href="https://www.clictune.com/jx7R">BFM TV</a> | <a href="https://www.clictune.com/jJ8B">BFM TV</a> | Site Officiel |
 
 <p>Si les playlists que vous utilisez ne marchent pas voici des alternatives pour les remplacer.</p></details>
 
