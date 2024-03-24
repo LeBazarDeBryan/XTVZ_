@@ -51,13 +51,11 @@
   <a href="https://www.clictune.com/jsg2"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="https://www.clictune.com/jx7R"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://www.clictune.com/jsh5"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-<p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p>
-</details>
+<p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p></details>
 
 <details><summary><h2>Radio</h2></summary>
   <a href="https://www.clictune.com/jshq"><img height="100" width="100" src="Images/Radio.png" /></a>
-<p>Station Radio qu'on peut trouver en ligne, FM ou MHz.</p>
-</details>
+<p>Station Radio qu'on peut trouver en ligne, FM ou MHz.</p></details>
 
 <details><summary><h2>Alternative</h2></summary>
 
@@ -81,4 +79,12 @@
 <details><summary><h2>Question</h2></summary>
   <h3>C'est quoi <a href="https://www.clictune.com/jsg1">ALL</a> ?</h3>
   <p><a href="https://www.clictune.com/jsg1">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p></details>
+
+<details><summary><h2>Statistiques</h2></summary>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline" />
+ </picture>
+</a></details>
+  
 </div>
