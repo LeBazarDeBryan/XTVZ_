@@ -81,10 +81,14 @@
   <p><a href="https://www.clictune.com/jsg1">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p></details>
 
 <details><summary><h2>Statistiques</h2></summary>
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline" />
- </picture>
+ <a href="https://www.clictune.com/jKny"><img src="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline&theme=dark" /></a>
 </a></details>
+
+<details><summary><h2>Status</h2></summary>
+  
+  | Stream | Badge |
+  |--------|-------|
+  |  LCI   | <a href="https://www.clictune.com/jKnB"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/LCI.yml/badge.svg" /></a> |
+</details>
   
 </div>
