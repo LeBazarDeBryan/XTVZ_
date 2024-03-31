@@ -28,6 +28,6 @@ jobs:
           
       - name: commit & push
         run: |
-          git pull origin master
+          git pull origin main
           git commit -m "Stream 'LCI' mis à jour."
-          git push origin master
+          git push origin main
