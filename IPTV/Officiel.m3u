@@ -14,7 +14,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire", Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/C8.png" group-title="Cinéma/Séries", C8
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/C8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/W9%20HD.png" group-title="TNT", W9
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TMC%20HD.png" group-title="Cinéma/Séries", TMC
