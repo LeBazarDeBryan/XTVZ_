@@ -1,16 +1,56 @@
-#! /usr/bin/python3
-
 import requests
+import os
+import sys
+
+proxies = {}
+if len(sys.argv) == 2:
+    proxies = {
+                'http' : sys.argv[1],
+                'https' : sys.argv[1]
+              }
+
+na = 'https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4'
+def grab(line):
+    try:
+        _id = line.split('/')[4]
+        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
+        m3u = s.get(response, proxies=proxies).text
+        m3u = m3u.strip().split('\n')[1:]
+        d = {}
+        cnd = True
+        for item in m3u:
+            if cnd:
+                resolution = item.strip().split(',')[2].split('=')[1]
+                if resolution not in d:
+                    d[resolution] = []
+            else:
+                d[resolution]= item
+            cnd = not cnd
+        #print(m3u)
+        m3u = d[max(d, key=int)]    
+    except Exception as e:
+        m3u = na
+    finally:
+        print(m3u)
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:5')
-print('#EXT-X-STREAM-INF:BANDWIDTH=3032655,AVERAGE-BANDWIDTH=2756959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"')
-
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-b.ftven.fr/simulcast/France_Info/hls_monde_frinfo/index.m3u8')
-
-string = response.text
-new_string = string.replace("index", "France_Info-avc1_2500000=10001")
-print(new_string)
-new2_string = string.replace("index", "France_Info-mp4a_96000_fra=20000")
-print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="{new2_string}"')
+with open('Stream/Info/franceinfo.txt') as f:
+    for line in f:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        if not line.startswith('https:'):
+            line = line.split('|')
+            ch_name = line[0].strip()
+            grp_title = line[1].strip().title()
+            tvg_logo = line[2].strip()
+            tvg_id = line[3].strip()
+        else:
+            grab(line)
+            
+if 'temp.txt' in os.listdir():
+    os.system('rm temp.txt')
+    os.system('rm watch*')
