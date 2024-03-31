@@ -85,7 +85,8 @@
 </a></details>
 
 <details><summary><h2>Status</h2></summary>
-  
+  <h3>Officiel.m3u</h3>
+
   |  Stream  | Badge |
   |----------|-------|
   |    TF1   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/TF1.yml/badge.svg" /></a> |
@@ -101,21 +102,19 @@
   |  NRJ 12  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/NRJ_12.yml/badge.svg" /></a> |
   | LCP/Public Sénat | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/LCP-Public_Senat.yml/badge.svg" /></a> |
   | France 4 | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_4.yml/badge.svg" /></a> |
-  |  BRM TV  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  |   CNews  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  |   CStar  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  |   Gulli  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | TF1 Séries Films | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | L'Équipe | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | franceinfo: | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | Paris Première | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  |   Téva   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | France 24 | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | euronews | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
+  |  BRM TV  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/BFM_TV.yml/badge.svg" /></a> |
+  |   CNews  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/CNews.yml/badge.svg" /></a> |
+  |   CStar  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/CStar.yml/badge.svg" /></a> |
+  |   Gulli  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Gulli.yml/badge.svg" /></a> |
+  | TF1 Séries Films | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/TF1_SF.yml/badge.svg" /></a> |
+  | L'Équipe TV | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/LEquipe_TV.yml/badge.svg" /></a> |
+  | franceinfo: | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/franceinfo.yml/badge.svg" /></a> |
+  | Paris Première | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Paris_Premiere.yml/badge.svg" /></a> |
+  |   Téva   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Teva.yml/badge.svg" /></a> |
+  | France 24 | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_24.yml/badge.svg" /></a> |
+  | euronews | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/euronews.yml/badge.svg" /></a> |
   |   LCI    | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/LCI.yml/badge.svg" /></a> |
-  |   Tiji   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  |   GONG   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-  | Trace Urban | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/.yml/badge.svg" /></a> |
-</details>
-  
-</div>
+  |   Tiji   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Tiji.yml/badge.svg" /></a> |
+  |   GONG   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/GONG.yml/badge.svg" /></a> |
+  | Trace Urban | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Trace_Urban.yml/badge.svg" /></a> |
+</details></div>
