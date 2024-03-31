@@ -1,4 +1,4 @@
-name: LCI Stream
+name: LCI
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "<>"
-          git config --global user.name "LCI Bot"
+          git config --global user.name "Félix"
       
       - name: Update LCI
         run: python3 Stream/Python/LCI.py > Stream/Live/LCI.m3u8
@@ -29,5 +29,5 @@ jobs:
       - name: commit & push
         run: |
           git pull origin main
-          git commit -m "Stream 'LCI' mis à jour."
+          git commit -m "Update LCI"
           git push origin main
