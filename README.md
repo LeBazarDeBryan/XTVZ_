@@ -88,6 +88,7 @@
   
   | Stream | Badge |
   |--------|-------|
+  |  TF1   | <a href="https://www.clictune.com/jKo4"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/TF1.yml/badge.svg" /></a> |
   | France 2 | <a href="https://www.clictune.com/jKnW"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_2.yml/badge.svg" /></a> |
   | France 3 | <a href="https://www.clictune.com/jKnX"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_3.yml/badge.svg" /></a> |
   | France 5 | <a href="https://www.clictune.com/jKnY"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_5.yml/badge.svg" /></a> |
