@@ -1,7 +1,7 @@
 <div align="center">
   <h3>🇫🇷</h3>
   <a href="https://www.clictune.com/jt10"><img src="Images/Logo.png" /></a>
-  
+
   <a href="https://www.clictune.com/jsfQ"><img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" /></a>
   <a href="https://www.clictune.com/jsfR"><img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Fork" /></a>
   <a href="https://www.clictune.com/jsfS"><img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" /></a>
@@ -88,6 +88,10 @@
   
   | Stream | Badge |
   |--------|-------|
+  | France 2 | <a href="https://www.clictune.com/jKnW"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_2.yml/badge.svg" /></a> |
+  | France 3 | <a href="https://www.clictune.com/jKnX"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_3.yml/badge.svg" /></a> |
+  | France 5 | <a href="https://www.clictune.com/jKnY"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_5.yml/badge.svg" /></a> |
+  | France 4 | <a href="https://www.clictune.com/jKnZ"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_4.yml/badge.svg" /></a> |
   |  LCI   | <a href="https://www.clictune.com/jKnB"><img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/LCI.yml/badge.svg" /></a> |
 </details>
   
