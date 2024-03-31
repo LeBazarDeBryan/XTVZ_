@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_2
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%203%20HD.png" group-title="TNT", France 3
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_3.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Canal+%20HD.png" group-title="Cinéma/Séries", Canal+
-
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Canal+.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%205%20HD.png" group-title="Info", France 5
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_5.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/M6%20HD.png" group-title="TNT", M6
