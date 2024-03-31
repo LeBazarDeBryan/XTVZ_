@@ -1,0 +1,33 @@
+name: C8
+
+on:
+  schedule:
+    - cron: '08 */3 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - uses: actions/checkout@v4
+
+      - name: config
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "Félix"
+      
+      - name: Update C8
+        run: python3 Stream/Python/C8.py > Stream/Live/C8.m3u8
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git pull origin main
+          git commit -m "Update" -m "C8"
+          git push origin main
