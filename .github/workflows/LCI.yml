@@ -29,5 +29,5 @@ jobs:
       - name: commit & push
         run: |
           git pull origin main
-          git commit -m "Update LCI"
+          git commit -m "Update" -m "LCI"
           git push origin main
