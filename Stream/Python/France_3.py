@@ -1,15 +1,26 @@
-#! /usr/bin/python3
+#!/usr/bin/python3
 
 import requests
+import re
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:5')
-print('#EXT-X-STREAM-INF:BANDWIDTH=3032655,AVERAGE-BANDWIDTH=2756959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"')
+print('#EXT-X-VERSION:4')
+print('#EXT-X-INDEPENDENT-SEGMENTS')
+print('#EXT-X-STREAM-INF:CODECS="avc1.64001F,mp4a.40.2",AVERAGE-BANDWIDTH=2857132,RESOLUTION=1280x720,SUBTITLES="subtitles",FRAME-RATE=25.0,BANDWIDTH=3019038,AUDIO="audio_0"')
+
 s = requests.Session()
-response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://simulcast-p.ftven.fr/simulcast/France_3/hls_fr3/index.m3u8')
+response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance3OTTEMTConfiguration/out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8')
 
 string = response.text
-new_string = string.replace("index", "France_3-avc1_2500000=10001")
-print(new_string)
-new2_string = string.replace("index", "France_3-mp4a_96000_fra=20000")
-print(f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",URI="{new2_string}"')
+response2 = s.get(string)
+
+pattern = re.compile(r'/([\da-fA-F-]+?)/\d\.m3u8')
+match = pattern.search(response2.text)
+sessid = match.group(1)
+
+new_string = string.replace("master", "manifest")
+new_string2 = new_string.replace("out/v1/0790ec6bf91946e1b6c9f5e3ff367db6/index.m3u8", f'{sessid}/4.m3u8')
+print(new_string2)
+
+new2_string = new_string2.replace("/4.m3u8", "/6.m3u8")
+print(f'#EXT-X-MEDIA:LANGUAGE="fra",AUTOSELECT=YES,CHANNELS="2",FORCED=NO,TYPE=AUDIO,URI="{new2_string}",GROUP-ID="audio_0",DEFAULT=YES,NAME="1 Francais"')
