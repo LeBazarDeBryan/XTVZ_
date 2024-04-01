@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<title>XTVZ_ - France 5</title>
+<link rel="icon" href="https://avatars.githubusercontent.com/u/85786075" />
+<html>
+<head>
+<body style="background-color:#000000;">
+<style>
+      @font-face { font-family: Modern-M; src: url('/font.ttf'); } 
+      h1, h2, h3, p {
+         font-family: Modern-M
+      }
+</style>
+<center>
+<img height="170" width="350" src="/Images/Logo.png" />
+<br />
+<h2 style="color:#ffffff";>France 5</h2>
+      <script src="https://cdn.jsdelivr.net/gh/clappr/clappr@latest/dist/clappr.min.js"></script>
+	  <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.js"></script>
+<div id="player"></div>
+  <script>
+    var player = new Clappr.Player(
+        {
+          source: '/Stream/Live/France_5.m3u8',
+          plugins: [DashShakaPlayback],
+          shakaConfiguration: {
+            preferredAudioLanguage: 'fr-FR',
+            streaming: {
+              rebufferingGoal: 15
+            }
+          },
+          shakaOnBeforeLoad: function(shaka_player) {
+            // shaka_player.getNetworkingEngine().registerRequestFilter() ...
+          },
+          parentId: '#player'
+        });
+  </script>
+<p style="color:#868686";> Fait par <a style="color:#868686" href="https://github.com/LeBazarDeBryan">JustFélix_</p></a>
+</center>
+</body>  
+</head>
