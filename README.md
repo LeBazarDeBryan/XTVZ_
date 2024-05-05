@@ -85,7 +85,6 @@
 </a></details>
 
 <details><summary><h2>Status</h2></summary>
-  <h3>Officiel.m3u</h3>
 
   |  Stream  | Badge |
   |----------|-------|
