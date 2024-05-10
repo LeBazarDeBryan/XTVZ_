@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="", Wonka (2023)
+http://intelx.tech/movie/wonka/wonka.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img3.acsta.net/pictures/14/07/09/11/59/106906.jpg" group-title="", Retour vers le futur III
+http://intelx.tech/movie/futur/03.m3u8
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/23/10/12/10/59/1348114.jpg" group-title="", Aquaman et le Royaume perdu (2023)
+http://intelx.tech/movies/Aquaman/Aquaman.m3u8
