@@ -1,6 +1,7 @@
-<h3 align="center"> Playlist IPTV Française maintenue à jour par :</h3>
-  
-  <p align="center"><a href="https://github.com/LeBazarDeBryan">@LeBazarDeBryan</a></p>
+<div align="center">
+  <h1>Crédits</h1>
+  <li><a href="https://github.com/rickeymandraque">rickeymandraque</a> - <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues/3#issuecomment-2119106949">TNTenDirect.m3u</li>
+</div>
   
 <br>
   
