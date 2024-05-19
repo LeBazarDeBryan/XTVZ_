@@ -10,13 +10,13 @@
 <h1>Playlist IPTV</h1>
 
 <details><summary><h2>⚠️ Problème ⚠️</h2></summary>
-  <p>Les chaînes de la playlist <a href="https://www.clictune.com/jsfW">TNT</a> ne marchent plus! Cela vient du fournisseur et non de moi. (Voir <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues/3">#3</a>.) Je vous recommande d'utiliser la playlist <a href="IPTV/TNTenDirect.m3u?raw=true">TNTenDirect.m3u</a> (XTVZ_) jusqu'à que ce problème soit réparé. Merci de votre compréhension.</p></details>
+  <p>Les chaînes de la playlist <a href="https://www.clictune.com/jsfW">TNT</a> ne marchent plus! Cela vient du fournisseur et non de moi. (Voir <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues/3">#3</a>.) Je vous recommande d'utiliser la playlist <a href="IPTV/TNTenDirect.m3u?raw=true">TNTenDirect.m3u</a> jusqu'à que ce problème soit réparé. Merci de votre compréhension.</p></details>
 
 
 <details><summary><h2>TV</h2></summary>
   <a href="https://www.clictune.com/jsfW"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://www.clictune.com/jsfV"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
-  <a href="IPTV/TNTenDirect.m3u?raw=true"><img height="100" width="100" src="https://tntendirect.com/apple-touch-icon.png" /></a><a href="https://www.clictune.com/jsfV"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="IPTV/TNTenDirect.m3u?raw=true" title="Merci à rickeymandraque"><img height="100" width="100" src="https://tntendirect.com/apple-touch-icon.png" /></a><a href="https://www.clictune.com/jsfV"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   <p>Chaînes qu'on retrouve la plupart du temps sur Internet mais plus souvent par satelite.</p>
 </details>
 
