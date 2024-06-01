@@ -29,7 +29,7 @@
   
   <a href="https://www.clictune.com/jsh8"><img height="100" width="100" src="Images/K-Net.png" /></a><a href="https://www.clictune.com/jsh9"><img height="100" width="100" src="Images/K-Net%20API.png" /></a><a href="https://www.clictune.com/jsha"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
-  <a href="https://www.clictune.com/jsg1"><img height="100" width="100" src="Images/All.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="IPTV/ALL.m3u?raw=true"><img height="100" width="100" src="Images/All.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="https://www.clictune.com/jsgJ"><img height="100" width="100" src="Images/Pluto%20TV.png" /></a><a href="https://i.mjh.nz/PlutoTV/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
@@ -49,11 +49,11 @@
   
   <a href="https://www.clictune.com/jshn"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
-  <a href="https://www.clictune.com/jsg2"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="IPTV/Stream4free.m3u?raw=true"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
-  <a href="https://www.clictune.com/jx7R"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
+  <a href="IPTV/BFM.m3u?raw=true"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 
-  <a href="https://www.clictune.com/jRmn"><img height="100" width="100" src="Images/Films.png" alt="Films" />
+  <a href="IPTV/Films.m3u?raw=true"><img height="100" width="100" src="Images/Films.png" alt="Films" />
 <p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p></details>
 
 <details><summary><h2>Radio</h2></summary>
