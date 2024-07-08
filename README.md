@@ -58,8 +58,6 @@
   <a href="IPTV/Radio.m3u?raw=true"><img height="100" width="100" src="Images/Radio.png" /></a>
 <p>Station Radio qu'on peut trouver en ligne, FM ou MHz.</p></details>
 
-<p>Si les playlists que vous utilisez ne marchent pas voici des alternatives pour les remplacer.</p></details>
-
 <details><summary><h2>Question</h2></summary>
   <h3>C'est quoi <a href="IPTV/ALL.m3u?raw=true">ALL</a> ?</h3>
   <p><a href="IPTV/ALL.m3u?raw=true">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p></details>
