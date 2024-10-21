@@ -196,12 +196,13 @@ exit
 
 :TWITCH
 title France Twitch (1^/1)
-mode con: cols=32 lines=11
+mode con: cols=32 lines=12
 cls
 call :LOGO
 echo ' 001 ' Les Simpsons           '
 echo ' 002 ' Ma Famille D'abord     '
 echo ' 003 ' Malcolm                '
+echo ' 004 ' South Park             '
 echo '-----'------------------------'
 echo '  M  ' Menu                   '
 echo '-----'------------------------'
@@ -213,6 +214,7 @@ if %input%==m goto MENU
 if %input%==001 curl -s https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Logiciel/Twitch/LesSimpsons -o %temp%/LesSimpsons.bat && call %temp%/LesSimpsons.bat
 if %input%==002 curl -s https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Logiciel/Twitch/MaFamilleDabord -o %temp%/MaFamilleDabord.bat && call %temp%/MaFamilleDabord.bat
 if %input%==003 curl -s https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Logiciel/Twitch/Malcolm -o %temp%/Malcolm.bat && call %temp%/Malcolm.bat
+if %input%==004 curl -s https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Logiciel/Twitch/SouthPark -o %temp%/SouthPark.bat && call %temp%/SouthPark.bat
 goto TWITCH
 exit
 
