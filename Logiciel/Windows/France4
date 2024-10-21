@@ -1,0 +1,1 @@
+streamlink https://www.france.tv/france-4/direct.html best > "Logs/TNT/France 4.txt"

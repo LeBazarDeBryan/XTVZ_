@@ -1,0 +1,1 @@
+streamlink https://www.france.tv/france-3/direct.html best > "Logs/TNT/France 3.txt"
