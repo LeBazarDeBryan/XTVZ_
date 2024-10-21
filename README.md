@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" /></a>
   <img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" /></a>
 
-<h1>Playlist IPTV</h1>
+<details><summary><h1>Playlist IPTV</h1></summary>
 
 <details><summary><h2>⚠️ Problème ⚠️</h2></summary>
   <p>Les chaînes de la playlist <a href="IPTV/TNT.m3u?raw=true">TNT</a> ne marchent plus! Cela vient du fournisseur et non de moi. (Voir <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues/3">#3</a>.) Je vous recommande d'utiliser la playlist <a href="IPTV/TNTenDirect.m3u?raw=true">TNTenDirect.m3u</a> jusqu'à que ce problème soit réparé. Merci de votre compréhension.</p></details>
@@ -62,10 +62,6 @@
   <h3>C'est quoi <a href="IPTV/ALL.m3u?raw=true">ALL</a> ?</h3>
   <p><a href="IPTV/ALL.m3u?raw=true">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p></details>
 
-<details><summary><h2>Statistiques</h2></summary>
- <img src="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline&theme=dark" />
-</a></details>
-
 <details><summary><h2>Status</h2></summary>
 
   |  Stream  | Badge |
@@ -98,4 +94,11 @@
   |   Tiji   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Tiji.yml/badge.svg" alt="" /> |
   |   GONG   | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/GONG.yml/badge.svg" alt="" /> |
   | Trace Urban | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Trace_Urban.yml/badge.svg" alt="" /> |
-</details></div>
+</details>
+</details>
+
+___
+
+<details><summary><h1>Statistiques</h1></summary>
+ <img src="https://api.star-history.com/svg?repos=LeBazarDeBryan/XTVZ_&type=Timeline&theme=dark" />
+</a></details></div>
