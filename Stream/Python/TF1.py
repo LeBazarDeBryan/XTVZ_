@@ -8,15 +8,15 @@ import sys
 USERNAME = os.environ.get('TF1_USER')
 PASSWORD = os.environ.get('TF1_PASSWORD')
 
-if USERNAME is dajaj83660@angewy.com:
+if USERNAME is USERNAME:
     print("TF1_USER is set.")
 else:
     print("TF1_USER is not set.")
 
-if PASSWORD is None:
-    print("TF1_PASSWORD is not set.")
-else:
+if PASSWORD is PASSWORD:
     print("TF1_PASSWORD is set.")
+else:
+    print("TF1_PASSWORD is not set.")
 
 USER_AGENT = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like MacOS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 group_name = "TF1 Plus"
