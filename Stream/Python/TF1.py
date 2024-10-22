@@ -1,16 +1,20 @@
 import os
 import streamlink
+import sys
 
 username = os.environ.get('TF1_USER')
 password = os.environ.get('TF1_PASSWORD')
 
-url = 'https://www.tf1.fr/direct'
+url = 'https://www.tf1.fr/tf1/direct'
 
 session = streamlink.Streamlink()
-session.set_plugin_option('tf1', 'username', username)
-session.set_plugin_option('tf1', 'password', password)
 
-streams = session.streams(url)
+args = {
+    'username': username,
+    'password': password,
+}
+
+streams = session.streams(url, **args)
 
 if streams:
     stream = streams.get('best')
