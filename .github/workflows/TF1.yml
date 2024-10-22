@@ -34,9 +34,6 @@ jobs:
         run: curl ifconfig.me
 
       - name: Update TF1
-        env:
-          TF1_USERNAME: ${{ secrets.TF1_USERNAME }}
-          TF1_PASSW: ${{ secrets.TF1_PASSW }}
         run: |
           python /Stream/Python/TF1.py
 
