@@ -7,17 +7,6 @@ import sys
 # Informations d'authentification
 USERNAME = os.environ.get('TF1_USER')
 PASSWORD = os.environ.get('TF1_PASSWORD')
-
-if USERNAME is USERNAME:
-    print("TF1_USER is set.")
-else:
-    print("TF1_USER is not set.")
-
-if PASSWORD is PASSWORD:
-    print("TF1_PASSWORD is set.")
-else:
-    print("TF1_PASSWORD is not set.")
-
 USER_AGENT = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like MacOS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 group_name = "TF1 Plus"
 
@@ -43,6 +32,9 @@ def login(username, password):
     res = requests.post(AUTH_URL, data=payload, headers=headers)
     res_json = res.json()
     
+    # Debugging: print the response to inspect
+    print(f"Login response: {res_json}")
+
     if res_json.get('statusCode') == 200:
         uid = res_json['userInfo']['UID']
         signature = res_json['userInfo']['UIDSignature']
@@ -55,11 +47,14 @@ def login(username, password):
         }
         session_res = requests.post(SESSION_URL, json=session_payload)
         session_res_json = session_res.json()
+
+        # Debugging: print session response to inspect
+        print(f"Session response: {session_res_json}")
+
         if session_res_json.get('right') == "BASIC":
             user_token = session_res_json['token']
             return user_token
     return None
-
 def json_encode(data):
     return urllib.parse.quote(json.dumps(data))
 
