@@ -10,7 +10,7 @@ url = 'https://www.tf1.fr/tf1/direct'
 session = streamlink.Streamlink()
 
 args = {
-    'username': username,
+    'email': username,
     'password': password,
 }
 
