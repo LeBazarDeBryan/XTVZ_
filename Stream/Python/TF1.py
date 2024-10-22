@@ -3,11 +3,21 @@ import json
 import urllib.parse
 import os
 import sys
-import subprocess
 
 # Informations d'authentification
 USERNAME = os.environ.get('TF1_USER')
 PASSWORD = os.environ.get('TF1_PASSWORD')
+
+if USERNAME is None:
+    print("TF1_USER is not set.")
+else:
+    print("TF1_USER is set.")
+
+if PASSWORD is None:
+    print("TF1_PASSWORD is not set.")
+else:
+    print("TF1_PASSWORD is set.")
+
 USER_AGENT = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like MacOS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 group_name = "TF1 Plus"
 
