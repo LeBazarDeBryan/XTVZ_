@@ -6,18 +6,17 @@ import sys
 username = os.environ.get('TF1_USER')
 password = os.environ.get('TF1_PASSWORD')
 
-url = 'https://www.tf1.fr/direct'
+url = 'https://www.tf1.fr/tf1/direct'
 
 session = streamlink.Streamlink()
 
 try:
     command = [
         "streamlink",
-        url,
-        "best",
         "--tf1-email", username,
         "--tf1-password", password,
-        "--hls-live-restart"
+        url,
+        "best"
     ]
 
     result = subprocess.run(command, capture_output=True, text=True)
