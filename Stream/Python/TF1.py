@@ -8,10 +8,10 @@ import sys
 USERNAME = os.environ.get('TF1_USER')
 PASSWORD = os.environ.get('TF1_PASSWORD')
 
-if USERNAME is None:
-    print("TF1_USER is not set.")
-else:
+if USERNAME is dajaj83660@angewy.com:
     print("TF1_USER is set.")
+else:
+    print("TF1_USER is not set.")
 
 if PASSWORD is None:
     print("TF1_PASSWORD is not set.")
