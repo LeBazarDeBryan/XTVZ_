@@ -31,8 +31,6 @@ def login(username, password):
     }
     res = requests.post(AUTH_URL, data=payload, headers=headers)
     res_json = res.json()
-    
-    print(f"Login response: {res_json}")
 
     if res_json.get('statusCode') == 200:
         uid = res_json['userInfo']['UID']
@@ -61,9 +59,6 @@ def get_channel_list():
     encoded_url = f"{GRAPHQL_URL}?id={GRAPHQL_ID}&variables={graphql_query}"
     response = requests.get(encoded_url)
     channel_list = response.json()['data']['lives']['items']
-    
-    # Debugging: print the channel list
-    print(f"Channel List: {channel_list}")
 
     return [
         (
@@ -86,6 +81,10 @@ def get_hls_urls(channel_id, user_token):
     }
     api_response = requests.get(URL_API, headers=headers)
     api_response_json = api_response.json()
+
+    # Debugging: print the API response
+    print(f"HLS API Response for {channel_id}: {api_response_json}")
+
     if api_response_json.get('delivery', {}).get('code') == "200":
         hls_url = api_response_json['delivery']['url']
         if hls_url.endswith("hls-sd.m3u8"):
