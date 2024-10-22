@@ -10,7 +10,7 @@ mode con: cols=36 lines=8
 cls
 call :LOGO
 echo '     Install Streamlink/VLC?      '
-echo '              (Y/N)               '
+echo '              (Y^/N)               '
 echo '----------------------------------'
 set /p input=# 
 if %input%==Y goto INSTALL
