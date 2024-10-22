@@ -9,9 +9,10 @@
 
 <details><summary><h1>Annoncements</h1></summary>
 <div align="left">
-  <h3>22/10/2024</h3>
+  <details><summary><h3>22/10/2024</h3></summary>
   
   Je vais supprimer le [site web XTVZ_](https://xtvz.vercel.app) parce qu'au final, il y a beaucoup de chaînes qui ne peuvent pas être regardées et que c'est dur de maintenir tout ce projet tous seul. Je pense que j'en referais une, mais qui sera automatisé avec un bot. Aussi, il y aurait très bientôt un logiciel ! Il est écrit en Batch *(.bat)* et ça sera beaucoup plus facile de regarder les chaînes *(surtout TF1)*. Pour les mises à jour du logiciel, elles seront automatiquement récupérées dans [/Logiciel/Windows/](/Logiciel/Windows/).
+</details>
 </div>
 </details>
 
