@@ -38,7 +38,7 @@ jobs:
           TF1_USERNAME: ${{ secrets.TF1_USERNAME }}
           TF1_PASSWORD: ${{ secrets.TF1_PASSWORD }}
         run: |
-          streamlink --tf1-email=$TF1_USERNAME --tf1-password=$TF1_PASSWORD https://www.tf1.fr/tf1/direct best > Stream/Live/TF1.m3u8
+          streamlink --tf1-email=dajaj83660@angewy.com --tf1-password=$TF1_PASSWORD https://www.tf1.fr/tf1/direct best > Stream/Live/TF1.m3u8
 
       - name: Git Add
         run: |
