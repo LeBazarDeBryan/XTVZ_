@@ -1,3 +1,150 @@
-Login response: {'callId': '4ec12ac7176245b486adf4c1dd420ad0', 'errorCode': 0, 'apiVersion': 2, 'statusCode': 200, 'statusReason': 'OK', 'time': '2024-10-22T16:42:39.713Z', 'registeredTimestamp': 1729528541, 'UID': 'e953b4e51f654b08a398fff995734b9e', 'UIDSignature': 'XwGC79IXpUdjMfPa/nSlS8p4C/k=', 'signatureTimestamp': '1729615359', 'created': '2024-10-21T16:35:41.002Z', 'createdTimestamp': 1729528541, 'isActive': True, 'isRegistered': True, 'isVerified': True, 'lastLogin': '2024-10-22T16:42:39.668Z', 'lastLoginTimestamp': 1729615359, 'lastUpdated': '2024-10-21T16:35:53.335Z', 'lastUpdatedTimestamp': 1729528553335, 'loginProvider': 'site', 'oldestDataUpdated': '2024-10-21T16:35:41.002Z', 'oldestDataUpdatedTimestamp': 1729528541002, 'profile': {'firstName': 'greg3.0', 'age': 54, 'birthDay': 1, 'birthMonth': 3, 'birthYear': 1970, 'email': 'dajaj83660@angewy.com', 'gender': 'm', 'zip': '56410'}, 'registered': '2024-10-21T16:35:41.248Z', 'socialProviders': 'site', 'verified': '2024-10-21T16:35:53.335Z', 'verifiedTimestamp': 1729528553335, 'userInfo': {'UID': 'e953b4e51f654b08a398fff995734b9e', 'UIDSig': 'BC5iTGCcrSzDyLFHlj6kzTKt73M=', 'UIDSignature': 'XwGC79IXpUdjMfPa/nSlS8p4C/k=', 'signatureTimestamp': '1729615359', 'isSiteUser': True, 'isConnected': True, 'isTempUser': False, 'isLoggedIn': True, 'loginProvider': 'site', 'loginProviderUID': 'e953b4e51f654b08a398fff995734b9e', 'isSiteUID': True, 'identities': [{'provider': 'site', 'providerUID': 'e953b4e51f654b08a398fff995734b9e', 'allowsLogin': True, 'isLoginIdentity': True, 'isExpiredSession': False, 'lastUpdated': '2024-10-22T16:42:39.6684636Z', 'lastUpdatedTimestamp': 1729615359668, 'oldestDataUpdated': '2024-10-21T16:35:41.002Z', 'oldestDataUpdatedTimestamp': 1729528541002, 'firstName': 'greg3.0', 'nickname': 'greg3.0', 'age': 54, 'birthDay': 1, 'birthMonth': 3, 'birthYear': 1970, 'email': 'dajaj83660@angewy.com', 'gender': 'm', 'zip': '56410'}], 'nickname': 'greg3.0', 'firstName': 'greg3.0', 'gender': 'm', 'age': 54, 'birthDay': 1, 'birthMonth': 3, 'birthYear': 1970, 'email': 'dajaj83660@angewy.com', 'zip': '56410', 'capabilities': 'None', 'providers': 'site', 'oldestDataUpdatedTimestamp': 1729528541, 'oldestDataAge': 86819, 'statusReason': 'OK', 'statusCode': 200, 'timestamp': '2024-10-22 16:42:39', 'time': '2024-10-22T16:42:39.703Z', 'errorCode': 0}, 'newUser': False, 'sessionInfo': {'cookieName': 'gac_3_hWgJdARhz_7l1oOp3a8BDLoR9cuWZpUaKG4aqF7gum9_iK3uTZ2VlDBl8ANf8FVk', 'cookieValue': 'st2.s.AtLtqbEWJA.zNCLECkNGhvtpvncun1uTs6KdsackKtQ9A9yHeeC0aeBAYPEHh71N1fT9ETaGvWe-bbw0Joss0gSIDi10-N4LwtUieRQTwWx5FywRVXkoRQf3deos4gzWgyyI65ID8np.-P26h_E2bUDqRgHMXygqJYKI0RuEzPL3tG0pG4Hc9bwbyqBHrKxOaU4Islks05-auoLZgUnKwGsykRO1ynrsaQ.sc3'}}
-Session response: {'error': 'json: cannot unmarshal string into Go struct field GigyaInput.timestamp of type int'}
-Échec de l'authentification. Vérifiez votre nom d'utilisateur et votre mot de passe.
+Login response: {'callId': '06f2d1dc61cd44639818a5d22c98c25c', 'errorCode': 0, 'apiVersion': 2, 'statusCode': 200, 'statusReason': 'OK', 'time': '2024-10-22T16:47:39.414Z', 'registeredTimestamp': 1729528541, 'UID': 'e953b4e51f654b08a398fff995734b9e', 'UIDSignature': 'gCoUjrZcmBtVXuQWHQOC+AKRo54=', 'signatureTimestamp': '1729615659', 'created': '2024-10-21T16:35:41.002Z', 'createdTimestamp': 1729528541, 'isActive': True, 'isRegistered': True, 'isVerified': True, 'lastLogin': '2024-10-22T16:47:39.369Z', 'lastLoginTimestamp': 1729615659, 'lastUpdated': '2024-10-21T16:35:53.335Z', 'lastUpdatedTimestamp': 1729528553335, 'loginProvider': 'site', 'oldestDataUpdated': '2024-10-21T16:35:41.002Z', 'oldestDataUpdatedTimestamp': 1729528541002, 'profile': {'firstName': 'greg3.0', 'age': 54, 'birthDay': 1, 'birthMonth': 3, 'birthYear': 1970, 'email': 'dajaj83660@angewy.com', 'gender': 'm', 'zip': '56410'}, 'registered': '2024-10-21T16:35:41.248Z', 'socialProviders': 'site', 'verified': '2024-10-21T16:35:53.335Z', 'verifiedTimestamp': 1729528553335, 'userInfo': {'UID': 'e953b4e51f654b08a398fff995734b9e', 'UIDSig': 'Ou8BewYUKX8pynq+YmoME7ic+XU=', 'UIDSignature': 'gCoUjrZcmBtVXuQWHQOC+AKRo54=', 'signatureTimestamp': '1729615659', 'isSiteUser': True, 'isConnected': True, 'isTempUser': False, 'isLoggedIn': True, 'loginProvider': 'site', 'loginProviderUID': 'e953b4e51f654b08a398fff995734b9e', 'isSiteUID': True, 'identities': [{'provider': 'site', 'providerUID': 'e953b4e51f654b08a398fff995734b9e', 'allowsLogin': True, 'isLoginIdentity': True, 'isExpiredSession': False, 'lastUpdated': '2024-10-22T16:47:39.369091Z', 'lastUpdatedTimestamp': 1729615659369, 'oldestDataUpdated': '2024-10-21T16:35:41.002Z', 'oldestDataUpdatedTimestamp': 1729528541002, 'firstName': 'greg3.0', 'nickname': 'greg3.0', 'age': 54, 'birthDay': 1, 'birthMonth': 3, 'birthYear': 1970, 'email': 'dajaj83660@angewy.com', 'gender': 'm', 'zip': '56410'}], 'nickname': 'greg3.0', 'firstName': 'greg3.0', 'gender': 'm', 'age': 54, 'birthDay': 1, 'birthMonth': 3, 'birthYear': 1970, 'email': 'dajaj83660@angewy.com', 'zip': '56410', 'capabilities': 'None', 'providers': 'site', 'oldestDataUpdatedTimestamp': 1729528541, 'oldestDataAge': 87119, 'statusReason': 'OK', 'statusCode': 200, 'timestamp': '2024-10-22 16:47:39', 'time': '2024-10-22T16:47:39.404Z', 'errorCode': 0}, 'newUser': False, 'sessionInfo': {'cookieName': 'gac_3_hWgJdARhz_7l1oOp3a8BDLoR9cuWZpUaKG4aqF7gum9_iK3uTZ2VlDBl8ANf8FVk', 'cookieValue': 'st2.s.AtLtYgZvCQ.Fz7ojzC16fdsQZmACiMBNWV7gV4mkckxyU50MzhhLCMPnzw8w9OCedydkIBeZCijXheGs8xjGH3kZC937BMBD3KcXkvvsV5EU9ZphEB34hAB6EoeKMzaiHpRKF9ehBeb.T4JyBqs-HPyt4i7sfkTwKkydNcYxaa51KPsrJzyS2PboPoHsorL8RXy6wFjYDlrk2-I2Yy0YdS6DzZNfcQMihA.sc3'}}
+Session response: {'token': 'eyJhbGciOiJFUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJhYlRlc3QiOnt9LCJleHAiOjE3Mjk3MTY0NjAsImZjZmEiOjAsImZ0Ijp7fSwiaWF0IjoxNzI5NjE1NjYwLCJpZGQiOjAsImlzcyI6ImdpZ3lhIiwibHZsIjoxLCJtc2NiIjpmYWxzZSwibm9BdWRpZW5jZSI6ZmFsc2UsIm5vQ3VzdG9taXphdGlvbiI6ZmFsc2UsIm5vUHJvZmlsaW5nIjpmYWxzZSwicGx0Ijoid2ViIiwic3ViIjoiZTk1M2I0ZTUxZjY1NGIwOGEzOThmZmY5OTU3MzRiOWUifQ._PhF1VWbSlvKdnGJ1umflZE6Mmp7K_yQmQFrp88sJUY3gU4Al7f9bS6436rvWy-Sh-4TOmSpvBPhY8gUmm6P-g', 'refresh_token': 'eyJhbGciOiJFUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NDUzODM2NjAsImlhdCI6MTcyOTYxNTY2MCwiaXNzIjoicmVmcmVzaCIsImp0aSI6ImI2NTEyODg4LTliZTYtNDUyYi04NTU1LWMzNzNiNjM4M2Q2MiIsInN1YiI6ImU5NTNiNGU1MWY2NTRiMDhhMzk4ZmZmOTk1NzM0YjllIn0.q7BH-mfpqSVV_T0fLGG7UVckBAC4i6xSFzyCpH0gv4sUkNWaNAkjhYD1UStljIC1_DvhTgK7stmrZwFRQq_UkQ', 'ttl': 100800, 'right': 'BASIC', 'didomi': {'organizationUserId': 'cda2dc8898ec4e5f7bb53c0be6b106ba3d7e65fd48c2942776772b658c3f6957', 'organizationUserIdAuthDigest': '758e54558b9943197aba9a3a23d48dea8dcbb366a0224494313d0a46edaf41a1', 'organizationUserIdAuthSid': 'prodback-TfV2ykey', 'organizationUserIdAuthAlgorithm': 'hash-sha256', 'organizationUserIdAuthSalt': '1a3e6633e4757e214276324dc4831829', 'organizationUserIdExp': 1729716460}}
+#EXTINF:-1 tvg-name="TF1" tvg-logo=https://photos.tf1.fr/0/40/logo-tf1-2020-min-1c7c27-5165d6-0@1x.png group-title=Chaînes TV,TF1
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="TMC" tvg-logo=https://photos.tf1.fr/0/40/logo-tmc-2020-min-4fcb24-65acf4-0@1x.png group-title=Chaînes TV,TMC
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="TFX" tvg-logo=https://photos.tf1.fr/0/40/logo-tfx-2020-min-2ac5f0-d75ff8-0@1x.png group-title=Chaînes TV,TFX
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="En direct du Château" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-38c000-eaf6e0-0@1x.png group-title=Chaînes TV,En direct du Château
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="TF1 Séries Films" tvg-logo=https://photos.tf1.fr/0/40/logo-tf1sf-2020-min-4957cb-d426ad-0@1x.png group-title=Chaînes TV,TF1 Séries Films
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="LCI" tvg-logo=https://photos.tf1.fr/0/40/logo-lci-2020-min-a0978b-76935d-0@1x.png group-title=Chaînes TV,LCI
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="La chaîne L'Equipe" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-lequipe-1-3a8544-11f552-0@1x.png group-title=Chaînes TV,La chaîne L'Equipe
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Le Figaro TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-e0e79f-9f533c-0@1x.png group-title=Chaînes TV,Le Figaro TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Demain nous appartient" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_dna-3ab0c5-0e689c-0@1x.png group-title=Fictions Françaises,Demain nous appartient
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Ici tout commence" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_itc-c597ea-56225e-0@1x.png group-title=Fictions Françaises,Ici tout commence
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Plus belle la vie" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_pblv-36105b-a26852-0@1x.png group-title=Fictions Françaises,Plus belle la vie
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Polar Fiction TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-polar-fiction-v3-a0f8ac-3778a4-0@1x.png group-title=Fictions Françaises,Polar Fiction TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Comédie Fiction" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-c2c7de-06d156-0@1x.png group-title=Fictions Françaises,Comédie Fiction
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Saga de l'été TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-ec6841-dc4df5-0@1x.png group-title=Fictions Françaises,Saga de l'été TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Seconde Chance" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-eefe77-ec8c0b-0@1x.png group-title=Fictions Françaises,Seconde Chance
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Pas de secret entre nous" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-0d4110-2b1e22-0@1x.png group-title=Fictions Françaises,Pas de secret entre nous
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Chante !" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-371b4d-52333d-0@1x.png group-title=Fictions Françaises,Chante !
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Thriller Fiction" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-b3414a-d114e0-0@1x.png group-title=Fictions Françaises,Thriller Fiction
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Pour toujours plus un jour TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-fast-pour-toujours-plus-un-jour-e7cb1a-0a9348-0@1x.png group-title=Fictions Françaises,Pour toujours plus un jour TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Sous le Soleil" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-960c76-ef8f32-0@1x.png group-title=Fictions Françaises,Sous le Soleil
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="RIS Police Scientifique TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-ris-police-scientifique-16db49-65fd51-0@1x.png group-title=Fictions Françaises,RIS Police Scientifique TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Foudre" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-foudre-0decfb-c7954c-0@1x.png group-title=Fictions Françaises,Foudre
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Camping Paradis" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-camping-paradis-e83290-f517db-0@1x.png group-title=Fictions Françaises,Camping Paradis
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Nos chers voisins" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_ncv-e03213-0175fb-0@1x.png group-title=Fictions Françaises,Nos chers voisins
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Une famille formidable" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-une-famille-formidable-9c8489-1d13ad-0@1x.png group-title=Fictions Françaises,Une famille formidable
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Joséphine ange gardien" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-josephine-ange-gardien-f155fd-eec202-0@1x.png group-title=Fictions Françaises,Joséphine ange gardien
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Famille d'accueil" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-famille-daccueil-a68a46-90fae0-0@1x.png group-title=Fictions Françaises,Famille d'accueil
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Les bracelets rouges" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_lbr-0a833f-749ece-0@1x.png group-title=Fictions Françaises,Les bracelets rouges
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Sam" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_sam-5664dd-b1a60e-0@1x.png group-title=Fictions Françaises,Sam
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Je te promets" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-je-te-promets-246c34-fb2be5-0@1x.png group-title=Fictions Françaises,Je te promets
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Profilage" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-profilage-af3bcc-c460b7-0@1x.png group-title=Fictions Françaises,Profilage
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Léo Mattéï " tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-leo-mattei-e7a386-31bfb4-0@1x.png group-title=Fictions Françaises,Léo Mattéï 
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Balthazar" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-balthazar-eed798-0bc5fd-0@1x.png group-title=Fictions Françaises,Balthazar
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Munch" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-munch-356197-de421e-0@1x.png group-title=Fictions Françaises,Munch
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Section de recherches" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-section-de-recherches-1a364c-ae8426-0@1x.png group-title=Fictions Françaises,Section de recherches
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Alice Nevers" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-alice-nevers-0451f1-3ca9c1-0@1x.png group-title=Fictions Françaises,Alice Nevers
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Taken TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-fast-taken-f26f13-7d5936-0@1x.png group-title=Séries Étrangères,Taken TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Nashville TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-stream-nashville-489ef1-614a1f-0@1x.png group-title=Séries Étrangères,Nashville TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Hartley coeur à vif" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-7d42f9-0d532c-0@1x.png group-title=Séries Étrangères,Hartley coeur à vif
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Le destin de Lisa TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-0459fa-8909bb-0@1x.png group-title=Séries Étrangères,Le destin de Lisa TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Naruto TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-stream-naruto-4dda81-bc8f1c-0@1x.png group-title=Manga,Naruto TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Inazuma Eleven TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-stream-inazuma-eleven-b7d76c-be2e1b-0@1x.png group-title=Manga,Inazuma Eleven TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Boruto: Naruto Next Gen TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-boruto-44610c-7e209a-0@1x.png group-title=Manga,Boruto: Naruto Next Gen TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Palmashow TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-bac96b-e599db-0@1x.png group-title=Divertissement,Palmashow TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Mamans & Célèbres TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-mamans-et-celebres-b0e78f-c7fb67-0@1x.png group-title=Divertissement,Mamans & Célèbres TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Star Academy TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-99432b-1aee12-0@1x.png group-title=Divertissement,Star Academy TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="La Villa des Cœurs Brisés TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-bc533b-8e3d9f-0@1x.png group-title=Divertissement,La Villa des Cœurs Brisés TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="La Bataille des Couples TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-labatailled-2f6385-dfa51c-0@1x.png group-title=Divertissement,La Bataille des Couples TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="François Damiens TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-les-cameras-cachees-de-francois-damiens-515de2-b944c5-0@1x.png group-title=Divertissement,François Damiens TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Les Inconnus TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-les-inconnus-78e128-1d9d87-0@1x.png group-title=Divertissement,Les Inconnus TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Danse avec les stars TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-stream_dals-cef0f9-6a3bcf-0@1x.png group-title=Divertissement,Danse avec les stars TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="La Bataille des Clans TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-la-bataille-des-clans-789f56-185939-0@1x.png group-title=Divertissement,La Bataille des Clans TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Lolywood TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-165684-62890a-0@1x.png group-title=Divertissement,Lolywood TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Ushuaia for Change" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-11e32b-0@1x.png group-title=Divertissement,Ushuaia for Change
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Les plus belles vacances" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-les-plus-belles-vacances-7154d5-067a06-0@1x.png group-title=Divertissement,Les plus belles vacances
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Secret Story " tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-secret-story-3935ed-d3af6b-0@1x.png group-title=Divertissement,Secret Story 
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Mask Singer" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-mask-singer-57b73b-e5ec02-0@1x.png group-title=Divertissement,Mask Singer
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="4 mariages et 1 lune de miel" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine_4mp1ldm-4048e1-a56190-0@1x.png group-title=Divertissement,4 mariages et 1 lune de miel
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Super Nanny" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-super-nanny-86e3c9-8bf72c-0@1x.png group-title=Divertissement,Super Nanny
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Baby Boom" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-babyboom-ddea8c-f16a11-0@1x.png group-title=Divertissement,Baby Boom
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Les Enfoirés " tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-4acff1-0@1x.png group-title=Lifestyle,Les Enfoirés 
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Les Restos du Cœur" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-c4418f-0@1x.png group-title=Lifestyle,Les Restos du Cœur
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Le Monde de Little Angel" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-little-angel-png-2e5fab-fd282c-0@1x.png group-title=Jeunesse,Le Monde de Little Angel
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Boule et Bill TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-c9239c-0@1x.png group-title=Jeunesse,Boule et Bill TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Super Wings TV" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f10c05-0@1x.png group-title=Jeunesse,Super Wings TV
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Pyjamasques" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-pyjamasque-6af50e-d4f94e-0@1x.png group-title=Jeunesse,Pyjamasques
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Mighty Express" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-robocar-e4bb28-326ba7-0@1x.png group-title=Jeunesse,Mighty Express
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Robocarpoli" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-robocar-66f013-0ca257-0@1x.png group-title=Jeunesse,Robocarpoli
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Milo" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-milo-88cf4f-87ce54-0@1x.png group-title=Jeunesse,Milo
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Les Schtroumpfs " tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-les-schtroumpfs-vintage-8d444d-b78d0a-0@1x.png group-title=Jeunesse,Les Schtroumpfs 
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Le Marsupilami" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-marsupilami-4e1bdb-54388a-0@1x.png group-title=Jeunesse,Le Marsupilami
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Cry Babies BFF" tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-cry-babies-bff-b985e5-e4ea7e-0@1x.png group-title=Jeunesse,Cry Babies BFF
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Le Petit Spirou " tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-le-petit-spirou-cac471-d96130-0@1x.png group-title=Jeunesse,Le Petit Spirou 
+Chaîne non trouvée dans la liste.
+#EXTINF:-1 tvg-name="Cédric " tvg-logo=https://photos.tf1.fr/0/40/logo-chaine-cedric-ee871b-54c9ee-0@1x.png group-title=Jeunesse,Cédric 
+Chaîne non trouvée dans la liste.
