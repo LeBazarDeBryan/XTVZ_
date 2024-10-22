@@ -32,26 +32,21 @@ def login(username, password):
     res = requests.post(AUTH_URL, data=payload, headers=headers)
     res_json = res.json()
     
-    # Debugging: print the response to inspect
     print(f"Login response: {res_json}")
 
     if res_json.get('statusCode') == 200:
         uid = res_json['userInfo']['UID']
         signature = res_json['userInfo']['UIDSignature']
-        # Convert timestamp to integer
         timestamp = int(res_json['userInfo']['signatureTimestamp'])
         
         session_payload = {
             "uid": uid,
             "signature": signature,
-            "timestamp": timestamp,  # Ensure this is an integer
+            "timestamp": timestamp,
             "consent_ids": ["1", "2", "3", "4", "10001", "10003", "10005", "10007", "10013", "10015", "10017", "10019", "10009", "10011", "13002", "13001", "10004", "10014", "10016", "10018", "10020", "10010", "10012", "10006", "10008"]
         }
         session_res = requests.post(SESSION_URL, json=session_payload)
         session_res_json = session_res.json()
-
-        # Debugging: print session response to inspect
-        print(f"Session response: {session_res_json}")
 
         if session_res_json.get('right') == "BASIC":
             user_token = session_res_json['token']
@@ -66,6 +61,10 @@ def get_channel_list():
     encoded_url = f"{GRAPHQL_URL}?id={GRAPHQL_ID}&variables={graphql_query}"
     response = requests.get(encoded_url)
     channel_list = response.json()['data']['lives']['items']
+    
+    # Debugging: print the channel list
+    print(f"Channel List: {channel_list}")
+
     return [
         (
             item['channel']['live']['streamId'], 
