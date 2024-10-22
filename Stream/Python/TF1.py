@@ -3,6 +3,7 @@ import json
 import urllib.parse
 import os
 import sys
+import subprocess
 
 # Informations d'authentification
 USERNAME = os.environ.get('TF1_USER')
