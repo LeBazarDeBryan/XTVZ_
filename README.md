@@ -7,6 +7,16 @@
   <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" /></a>
   <img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" /></a>
 
+<details><summary><h1>Annoncements</h1></summary>
+<div align="left">
+  <h3>22/10/2024</h3>
+  
+  Je vais supprimer le [site web XTVZ_](https://xtvz.vercel.app) parce qu'au final, il y a beaucoup de chaînes qui ne peuvent pas être regardées et que c'est dur de maintenir tout ce projet tous seul. Je pense que j'en referais une, mais qui sera automatisé avec un bot. Aussi, il y aurait très bientôt un logiciel ! Il est écrit en Batch *(.bat)* et ça sera beaucoup plus facile de regarder les chaînes *(surtout TF1)*. Pour les mises à jour du logiciel, elles seront automatiquement récupérées dans [/Logiciel/Windows/](/Logiciel/Windows/).
+</div>
+</details>
+
+___
+
 <details><summary><h1>Playlist IPTV</h1></summary>
 
 <details><summary><h2>⚠️ Problème ⚠️</h2></summary>
