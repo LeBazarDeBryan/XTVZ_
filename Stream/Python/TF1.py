@@ -38,11 +38,13 @@ def login(username, password):
     if res_json.get('statusCode') == 200:
         uid = res_json['userInfo']['UID']
         signature = res_json['userInfo']['UIDSignature']
-        timestamp = res_json['userInfo']['signatureTimestamp']
+        # Convert timestamp to integer
+        timestamp = int(res_json['userInfo']['signatureTimestamp'])
+        
         session_payload = {
             "uid": uid,
             "signature": signature,
-            "timestamp": timestamp,
+            "timestamp": timestamp,  # Ensure this is an integer
             "consent_ids": ["1", "2", "3", "4", "10001", "10003", "10005", "10007", "10013", "10015", "10017", "10019", "10009", "10011", "13002", "13001", "10004", "10014", "10016", "10018", "10020", "10010", "10012", "10006", "10008"]
         }
         session_res = requests.post(SESSION_URL, json=session_payload)
@@ -55,6 +57,7 @@ def login(username, password):
             user_token = session_res_json['token']
             return user_token
     return None
+
 def json_encode(data):
     return urllib.parse.quote(json.dumps(data))
 
