@@ -4,12 +4,43 @@ chcp 65001
 title XTVZ_ by Félx
 mkdir "Logs/TNT"
 mkdir "Logs/Twitch"
+set red=[31m
+set bred=[91m
+set green=[92m
+set yellow=[33m
+set byellow=[93m
+set blue=[34m
+set bblue=[94m
+set white=[37m
+set bwhite=[97m
+set magenta=[35m
+set bmagenta=[95m
+set orange=[38;5;208m
+set grey=[90m
+set reset=[0m
+set bg_red=[41m
+set bg_red_black=[41;30m
+set bg_blue=[44m
+set bg_blue_bwhite=[44;97m
+set bg_bblue_bwhite=[94;97m
+set bg_bred=[101m
+set bg_bmagenta=[105m
+set bg_orange=[48;5;208m
+set bg_orange_bwhite=[48;5;208;97m
+set bg_white=[47m
+set bg_white_black=[47;30m
+set bg_yellow=[43m
+set bg_yellow_black=[43;30m
+set bg_green=[42m
+set bg_green_white=[42;97m
+set bg_bwhite_red=[107;31m
 :MENU
+color 07
 title Menu
 mode con: cols=32 lines=9
 cls
 call :LOGO
-echo ' 001 ' France                 '
+echo ' 001 ' %bblue%Fr%bwhite%an%red%ce%reset%                 '
 echo '-----'------------------------'
 echo '  P  ' Paramètres             '
 echo '-----'------------------------'
@@ -17,6 +48,7 @@ set /p input=#
 mode con: cols=16 lines=1
 cls
 if %input%==P goto PARAMETRES
+if %input%==p goto PARAMETRES
 if %input%==001 goto FRANCE
 goto MENU
 exit
@@ -26,7 +58,7 @@ title Paramètres
 mode con: cols=32 lines=9
 cls
 call :LOGO
-echo ' TF1 ' Compte TF1  (Mail/MDP) '
+echo ' TF1 ' Compte %bg_blue%T%reset%F%bg_red%1%reset%  (Mail/MDP) '
 echo '-----'------------------------'
 echo '  M  ' Menu                   '
 echo '-----'------------------------'
@@ -41,7 +73,7 @@ exit
 
 :COMPTE_TF1
 title Compte TF1
-mode con: cols=75 lines=20
+mode con: cols=75 lines=5
 cls
 set /p email="E-Mail : "
 set /p password="Mot De Passe : "
@@ -58,7 +90,7 @@ mode con: cols=32 lines=10
 cls
 call :LOGO
 echo ' 001 ' TNT                    '
-echo ' 002 ' Twitch                 '
+echo ' 002 ' %magenta%Twitch%reset%                 '
 echo '-----'------------------------'
 echo '  M  ' Menu                   '
 echo '-----'------------------------'
@@ -73,30 +105,31 @@ goto FRANCE
 exit
 
 :TNT
+color 07
 title France TNT (1^/2)
 mode con: cols=32 lines=30
 cls
 call :LOGO
-echo ' 001 ' TF1                    '
-echo ' 002 ' France 2               '
-echo ' 003 ' France 3               '
-echo ' 004 ' Canal+                 '
-echo ' 005 ' France 5               '
-echo ' 006 ' M6                     '
-echo ' 007 ' Arte                   '
-echo ' 008 ' C8                     '
-echo ' 009 ' W9                     '
-echo ' 010 ' TMC                    '
-echo ' 011 ' TFX                    '
-echo ' 012 ' NRJ 12                 '
+echo ' 001 ' %bg_blue%T%reset%F%bg_red%1%reset%                    '
+echo ' 002 ' France %red%2%reset%               '
+echo ' 003 ' France %bblue%3%reset%               '
+echo ' 004 ' %bwhite%Canal+%reset%                 '
+echo ' 005 ' France %green%5%reset%               '
+echo ' 006 ' %bwhite%M%bred%6%reset%                     '
+echo ' 007 ' %orange%Arte%reset%                   '
+echo ' 008 ' C%bg_white_black%8%reset%                     '
+echo ' 009 ' %bmagenta%W%white%9%reset%                     '
+echo ' 010 ' %bwhite%TMC%reset%                    '
+echo ' 011 ' %bg_orange_bwhite%TFX%reset%                    '
+echo ' 012 ' %red%NRJ %bwhite%12%reset%                 '
 echo ' 013 ' LCP                    '
-echo ' 014 ' France 4               '
-echo ' 015 ' BFM TV                 '
-echo ' 016 ' CNews                  '
-echo ' 017 ' CStar                  '
-echo ' 018 ' Gulli                  '
-echo ' 019 ' TF1 Séries Films       '
-echo ' 020 ' L'Équipe TV            '
+echo ' 014 ' France %bmagenta%4%reset%               '
+echo ' 015 ' %bg_blue_bwhite%BFM TV%reset%                 '
+echo ' 016 ' C%bg_red_black%News%reset%                  '
+echo ' 017 ' C%bg_yellow_black%Star%reset%                  '
+echo ' 018 ' %bg_green_white%Gulli%reset%                  '
+echo ' 019 ' %bg_blue_bwhite%TF%bg_bblue_bwhite%1%reset% %grey%Séries Films%reset%       '
+echo ' 020 ' %bg_bwhite_red%L'Équipe TV%reset%            '
 echo '-----'------------------------'
 echo '   b ' Page Suivante    (1/2) '
 echo '-----'------------------------'
@@ -136,6 +169,7 @@ goto TNT
 exit
 
 :TNT_2
+color 07
 title France TNT (2^/2)
 mode con: cols=32 lines=30
 cls
@@ -171,38 +205,39 @@ cls
 if %input%==d goto TNT
 if %input%==M goto MENU
 if %input%==m goto MENU
-if %input%==021 
-if %input%==022 
-if %input%==023 
-if %input%==024 
-if %input%==025 
-if %input%==026 
-if %input%==027 
-if %input%==028 
-if %input%==029 
-if %input%==030 
-if %input%==031 
-if %input%==032 
-if %input%==033 
-if %input%==034 
-if %input%==035 
-if %input%==036 
-if %input%==037 
-if %input%==038 
-if %input%==039 
-if %input%==040 
+if %input%==021 goto TNT_2
+if %input%==022 goto TNT_2
+if %input%==023 goto TNT_2
+if %input%==024 goto TNT_2
+if %input%==025 goto TNT_2
+if %input%==026 goto TNT_2
+if %input%==027 goto TNT_2
+if %input%==028 goto TNT_2
+if %input%==029 goto TNT_2
+if %input%==030 goto TNT_2
+if %input%==031 goto TNT_2
+if %input%==032 goto TNT_2
+if %input%==033 goto TNT_2
+if %input%==034 goto TNT_2
+if %input%==035 goto TNT_2
+if %input%==036 goto TNT_2
+if %input%==037 goto TNT_2
+if %input%==038 goto TNT_2
+if %input%==039 goto TNT_2
+if %input%==040 goto TNT_2
 goto TNT_2
 exit
 
 :TWITCH
+color 07
 title France Twitch (1^/1)
 mode con: cols=32 lines=12
 cls
 call :LOGO
-echo ' 001 ' Les Simpsons           '
+echo ' 001 ' %yellow%Les Simpsons%reset%           '
 echo ' 002 ' Ma Famille D'abord     '
 echo ' 003 ' Malcolm                '
-echo ' 004 ' South Park             '
+echo ' 004 ' %red%South Park%reset%             '
 echo '-----'------------------------'
 echo '  M  ' Menu                   '
 echo '-----'------------------------'
@@ -220,6 +255,6 @@ exit
 
 :LOGO
 echo  ------------------------------
-echo '            XTVZ_             '
-echo '           by Félx            '
+echo '            %bred%X%red%TV%bred%Z_%reset%             '
+echo '           by %bwhite%Félx%reset%            '
 echo '------------------------------'

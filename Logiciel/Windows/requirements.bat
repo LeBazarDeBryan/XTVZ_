@@ -9,7 +9,7 @@ title XTVZ_ by Félx
 mode con: cols=36 lines=8
 cls
 call :LOGO
-echo '       Install Streamlink?        '
+echo '     Install Streamlink/VLC?      '
 echo '              (Y/N)               '
 echo '----------------------------------'
 set /p input=# 
@@ -25,6 +25,7 @@ mode con: cols=120 lines=30
 cls
 call :LOGO
 winget install --id=Streamlink.Streamlink -e
+winget install --id=VideoLAN.VLC -e
 echo.
 pause
 exit
