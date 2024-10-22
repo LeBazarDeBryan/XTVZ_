@@ -15,8 +15,8 @@ try:
         "streamlink",
         url,
         "best",
-        "--username", username,
-        "--password", password,
+        "--tf1-email", username,
+        "--tf1-password", password,
         "--hls-live-restart"
     ]
 
