@@ -17,6 +17,9 @@ jobs:
         run: |
           git config --global user.email "<>"
           git config --global user.name "Félix"
+
+      - name: Install Dependencies
+        run: pip install streamlink
       
       - name: Update TF1
         run: python3 Stream/Python/TF1.py > Stream/Live/TF1.m3u8
