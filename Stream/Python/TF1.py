@@ -2,6 +2,7 @@ import requests
 import json
 import urllib.parse
 import os
+import sys
 
 # Informations d'authentification
 USERNAME = os.environ.get('TF1_USER')
