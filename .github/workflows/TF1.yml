@@ -26,7 +26,7 @@ jobs:
           VPN_USER: ${{ secrets.VPN_USER }}
           VPN_PASSWORD: ${{ secrets.VPN_PASSWORD }}
         run: |
-          echo "$VPN_CONFIG" > vpnconfig.ovpn     # Write the .ovpn file from secrets
+          echo "$VPN_CONFIG" > vpnconfig.ovpn
           sudo openvpn --config vpnconfig.ovpn --auth-user-pass <(echo -e "$VPN_USER\n$VPN_PASSWORD") --daemon
 
       - name: Verify VPN connection
