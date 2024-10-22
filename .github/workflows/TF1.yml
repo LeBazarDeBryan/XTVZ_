@@ -27,7 +27,9 @@ jobs:
           VPN_PASSWORD: ${{ secrets.VPN_PASSWORD }}
         run: |
           printf "%s" "$VPN_CONFIG" > vpnconfig.ovpn
-          sudo openvpn --config vpnconfig.ovpn --auth-user-pass <(echo -e "$VPN_USER\n$VPN_PASSWORD") --daemon
+          echo -e "$VPN_USER\n$VPN_PASSWORD" > vpn_credentials.txt
+          sudo openvpn --config vpnconfig.ovpn --auth-user-pass vpn_credentials.txt --daemon
+          rm -f vpn_credentials.txt
 
       - name: Verify VPN connection
         run: curl ifconfig.me
