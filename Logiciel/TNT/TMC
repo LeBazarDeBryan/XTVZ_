@@ -1,1 +1,1 @@
-streamlink --tf1-email=%email% --tf1-password=%password% https://www.tf1.fr/tmc/direct best > "Logs/TNT/TMC.txt"
+streamlink --tf1-purge-credentials --tf1-email=%email% --tf1-password=%password% https://www.tf1.fr/tmc/direct best > "Logs/TNT/TMC.txt"
