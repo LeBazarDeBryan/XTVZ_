@@ -1,1 +1,1 @@
-streamlink https://lcp.fr/direct-lcp-5434 best > "Logs/TNT/LCP.txt"
+streamlink https://www.dailymotion.com/LCP best > "Logs/TNT/LCP.txt"
