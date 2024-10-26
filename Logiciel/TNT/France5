@@ -1,1 +1,2 @@
+color a0
 streamlink https://www.france.tv/france-5/direct.html best > "Logs/TNT/France 5.txt"
