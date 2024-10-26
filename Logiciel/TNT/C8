@@ -1,1 +1,2 @@
+color a0
 streamlink https://www.dailymotion.com/C8TV best > "Logs/TNT/C8.txt"
