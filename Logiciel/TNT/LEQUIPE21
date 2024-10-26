@@ -1,1 +1,2 @@
+color a0
 streamlink https://www.dailymotion.com/video/x2lefik best > "Logs/TNT/L'Équipe 21.txt"
