@@ -1,1 +1,2 @@
+color a0
 streamlink https://www.6play.fr/w9/direct best > "Logs/TNT/W9.txt"
