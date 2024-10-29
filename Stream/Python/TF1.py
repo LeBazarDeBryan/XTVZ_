@@ -45,7 +45,6 @@ def generate_m3u8_content(streamlink_url):
             )
             return m3u8_content
         else:
-            print("Error: Streamlink stderr:", result.stderr.strip())
             print("Error: Streamlink stdout:", result.stdout.strip())
             return None
 
@@ -53,6 +52,6 @@ def generate_m3u8_content(streamlink_url):
         print(f"Error: {e}")
         return None
 
-m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct/")
+m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
 if m3u8_content:
     print(m3u8_content)
