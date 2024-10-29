@@ -25,20 +25,24 @@ def generate_m3u8_content(streamlink_url):
             text=True
         )
 
-        if result.returncode != 0:
-            print("Error: Streamlink.")
+        if result.returncode == 0:
+            print("Stream URL obtained (stdout):", result.stdout.strip())
+            stream_url = result.stdout.strip()
+
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:3\n"
+                "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
+                f"{stream_url}\n"
+            )
+            return m3u8_content
+        else:
+            print("An error occurred with Streamlink:", result.stderr.strip())
             return None
 
-        stream_url = result.stdout.strip()
-
-        m3u8_content = (
-            "#EXTM3U\n"
-            "#EXT-X-VERSION:3\n"
-            "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
-            f"{stream_url}\n"
-        )
-        
-        return m3u8_content
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return None
 
 m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
 if m3u8_content:
