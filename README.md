@@ -61,8 +61,6 @@ ___
   <a href="IPTV/Stream4free.m3u?raw=true"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="IPTV/BFM.m3u?raw=true"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-
-  <a href="IPTV/Films.m3u?raw=true"><img height="100" width="100" src="Images/Films.png" alt="Films" />
 <p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p></details>
 
 <details><summary><h2>Radio</h2></summary>
