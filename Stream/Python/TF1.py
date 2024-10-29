@@ -28,10 +28,6 @@ def generate_m3u8_content(streamlink_url):
         print("Command output (stdout):", result.stdout)
         print("Command error (stderr):", result.stderr)
 
-        if result.returncode != 0:
-            print("An error occurred with Streamlink.")
-            return None
-
         stream_url = result.stdout.strip()
 
         m3u8_content = (
