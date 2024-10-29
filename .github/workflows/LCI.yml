@@ -3,30 +3,49 @@ name: LCI
 on:
   schedule:
     - cron: '08 */3 * * *'
-  
+
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    
       - uses: actions/checkout@v4
 
-      - name: config
+      - name: Config Git
         run: |
           git config --global user.email "<>"
           git config --global user.name "Félix"
-      
+
+      - name: Install Dependencies
+        run: sudo apt-get update && sudo apt-get install -y openvpn && pip install streamlink
+
+      - name: Setup VPN connection
+        env:
+          VPN_CONFIG: ${{ secrets.VPN_CONFIG }}
+          VPN_USER: ${{ secrets.VPN_USER }}
+          VPN_PASSWORD: ${{ secrets.VPN_PASSWORD }}
+        run: |
+          printf "%s" "$VPN_CONFIG" > vpnconfig.ovpn
+          echo -e "$VPN_USER\n$VPN_PASSWORD" > vpn_credentials.txt
+          sudo openvpn --config vpnconfig.ovpn --auth-user-pass vpn_credentials.txt --daemon
+          rm -f vpn_credentials.txt
+
+      - name: Verify VPN connection
+        run: curl ifconfig.me
+
       - name: Update LCI
+        env:
+          TF1_USER: ${{ secrets.TF1_USER }}
+          TF1_PASSWORD: ${{ secrets.TF1_PASSWORD }}
         run: python3 Stream/Python/LCI.py > Stream/Live/LCI.m3u8
-        
-      - name: git add
+
+      - name: Git Add
         run: |
           git add -A
           ls -la 
-          
-      - name: commit & push
+
+      - name: Commit & Push
         run: |
           git pull origin main
           git commit -m "Update" -m "LCI"
