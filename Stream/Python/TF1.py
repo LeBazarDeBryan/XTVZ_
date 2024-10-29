@@ -5,6 +5,10 @@ def generate_m3u8(streamlink_url):
     try:
         tf1_user = os.environ.get("TF1_USER")
         tf1_password = os.environ.get("TF1_PASSWORD")
+
+        if not tf1_user or not tf1_password:
+            print("Error: TF1_USER or TF1_PASSWORD environment variable is not set.")
+            return
         
         result = subprocess.run(
             ["streamlink", "--tf1-purge-credentials", "--tf1-email=$TF1_USER", "--tf1-password=$TF1_PASSWORD", streamlink_url, "best", "--stream-url"],
