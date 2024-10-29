@@ -1,1 +1,4 @@
-An error occurred with Streamlink: 
+Command output (stdout): error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
+
+Command error (stderr): 
+An error occurred with Streamlink.
