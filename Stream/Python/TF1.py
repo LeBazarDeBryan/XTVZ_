@@ -1,14 +1,14 @@
 import subprocess
 import os
 
-def generate_m3u8(streamlink_url):
+def generate_m3u8_content(streamlink_url):
     try:
         tf1_user = os.environ.get("TF1_USER")
         tf1_password = os.environ.get("TF1_PASSWORD")
 
         if not tf1_user or not tf1_password:
-            print("Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
-            return
+            print("Error: TF1_USER or TF1_PASSWORD environment variable is not set.")
+            return None
 
         result = subprocess.run(
             [
@@ -28,13 +28,19 @@ def generate_m3u8(streamlink_url):
 
         stream_url = result.stdout.strip()
 
-        with open(output_filename, "w") as file:
-            file.write("#EXTM3U\n")
-            file.write("#EXT-X-VERSION:3\n")
-            file.write("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n")
-            file.write(f"{stream_url}\n")
+        m3u8_content = (
+            "#EXTM3U\n"
+            "#EXT-X-VERSION:3\n"
+            "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
+            f"{stream_url}\n"
+        )
+        
+        return m3u8_content
 
     except subprocess.CalledProcessError as e:
         print(f"Error: {e.stderr}")
+        return None
 
-generate_m3u8("https://www.tf1.fr/tf1/direct")
+m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
+if m3u8_content:
+    print(m3u8_content)
