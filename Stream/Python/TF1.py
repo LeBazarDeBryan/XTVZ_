@@ -21,4 +21,4 @@ def generate_m3u8(streamlink_url, output_filename="stream.m3u8"):
     except subprocess.CalledProcessError as e:
         print(f"Error: {e.stderr}")
 
-generate_m3u8("https://example.com/live/stream")
+generate_m3u8("https://www.tf1.fr/tf1/direct")
