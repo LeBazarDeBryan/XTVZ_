@@ -17,7 +17,6 @@ def generate_m3u8_content(streamlink_url):
                 f"--tf1-email={tf1_user}",
                 f"--tf1-password={tf1_password}",
                 streamlink_url,
-                "best",
                 "--stream-url"
             ],
             stdout=subprocess.PIPE,
