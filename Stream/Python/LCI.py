@@ -1,24 +1,48 @@
-#! /usr/bin/python3
+import subprocess
+import os
 
-import requests
-import json
+def generate_m3u8_content(streamlink_url):
+    try:
+        tf1_user = os.environ.get("TF1_USER")
+        tf1_password = os.environ.get("TF1_PASSWORD")
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:6')
-print('#EXT-X-INDEPENDENT-SEGMENTS')
-print('#EXT-X-STREAM-INF:BANDWIDTH=3165091,AVERAGE-BANDWIDTH=2856368,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"')
+        if not tf1_user or not tf1_password:
+            print("Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
+            return None
 
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
-}
-s = requests.Session()
-resplink = s.get('https://mediainfo.tf1.fr/mediainfocombo/L_LCI?format=hls')
-response_json = json.loads(resplink.text)
-mastlnk = response_json["delivery"]["url"]
-new_string = mastlnk.replace("index", "index_1")
-print(new_string)
-print('#EXT-X-STREAM-INF:BANDWIDTH=1070722,AVERAGE-BANDWIDTH=986404,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",AUDIO="audio_0"')
-new2_string = mastlnk.replace("index", "index_4")
-print(new2_string)
-new3_string = mastlnk.replace("index", "index_13_0")
-print('#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{}"'.format(new3_string), end='')
+        result = subprocess.run(
+            [
+                "streamlink",
+                "--tf1-purge-credentials",
+                f"--tf1-email={tf1_user}",
+                f"--tf1-password={tf1_password}",
+                streamlink_url,
+                "best",
+                "--stream-url"
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
+        )
+
+        if result.returncode == 0:
+            stream_url = result.stdout.strip()
+
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:3\n"
+                "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
+                f"{stream_url}\n"
+            )
+            return m3u8_content
+        else:
+            print("Error: Streamlink:", result.stderr.strip())
+            return None
+
+    except Exception as e:
+        print(f"Error: {e}")
+        return None
+
+m3u8_content = generate_m3u8_content("https://www.tf1.fr/lci/direct")
+if m3u8_content:
+    print(m3u8_content)
