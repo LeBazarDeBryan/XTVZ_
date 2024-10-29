@@ -31,17 +31,17 @@ def generate_m3u8_content(streamlink_url):
                 "#EXTM3U\n"
                 "#EXT-X-VERSION:6\n"
                 "#EXT-X-INDEPENDENT-SEGMENTS"
-                f"#EXT-X-STREAM-INF:BANDWIDTH=3165091,AVERAGE-BANDWIDTH=2856368,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=3165091,AVERAGE-BANDWIDTH=2856368,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url}\n"
-                f"#EXT-X-STREAM-INF:BANDWIDTH=2179491,AVERAGE-BANDWIDTH=1976368,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=2179491,AVERAGE-BANDWIDTH=1976368,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url.replace('index_1.m3u8', 'index_2.m3u8')}\n"
-                f"#EXT-X-STREAM-INF:BANDWIDTH=1563522,AVERAGE-BANDWIDTH=1426404,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=1563522,AVERAGE-BANDWIDTH=1426404,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url.replace('index_1.m3u8', 'index_3.m3u8')}\n"
-                f"#EXT-X-STREAM-INF:BANDWIDTH=1070722,AVERAGE-BANDWIDTH=986404,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",AUDIO="audio_0"\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=1070722,AVERAGE-BANDWIDTH=986404,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url.replace('index_1.m3u8', 'index_4.m3u8')}\n"
-                f"#EXT-X-STREAM-INF:BANDWIDTH=577922,AVERAGE-BANDWIDTH=546404,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=577922,AVERAGE-BANDWIDTH=546404,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url.replace('index_1.m3u8', 'index_5.m3u8')}\n"
-                f"#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index_1.m3u8', 'index_13_0.m3u8')}"\n"
+                f'#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index_1.m3u8', 'index_13_0.m3u8')}"\n'
             )
             return m3u8_content
         else:
