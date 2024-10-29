@@ -26,7 +26,6 @@ def generate_m3u8_content(streamlink_url):
 
         if result.returncode == 0:
             stream_url = result.stdout.strip()
-
             m3u8_content = (
                 "#EXTM3U\n"
                 "#EXT-X-VERSION:3\n"
@@ -35,7 +34,8 @@ def generate_m3u8_content(streamlink_url):
             )
             return m3u8_content
         else:
-            print("Error: Streamlink:", result.stderr.strip())
+            print("Error: Streamlink stderr:", result.stderr.strip())
+            print("Error: Streamlink stdout:", result.stdout.strip())
             return None
 
     except Exception as e:
