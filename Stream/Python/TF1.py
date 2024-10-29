@@ -25,11 +25,8 @@ def generate_m3u8_content(streamlink_url):
             text=True
         )
 
-        print("Command output (stdout):", result.stdout)
-        print("Command error (stderr):", result.stderr)
-
         if result.returncode != 0:
-            print("An error occurred with Streamlink.")
+            print("Error: Streamlink.")
             return None
 
         stream_url = result.stdout.strip()
@@ -42,10 +39,6 @@ def generate_m3u8_content(streamlink_url):
         )
         
         return m3u8_content
-
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        return None
 
 m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
 if m3u8_content:
