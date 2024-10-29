@@ -32,7 +32,7 @@ def generate_m3u8_content(streamlink_url):
                 "#EXTM3U\n"
                 "#EXT-X-VERSION:3\n"
                 "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
-                f"{stream_url}\n"
+                f"{stream_url.replace('index_1.m3u8', 'index.m3u8')}\n"
             )
             return m3u8_content
         else:
