@@ -7,7 +7,7 @@ def generate_m3u8_content(streamlink_url):
         tf1_password = os.environ.get("TF1_PASSWORD")
 
         if not tf1_user or not tf1_password:
-            print("Error: TF1_USER or TF1_PASSWORD environment variable is not set.")
+            print("Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
             return None
 
         result = subprocess.run(
@@ -17,7 +17,6 @@ def generate_m3u8_content(streamlink_url):
                 f"--tf1-email={tf1_user}",
                 f"--tf1-password={tf1_password}",
                 streamlink_url,
-                "best",
                 "--stream-url"
             ],
             stdout=subprocess.PIPE,
@@ -25,26 +24,32 @@ def generate_m3u8_content(streamlink_url):
             text=True
         )
 
-        print("Command output (stdout):", result.stdout)
-        print("Command error (stderr):", result.stderr)
+        if result.returncode == 0:
+            stream_url = result.stdout.strip()
 
-        if result.returncode != 0:
-            print("An error occurred with Streamlink.")
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:6\n"
+                "#EXT-X-INDEPENDENT-SEGMENTS"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=3165091,AVERAGE-BANDWIDTH=2856368,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_1.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=2179491,AVERAGE-BANDWIDTH=1976368,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_2.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=1563522,AVERAGE-BANDWIDTH=1426404,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_3.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=1070722,AVERAGE-BANDWIDTH=986404,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_4.m3u8')}\n"
+                f'#EXT-X-STREAM-INF:BANDWIDTH=577922,AVERAGE-BANDWIDTH=546404,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"\n'
+                f"{stream_url.replace('index.m3u8', 'index_5.m3u8')}\n"
+                f'''#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index.m3u8', 'index_13_0.m3u8')}"\n'''
+            )
+            return m3u8_content
+        else:
+            print("Error: Streamlink stdout:", result.stdout.strip())
             return None
 
-        stream_url = result.stdout.strip()
-
-        m3u8_content = (
-            "#EXTM3U\n"
-            "#EXT-X-VERSION:3\n"
-            "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
-            f"{stream_url}\n"
-        )
-        
-        return m3u8_content
-
     except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+        print(f"Error: {e}")
         return None
 
 m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
