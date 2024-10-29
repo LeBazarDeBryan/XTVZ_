@@ -1,7 +1,10 @@
 import subprocess
 
-def generate_m3u8(streamlink_url, output_filename="stream.m3u8"):
+def generate_m3u8(streamlink_url):
     try:
+        tf1_user = os.environ.get("TF1_USER")
+        tf1_password = os.environ.get("TF1_PASSWORD")
+        
         result = subprocess.run(
             ["streamlink", "--tf1-purge-credentials", "--tf1-email=$TF1_USER", "--tf1-password=$TF1_PASSWORD", streamlink_url, "best", "--stream-url"],
             stdout=subprocess.PIPE,
