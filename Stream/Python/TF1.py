@@ -7,7 +7,7 @@ def generate_m3u8_content(streamlink_url):
         tf1_password = os.environ.get("TF1_PASSWORD")
 
         if not tf1_user or not tf1_password:
-                print("Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
+            print("Error: TF1_USER or TF1_PASSWORD environment variable is not set.")
             return None
 
         result = subprocess.run(
@@ -25,19 +25,20 @@ def generate_m3u8_content(streamlink_url):
             text=True
         )
 
-        print("Command output (stdout):", result.stdout)
-        print("Command error (stderr):", result.stderr)
+        if result.returncode == 0:
+            print("Stream URL obtained (stdout):", result.stdout.strip())
+            stream_url = result.stdout.strip()
 
-        stream_url = result.stdout.strip()
-
-        m3u8_content = (
-            "#EXTM3U\n"
-            "#EXT-X-VERSION:3\n"
-            "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
-            f"{stream_url}\n"
-        )
-        
-        return m3u8_content
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:3\n"
+                "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
+                f"{stream_url}\n"
+            )
+            return m3u8_content
+        else:
+            print("An error occurred with Streamlink:", result.stderr.strip())
+            return None
 
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
