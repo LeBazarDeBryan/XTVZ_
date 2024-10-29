@@ -25,20 +25,23 @@ def generate_m3u8_content(streamlink_url):
             text=True
         )
 
-        if result.returncode == 0:
-            print("Stream URL obtained (stdout):", result.stdout.strip())
-            stream_url = result.stdout.strip()
+        print("Command output (stdout):", result.stdout)
+        print("Command error (stderr):", result.stderr)
 
-            m3u8_content = (
-                "#EXTM3U\n"
-                "#EXT-X-VERSION:3\n"
-                "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
-                f"{stream_url}\n"
-            )
-            return m3u8_content
-        else:
-            print("An error occurred with Streamlink:", result.stderr.strip())
+        if result.returncode != 0:
+            print("An error occurred with Streamlink.")
             return None
+
+        stream_url = result.stdout.strip()
+
+        m3u8_content = (
+            "#EXTM3U\n"
+            "#EXT-X-VERSION:3\n"
+            "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
+            f"{stream_url}\n"
+        )
+        
+        return m3u8_content
 
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
