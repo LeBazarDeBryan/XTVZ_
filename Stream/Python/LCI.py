@@ -7,6 +7,11 @@ def generate_m3u8_content(streamlink_url):
         tf1_password = os.environ.get("TF1_PASSWORD")
 
         if not tf1_user or not tf1_password:
+            print("#EXTM3U")
+            print("#EXT-X-VERSION:6")
+            print("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000")
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
             print("Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
             return None
 
@@ -45,11 +50,20 @@ def generate_m3u8_content(streamlink_url):
             )
             return m3u8_content
         else:
-            print("Error: Streamlink stderr:", result.stderr.strip())
-            print("Error: Streamlink stdout:", result.stdout.strip())
+            print("#EXTM3U")
+            print("#EXT-X-VERSION:6")
+            print("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000")
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("Error: Streamlink: stdout:", result.stdout.strip())
             return None
 
     except Exception as e:
+        print("#EXTM3U")
+        print("#EXT-X-VERSION:6")
+        print("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000")
+        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("\n")
         print(f"Error: {e}")
         return None
 
