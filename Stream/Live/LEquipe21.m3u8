@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-Error: [Errno 2] No such file or directory: 'streamlink'
+Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.dailymotion.com/video/x2lefik
