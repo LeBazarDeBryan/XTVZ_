@@ -2,7 +2,7 @@ name: TF1
 
 on:
   schedule:
-    - cron: '08 */4 * * *'
+    - cron: '20 */4 * * *'
 
   workflow_dispatch:
 
