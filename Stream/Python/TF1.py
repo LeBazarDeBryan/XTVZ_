@@ -45,6 +45,10 @@ def generate_m3u8_content(streamlink_url):
             )
             return m3u8_content
         else:
+            print("#EXTM3U\n")
+            print("#EXT-X-VERSION:6\n")
+            print("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n")
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4\n")
             print("Error: Streamlink stdout:", result.stdout.strip())
             return None
 
