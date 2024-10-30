@@ -1,26 +1,47 @@
-#!/usr/bin/python3
+import subprocess
 
-import requests
-import re
+def generate_m3u8_content(streamlink_url):
+    try:
+        result = subprocess.run(
+            [
+                "streamlink",
+                streamlink_url,
+                "--stream-url"
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
+        )
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:4')
-print('#EXT-X-INDEPENDENT-SEGMENTS')
-print('#EXT-X-STREAM-INF:CODECS="avc1.64001F,mp4a.40.2",AVERAGE-BANDWIDTH=2857132,RESOLUTION=1280x720,SUBTITLES="subtitles",FRAME-RATE=25.0,BANDWIDTH=3019038,AUDIO="audio_0"')
+        if result.returncode == 0:
+            stream_url = result.stdout.strip()
 
-s = requests.Session()
-response = s.get(f'https://hdfauth.ftven.fr/esi/TA?url=https://live-ssai.ftven.fr/dai/v1/master/14bff07f70f2518f32f1c6cc13a91ef489dc83f1/SSARFrance2OTTEMTConfiguration/out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8')
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:6\n"
+                "#EXT-X-INDEPENDENT-SEGMENTS"
+                "#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000\n"
+                f"{stream_url}"
+            )
+            return m3u8_content
+        else:
+            print("#EXTM3U")
+            print("#EXT-X-VERSION:6")
+            print("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000")
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("Error: Streamlink: stdout:", result.stdout.strip())
+            return None
 
-string = response.text
-response2 = s.get(string)
+    except Exception as e:
+        print("#EXTM3U")
+        print("#EXT-X-VERSION:6")
+        print("#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000")
+        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("\n")
+        print(f"Error: {e}")
+        return None
 
-pattern = re.compile(r'/([\da-fA-F-]+?)/\d\.m3u8')
-match = pattern.search(response2.text)
-sessid = match.group(1)
-
-new_string = string.replace("master", "manifest")
-new_string2 = new_string.replace("out/v1/535afd7806de45fea4e030b74cea3b8f/index.m3u8", f'{sessid}/4.m3u8')
-print(new_string2)
-
-new2_string = new_string2.replace("/4.m3u8", "/6.m3u8")
-print(f'#EXT-X-MEDIA:LANGUAGE="fra",AUTOSELECT=YES,CHANNELS="2",FORCED=NO,TYPE=AUDIO,URI="{new2_string}",GROUP-ID="audio_0",DEFAULT=YES,NAME="1 Francais"')
+m3u8_content = generate_m3u8_content("https://www.france.tv/france-2/direct.html")
+if m3u8_content:
+    print(m3u8_content)
