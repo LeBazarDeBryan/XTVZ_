@@ -3,30 +3,32 @@ name: L'Équipe 21
 on:
   schedule:
     - cron: '00 */3 * * *'
-  
+
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    
       - uses: actions/checkout@v4
 
-      - name: config
+      - name: Config Git
         run: |
           git config --global user.email "<>"
           git config --global user.name "Félix"
-      
-      - name: Update C8
+
+      - name: Install Dependencies
+        run: sudo apt-get update && sudo apt-get install -y openvpn && pip install streamlink
+
+      - name: Update L'Équipe 21
         run: python3 Stream/Python/LEquipe21.py > Stream/Live/LEquipe21.m3u8
-        
-      - name: git add
+
+      - name: Git Add
         run: |
           git add -A
           ls -la 
-          
-      - name: commit & push
+
+      - name: Commit & Push
         run: |
           git pull origin main
           git commit -m "Update" -m "L'Équipe 21"
