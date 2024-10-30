@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc/rmcstory.m
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCdecouverte.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RMC%20Découverte.png" group-title="Documentaire", RMC Découverte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rmc/rmcdecouverte.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Chérie%2025.png" group-title="TNT", Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Cherie25.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCI.png" group-title="Info", LCI
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/LCI.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
