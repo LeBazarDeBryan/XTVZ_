@@ -31,15 +31,19 @@ def generate_m3u8_content(streamlink_url):
                 f'''#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="AD",LANGUAGE="qad",CHARACTERISTICS="public.accessibility.describes-video",DEFAULT=NO,AUTOSELECT=NO,URI="{stream_url.replace('hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8', 'hlsfmp4_short_q2hyb21h_gulli_sd_index_6_0.m3u8')}"\n'''
                 f'''#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fra",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="fra",URI="{stream_url.replace('hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8', 'hlsfmp4_short_q2hyb21h_gulli_sd_index_4_0.m3u8')}"\n'''
                 f'''#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fra",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="fra",URI="{stream_url.replace('hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8', 'hlsfmp4_short_q2hyb21h_gulli_sd_index_7_0.m3u8')}"\n'''
-                f'''#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fra_hoh",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="{stream_url.replace('hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8', 'hlsfmp4_short_q2hyb21h_gulli_sd_index_8_0.m3u8')}"\n'''
+                f'''#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="fra_hoh",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="{stream_url.replace('hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8', 'hlsfmp4_short_q2hyb21h_gulli_sd_index_8_0.m3u8')}"'''
             )
             return m3u8_content
         else:
-            print("Error: Streamlink stdout:", result.stdout.strip())
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("#Error: Streamlink stdout:", result.stdout.strip())
             return None
 
     except Exception as e:
-        print(f"Error: {e}")
+        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("\n")
+        print(f"#Error: {e}")
         return None
 
 m3u8_content = generate_m3u8_content("https://replay.gulli.fr/Direct")
