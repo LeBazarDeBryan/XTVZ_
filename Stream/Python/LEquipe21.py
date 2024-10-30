@@ -26,13 +26,13 @@ def generate_m3u8_content(streamlink_url):
         else:
             print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
             print("\n")
-            print("Error: Streamlink: stdout:", result.stdout.strip())
+            print("#Error: Streamlink: stdout:", result.stdout.strip())
             return None
 
     except Exception as e:
         print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
         print("\n")
-        print(f"Error: {e}")
+        print(f"#Error: {e}")
         return None
 
 m3u8_content = generate_m3u8_content("https://www.dailymotion.com/video/x2lefik")
