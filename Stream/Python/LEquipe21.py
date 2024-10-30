@@ -1,55 +1,40 @@
-import requests
-import os
-import sys
+import subprocess
 
-proxies = {}
-if len(sys.argv) == 2:
-    proxies = {
-                'http' : sys.argv[1],
-                'https' : sys.argv[1]
-              }
-
-na = 'https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4'
-def grab(line):
+def generate_m3u8_content(streamlink_url):
     try:
-        _id = line.split('/')[4]
-        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
-        m3u = s.get(response, proxies=proxies).text
-        m3u = m3u.strip().split('\n')[1:]
-        d = {}
-        cnd = True
-        for item in m3u:
-            if cnd:
-                resolution = item.strip().split(',')[2].split('=')[1]
-                if resolution not in d:
-                    d[resolution] = []
-            else:
-                d[resolution]= item
-            cnd = not cnd
-        m3u = d[max(d, key=int)]    
-    except Exception as e:
-        m3u = na
-    finally:
-        print(m3u)
+        result = subprocess.run(
+            [
+                "streamlink",
+                streamlink_url,
+                "--stream-url"
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
+        )
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
-s = requests.Session()
-with open('Stream/Info/LEquipe21.txt') as f:
-    for line in f:
-        line = line.strip()
-        if not line or line.startswith('~~'):
-            continue
-        if not line.startswith('https:'):
-            line = line.split('|')
-            ch_name = line[0].strip()
-            grp_title = line[1].strip().title()
-            tvg_logo = line[2].strip()
-            tvg_id = line[3].strip()
+        if result.returncode == 0:
+            stream_url = result.stdout.strip()
+
+            m3u8_content = (
+                "#EXTM3U\n"
+                "#EXT-X-VERSION:6\n"
+                "#EXT-X-INDEPENDENT-SEGMENTS\n"
+                f"{stream_url}"
+            )
+            return m3u8_content
         else:
-            grab(line)
-            
-if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
-    os.system('rm watch*')
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("Error: Streamlink: stdout:", result.stdout.strip())
+            return None
+
+    except Exception as e:
+        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("\n")
+        print(f"Error: {e}")
+        return None
+
+m3u8_content = generate_m3u8_content("https://www.dailymotion.com/video/x2lefik")
+if m3u8_content:
+    print(m3u8_content)
