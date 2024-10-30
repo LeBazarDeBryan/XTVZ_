@@ -43,7 +43,7 @@ def generate_m3u8_content(streamlink_url):
                 f"{stream_url.replace('index.m3u8', 'index_4.m3u8')}\n"
                 f'#EXT-X-STREAM-INF:BANDWIDTH=577922,AVERAGE-BANDWIDTH=546404,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C00D,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url.replace('index.m3u8', 'index_5.m3u8')}\n"
-                f'''#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index.m3u8', 'index_13_0.m3u8')}"\n'''
+                f'''#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index.m3u8', 'index_13_0.m3u8')}"'''
             )
             return m3u8_content
         else:
