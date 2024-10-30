@@ -1,11 +1,7 @@
 #EXTM3U
-
 #EXT-X-VERSION:6
-
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
-
 
 
 Error: Streamlink stdout: error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
