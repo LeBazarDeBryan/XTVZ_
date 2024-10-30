@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Gulli.m3
 #EXTINF:-1 tvg-chno="" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="Cinéma/Séries", TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/L'Équipe.png" group-title="Sport", L'Équipe 21
-https://www.dailymotion.com/video/x2lefik
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/LEquipe21.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/6ter.png" group-title="Cinéma/Séries", 6ter
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RMC%20Story.png" group-title="Documentaire", RMC Story
