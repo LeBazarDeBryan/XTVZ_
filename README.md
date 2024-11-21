@@ -1,17 +1,17 @@
 <div align="center">
   <h3>🇫🇷</h3>
-  <img src="Images/Logo.png" /></a>
+  <img src="Images/Logo.png" />
 
-  <img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" /></a>
-  <img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Fork" /></a>
-  <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" /></a>
-  <img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" /></a>
+  <img src="https://img.shields.io/github/stars/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=%C3%89toile" />
+  <img src="https://img.shields.io/github/forks/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Fork" />
+  <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" />
+  <img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" />
 
 <details><summary><h1>Annoncements</h1></summary>
 <div align="left">
   <details><summary><h3>22/10/2024</h3></summary>
   
-  Je vais supprimer le [site web XTVZ_](https://xtvz.vercel.app) parce qu'au final, il y a beaucoup de chaînes qui ne peuvent pas être regardées et c'est dur de maintenir tout ce projet tous seul. Je pense que j'en referais un site web, mais qui sera automatisé avec un bot. Aussi, il va y avoir très bientôt un logiciel ! Il est écrit en Batch *(.bat)* et ça sera beaucoup plus facile de regarder les chaînes *(surtout TF1)*. Pour les mises à jour du logiciel, elles seront automatiquement récupérées dans [/Logiciel/Windows/](/Logiciel/Windows/).
+  Je vais supprimer le [site web XTVZ_](https://xtvz.vercel.app) parce qu'au final, il y a beaucoup de chaînes qui ne peuvent pas être regardées et c'est dur de maintenir tout ce projet tous seul. Je pense que j'en referais un site web, mais qui sera automatisé avec un bot. Aussi, il va bientôt avoir un logiciel ! Il est écrit en Batch *(.bat)* et ça sera beaucoup plus facile de regarder les chaînes *(surtout TF1)*. Pour les mises à jour du logiciel, elles seront automatiquement récupérées dans [/Logiciel/Windows/](/Logiciel/Windows/).
 </details>
 </div>
 </details>
