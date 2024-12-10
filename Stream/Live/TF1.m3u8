@@ -1,10 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: Unable to validate response text: ValidationError(AnySchema):
-  ValidationError(dict):
-    Unable to validate value of key 'errorCode'
-    Context(equality):
-      500001 does not equal 0
-  ValidationError(dict):
-    Key 'errorDetails' not found in <{'callId': 'dda2964ace254075ba687d0ce28e7d1f', 'errorCo...>
+#Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
