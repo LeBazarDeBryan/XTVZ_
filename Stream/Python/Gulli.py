@@ -46,6 +46,6 @@ def generate_m3u8_content(streamlink_url):
         print(f"#Error: {e}")
         return None
 
-m3u8_content = generate_m3u8_content("https://replay.gulli.fr/Direct")
+m3u8_content = generate_m3u8_content("https://www.m6.fr/gulli/direct")
 if m3u8_content:
     print(m3u8_content)
