@@ -19,21 +19,7 @@ jobs:
           git config --global user.name "Félix"
 
       - name: Install Dependencies
-        run: sudo apt-get update && sudo apt-get install -y openvpn && pip install requests
-
-      - name: Setup VPN connection
-        env:
-          VPN_CONFIG: ${{ secrets.VPN_CONFIG }}
-          VPN_USER: ${{ secrets.VPN_USER }}
-          VPN_PASSWORD: ${{ secrets.VPN_PASSWORD }}
-        run: |
-          printf "%s" "$VPN_CONFIG" > vpnconfig.ovpn
-          echo -e "$VPN_USER\n$VPN_PASSWORD" > vpn_credentials.txt
-          sudo openvpn --config vpnconfig.ovpn --auth-user-pass vpn_credentials.txt --daemon
-          rm -f vpn_credentials.txt
-
-      - name: Verify VPN connection
-        run: curl ifconfig.me
+        run: pip install requests
       
       - name: Update France 24
         run: python3 Stream/Python/France24.py > Stream/Live/France24.m3u8
