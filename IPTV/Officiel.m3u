@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT", TF1
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/TF1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT", France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/NRJ%2012%20HD.png" group-title="Divertissement", NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="Info", La Chaine Parlementaire/Public Sénat
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcpan.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%204%20HD.png" group-title="Divertissement", France 4
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
@@ -38,11 +38,11 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/CStar.png" group-title="Divertissement", CStar
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Gulli%20HD.png" group-title="Enfant", Gulli
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Gulli.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="Cinéma/Séries", TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/L'Équipe.png" group-title="Sport", L'Équipe 21
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/LEquipe21.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/6ter.png" group-title="Cinéma/Séries", 6ter
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="RMCStory.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/RMC%20Story.png" group-title="Documentaire", RMC Story
@@ -55,13 +55,13 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Cherie25
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/LCI.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/franceinfo.png" group-title="Info", franceinfo:
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/franceinfo.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Paris%20Première.png" group-title="Divertissement", Paris Première
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Paris_Premiere.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-chno="34" tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Téva.png" group-title="Divertissement", Téva
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/Teva.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 #EXTINF:-1 tvg-chno="40" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%2024.png" group-title="Info", France 24
-https://ythlsgo.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/France24.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/euronews.png" group-title="Info", euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tiji.png" group-title="Enfant", Tiji
