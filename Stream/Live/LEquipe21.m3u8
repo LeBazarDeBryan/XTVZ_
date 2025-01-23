@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.dailymotion.com/video/x2lefik
+#Error: Streamlink: stdout: error: Unable to open URL: https://www.dailymotion.com/player/metadata/video/x2lefik (503 Server Error: Service Unavailable for url: https://www.dailymotion.com/player/metadata/video/x2lefik)
