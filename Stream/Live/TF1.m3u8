@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: Unable to open URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIyMC4xNjkuMTQuMjQxIiwiY21jZCI6IiIsImV4cCI6MTczODY2NTY0NCwiZ2lkIjoiYTEyN2Y2ZGYyOWU2NGFiM2I5ODM1MGM5MGMwNWViODMiLCJpYXQiOjE3Mzg2NTEyNDQsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiJhMTI3ZjZkZjI5ZTY0YWIzYjk4MzUwYzkwYzA1ZWI4MyJ9.d5zKyfAbXdOeDW9Xef8j03vLpOBTWxrP9AeM2jFF0zU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8 (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+#Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
