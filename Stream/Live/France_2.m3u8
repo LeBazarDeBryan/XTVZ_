@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: Unable to open URL: https://simulcast-b.ftven.fr/ZXhwPTE3NDQ1OTA3MjJ+YWNsPSUyZip+aG1hYz1hODEyODA2MzQzYTdiYTRiZTUxODI5OWY2YTc4YjE1MzFkYjhhMWIwZDEwYjEwYzgxMjY4ZDY5MGQ0MzY3ODg3/simulcast/France_2/hls_monde_fr2/index.m3u8?hdnea=exp=1744569722~acl=%2f*~hmac=8ee3bd2de3100472b3063a2a81520507cf70949793f5fbfe572f4d06236a26ad (503 Server Error: Service Unavailable for url: https://simulcast-b.ftven.fr/ZXhwPTE3NDQ1OTA3MjJ+YWNsPSUyZip+aG1hYz1hODEyODA2MzQzYTdiYTRiZTUxODI5OWY2YTc4YjE1MzFkYjhhMWIwZDEwYjEwYzgxMjY4ZDY5MGQ0MzY3ODg3/simulcast/France_2/hls_monde_fr2/index.m3u8?hdnea=exp=1744569722~acl=%2f*~hmac=8ee3bd2de3100472b3063a2a81520507cf70949793f5fbfe572f4d06236a26ad)
+#Error: Streamlink: stdout: error: Unable to open URL: https://k7.ftven.fr/videos/006194ea-117d-4bcf-94a9-153d999c59ae (422 Client Error: Unprocessable Entity for url: https://k7.ftven.fr/videos/006194ea-117d-4bcf-94a9-153d999c59ae?country_code=US&w=1920&h=1080&player_version=5.51.35&domain=www.france.tv&device_type=mobile&browser=chrome&browser_version=134&os=ios&gmt=%2B0000)
