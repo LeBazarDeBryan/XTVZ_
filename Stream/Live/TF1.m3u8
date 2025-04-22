@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
+#Error: Streamlink: stdout: error: Unable to open URL: https://mediainfo.tf1.fr/mediainfocombo/L_TF1 (HTTPSConnectionPool(host='mediainfo.tf1.fr', port=443): Read timed out. (read timeout=20.0))
