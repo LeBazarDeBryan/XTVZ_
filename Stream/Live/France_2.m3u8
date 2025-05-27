@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
-
-
-#Error: Streamlink: stdout: error: Unable to open URL: https://k7.ftven.fr/videos/006194ea-117d-4bcf-94a9-153d999c59ae (422 Client Error: Unprocessable Entity for url: https://k7.ftven.fr/videos/006194ea-117d-4bcf-94a9-153d999c59ae?country_code=US&w=1920&h=1080&player_version=5.51.35&domain=www.france.tv&device_type=mobile&browser=chrome&browser_version=134&os=ios&gmt=%2B0000)
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://live-ssai-v2.ftven.fr/ZXhwPTE3NDgzOTI1Mzh+YWNsPSUyZip+aG1hYz02MzMzZmM1OWE3YWQxZGFiZDA2NjJjZGVhNmZlMTQzMGVjMWQ1M2JlN2Y2OThkM2MyYTlhNDljNmIwM2M3ZWE1/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/9c7c8ab1d0f04826b3208c49d8f13101/index_monde.m3u8?hdnea=exp=1748371538~acl=%2f*~hmac=e512924c0caba16033bfe1b48ef02d8745c32f450617ff82250dd146f91a264b
