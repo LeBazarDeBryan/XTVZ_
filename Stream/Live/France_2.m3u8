@@ -1,4 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-INDEPENDENT-SEGMENTS#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://live-ssai-v2.ftven.fr/ZXhwPTE3NTQ2NjczMjZ+YWNsPSUyZip+aG1hYz02NDYwNDQxMTczYmNkYzM2MWYyMTllY2YyM2YwMWIyODY0NjNlNDhlMjJiYmY1ZTFhOWU3OGMzMmM4ZTEwMzNk/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/9c7c8ab1d0f04826b3208c49d8f13101/index_monde.m3u8?hdnea=exp=1754646326~acl=%2f*~hmac=3759f1f0aa72d508094ff836720cd32a237bef535123a730f6f4b7623361012c
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+
+
+#Error: Streamlink: stdout: error: Unable to open URL: https://live-ssai-v2.ftven.fr/ZXhwPTE3NTQ2Nzk2OTN+YWNsPSUyZip+aG1hYz00MmNkYTMxZDhmNmY4NGM0ZmU0ODJmMmQ0MDdlNzU5NTE2OWZjYzAwMDIxZTUzMDE2ZTk4YzQ1ZTkzYjUwNDA1/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/9c7c8ab1d0f04826b3208c49d8f13101/index_monde.m3u8?hdnea=exp=1754658693~acl=%2f*~hmac=4f1f24276aa07e772c93cc806d8a74cfe1725201f804829bee3a98fc70903321 (504 Server Error: Gateway Time-out for url: https://live-ssai-v2.ftven.fr/ZXhwPTE3NTQ2Nzk2OTN+YWNsPSUyZip+aG1hYz00MmNkYTMxZDhmNmY4NGM0ZmU0ODJmMmQ0MDdlNzU5NTE2OWZjYzAwMDIxZTUzMDE2ZTk4YzQ1ZTkzYjUwNDA1/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/9c7c8ab1d0f04826b3208c49d8f13101/index_monde.m3u8?hdnea=exp=1754658693~acl=%2f*~hmac=4f1f24276aa07e772c93cc806d8a74cfe1725201f804829bee3a98fc70903321)
