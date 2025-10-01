@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
+#Error: Streamlink: stdout: error: Unable to open URL: https://www.tf1.fr/token/gigya/web (HTTPSConnectionPool(host='www.tf1.fr', port=443): Max retries exceeded with url: /token/gigya/web (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)'))))
