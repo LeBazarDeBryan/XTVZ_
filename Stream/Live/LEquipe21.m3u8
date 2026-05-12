@@ -1,4 +1,4 @@
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 
 
-#Error: Streamlink: stdout: error: No playable streams found on this URL: https://www.dailymotion.com/video/x2lefik
+#Error: Streamlink: stdout: error: Unable to open URL: https://www.dailymotion.com/player/metadata/video/x2lefik (HTTPSConnectionPool(host='www.dailymotion.com', port=443): Max retries exceeded with url: /player/metadata/video/x2lefik (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fab69f23ad0>: Failed to resolve 'www.dailymotion.com' ([Errno -3] Temporary failure in name resolution)")))
