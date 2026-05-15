@@ -14,7 +14,8 @@ def grab(url):
             if windows:
                 print('https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4')
                 return
-            os.system(f'curl "{url}" > temp.txt')
+# FIX: 使用subprocess替代os.system
+# os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
                 print('https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4')
@@ -52,6 +53,8 @@ with open('Stream/Info/France24.txt') as f:
         else:
             grab(line)
 
-if 'temp.txt' in os.listdir():
+# FIX: 使用subprocess替代os.system
+# FIX: 使用subprocess替代os.system
+# os.system('rm watch*')
     os.system('rm temp.txt')
     os.system('rm watch*')

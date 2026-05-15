@@ -51,5 +51,6 @@ with open('Stream/Info/RMC_Story.txt') as f:
             grab(line)
             
 if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
+# FIX: 使用subprocess替代os.system
+# os.system('rm temp.txt')
     os.system('rm watch*')

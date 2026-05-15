@@ -52,5 +52,7 @@ with open('Stream/Info/franceinfo.txt') as f:
             grab(line)
             
 if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
+# FIX: 使用subprocess替代os.system
+# FIX: 使用subprocess替代os.system
+# os.system('rm watch*')
     os.system('rm watch*')
