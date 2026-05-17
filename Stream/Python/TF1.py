@@ -6,6 +6,9 @@ def generate_m3u8_content(streamlink_url):
         tf1_user = os.environ.get("TF1_USER")
         tf1_password = os.environ.get("TF1_PASSWORD")
 
+        if not tf1_user or not tf1_password:
+            return None
+
         result = subprocess.run(
             [
                 "streamlink",
@@ -40,6 +43,11 @@ def generate_m3u8_content(streamlink_url):
                 f'''#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fra",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="{stream_url.replace('index.m3u8', 'index_13_0.m3u8')}"'''
             )
             return m3u8_content
+        else:
+            return None
+
+    except Exception as e:
+        return None
 
 m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
 if m3u8_content:
