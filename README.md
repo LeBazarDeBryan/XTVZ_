@@ -7,22 +7,9 @@
   <img src="https://img.shields.io/github/watchers/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Watchers" />
   <img src="https://img.shields.io/github/issues/LeBazarDeBryan/XTVZ_?color=ff0000&style=for-the-badge&label=Issues" />
 
-<details><summary><h1>Annoncements</h1></summary>
-<div align="left">
-  <details><summary><h3>22/10/2024</h3></summary>
-  
-  Je vais supprimer le [site web XTVZ_](https://xtvz.vercel.app) parce qu'au final, il y a beaucoup de chaînes qui ne peuvent pas être regardées et c'est dur de maintenir tout ce projet tous seul. Je pense que j'en referais un site web, mais qui sera automatisé avec un bot. Aussi, il va bientôt avoir un logiciel ! Il est écrit en Batch *(.bat)* et ça sera beaucoup plus facile de regarder les chaînes *(surtout TF1)*. Pour les mises à jour du logiciel, elles seront automatiquement récupérées dans [/Logiciel/Windows/](/Logiciel/Windows/).
-</details>
-</div>
-</details>
-
 ___
 
 <details><summary><h1>Playlist IPTV</h1></summary>
-
-<details><summary><h2>⚠️ Problème ⚠️</h2></summary>
-  <p>Les chaînes de la playlist <a href="IPTV/TNT.m3u?raw=true">TNT</a> ne marchent plus! Cela vient du fournisseur et non de moi. (Voir <a href="https://github.com/LeBazarDeBryan/XTVZ_/issues/3">#3</a>.) Je vous recommande d'utiliser la playlist <a href="IPTV/TNTenDirect.m3u?raw=true">TNTenDirect.m3u</a> jusqu'à que ce problème soit réparé. Merci de votre compréhension.</p></details>
-
 
 <details><summary><h2>TV</h2></summary>
   <a href="IPTV/TNT.m3u?raw=true"><img height="100" width="100" src="Images/TNT.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_tnt.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
@@ -40,14 +27,6 @@ ___
   
   <a href="http://v.ktv.zone/l.m3u"><img height="100" width="100" src="Images/K-Net.png" /></a><a href="https://api-tv.k-sys.ch/m3u8"><img height="100" width="100" src="Images/K-Net%20API.png" /></a><a href="https://www.clictune.com/jsha"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
-  <a href="IPTV/ALL.m3u?raw=true"><img height="100" width="100" src="Images/All.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-  
-  <a href="https://i.mjh.nz/PlutoTV/fr.m3u8"><img height="100" width="100" src="Images/Pluto%20TV.png" /></a><a href="https://i.mjh.nz/PlutoTV/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-  
-  <a href="https://i.mjh.nz/SamsungTVPlus/fr.m3u8"><img height="100" width="100" src="Images/Samsung%20TV%20Plus.png?raw=true" /></a><a href="https://i.mjh.nz/SamsungTVPlus/fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-  
-  <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_euronews.m3u"><img height="100" width="100" src="Images/euronews.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-  
   <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u"><img height="100" width="100" src="Images/Rakuten.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv_fr.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
   <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_fashiontv.m3u"><img height="100" width="100" src="Images/Fashion%20TV.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
@@ -58,18 +37,12 @@ ___
   
   <a href="https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_persiana.m3u"><img height="100" width="100" src="Images/Groupe%20Persiana.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
   
-  <a href="IPTV/Stream4free.m3u?raw=true"><img height="100" width="100" src="Images/Stream4free.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
-  
   <a href="IPTV/BFM.m3u?raw=true"><img height="100" width="100" src="Images/BFM%20TV.png" /></a><a href="https://xmltvfr.fr/xmltv/xmltv.xml"><img height="100" width="100" src="Images/XMLTV.png" /></a>
 <p>Chaînes qu'on retrouve sur des sites de streaming ou autre.</p></details>
 
 <details><summary><h2>Radio</h2></summary>
   <a href="IPTV/Radio.m3u?raw=true"><img height="100" width="100" src="Images/Radio.png" /></a>
 <p>Station Radio qu'on peut trouver en ligne, FM ou MHz.</p></details>
-
-<details><summary><h2>Question</h2></summary>
-  <h3>C'est quoi <a href="IPTV/ALL.m3u?raw=true">ALL</a> ?</h3>
-  <p><a href="IPTV/ALL.m3u?raw=true">ALL</a> est une playlist de toute les chaînes gratuite et payante.</p></details>
 
 <details><summary><h2>Status</h2></summary>
 
@@ -84,7 +57,6 @@ ___
   | France 4 | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/France_4.yml/badge.svg" alt="" /> |
   |   CNews  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/CNews.yml/badge.svg" alt="" /> |
   |   CStar  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/CStar.yml/badge.svg" alt="" /> |
-  |   Gulli  | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/Gulli.yml/badge.svg" alt="" /> |
   | franceinfo: | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/franceinfo.yml/badge.svg" alt="" /> |
   |   LCI    | <img src="https://github.com/LeBazarDeBryan/XTVZ_/actions/workflows/LCI.yml/badge.svg" alt="" /> |
 </details>
