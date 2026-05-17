@@ -7,6 +7,9 @@ def generate_m3u8_content(streamlink_url):
         tf1_password = os.environ.get("TF1_PASSWORD")
 
         if not tf1_user or not tf1_password:
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("#Error: TF1_USER or TF1_PASSWORD environment variable is NOT set.")
             return None
 
         result = subprocess.run(
@@ -44,9 +47,15 @@ def generate_m3u8_content(streamlink_url):
             )
             return m3u8_content
         else:
+            print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+            print("\n")
+            print("#Error: Streamlink: stdout:", result.stdout.strip())
             return None
 
     except Exception as e:
+        print("https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4")
+        print("\n")
+        print(f"#Error: {e}")
         return None
 
 m3u8_content = generate_m3u8_content("https://www.tf1.fr/tf1/direct")
