@@ -32,7 +32,7 @@ def generate_m3u8_content(streamlink_url):
             m3u8_content = (
                 "#EXTM3U\n"
                 "#EXT-X-VERSION:6\n"
-                "#EXT-X-INDEPENDENT-SEGMENTS"
+                "#EXT-X-INDEPENDENT-SEGMENTS\n"
                 f'#EXT-X-STREAM-INF:BANDWIDTH=3165091,AVERAGE-BANDWIDTH=2856368,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
                 f"{stream_url.replace('index.m3u8', 'index_1.m3u8')}\n"
                 f'#EXT-X-STREAM-INF:BANDWIDTH=2179491,AVERAGE-BANDWIDTH=1976368,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"\n'
