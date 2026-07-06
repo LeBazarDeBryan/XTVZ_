@@ -39,9 +39,9 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Gulli%20HD.png" group-title="Enfant", Gulli
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="Cinéma/Séries", TF1 Séries Films
+#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="Cinéma/Séries", TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/L'Équipe.png" group-title="Sport", L'Équipe 21
+#EXTINF:-1 tvg-chno="21" tvg-id="EquipeTV.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/L'Équipe%20HD.png" group-title="Sport", L'Équipe 21
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/6ter.png" group-title="Cinéma/Séries", 6ter
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
@@ -64,9 +64,9 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France24.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/euronews.png" group-title="Info", euronews
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tiji.png" group-title="Enfant", Tiji
+#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Tiji.png" group-title="Enfant", Tiji
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/GONG.png" group-title="Divertissement", GONG
+#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/GONG.png" group-title="Divertissement", GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Trace%20Urban.png" group-title="Musique", Trace Urban
+#EXTINF:-1 tvg-chno="285" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Trace%20Urban.png" group-title="Musique", Trace Urban
 https://lightning-traceurban-samsungau.amagi.TV/playlist.m3u8
