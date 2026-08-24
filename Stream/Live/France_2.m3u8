@@ -1,4 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-INDEPENDENT-SEGMENTS#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://live-ssai-p.ftven.fr/ZXhwPTE3ODc2MTkxMjN+YWNsPSUyZip+aG1hYz1jMDc2MWNiODkwMDgyN2EzNmQ0YmViMDExMDJlMTI4OGRhNGE2ODc2ZDVhZGM4N2JkZGE2NmRkYmYzNWY2MWU3/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/9c7c8ab1d0f04826b3208c49d8f13101/index_monde.m3u8?hdnea=exp=1787598123~acl=%2f*~hmac=eb1ee6504ce24170f359dea26748997f9b8677d65efede11b04d3eb79177da9a
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Offline.mp4
+
+
+#Error: Streamlink: stdout: error: Unable to open URL: https://k7.ftven.fr/videos/006194ea-117d-4bcf-94a9-153d999c59ae (422 Client Error: Unprocessable Entity for url: https://k7.ftven.fr/videos/006194ea-117d-4bcf-94a9-153d999c59ae?country_code=US&w=1920&h=1080&player_version=5.51.35&domain=www.france.tv&device_type=mobile&browser=chrome&browser_version=150&os=ios&gmt=%2B0000)
