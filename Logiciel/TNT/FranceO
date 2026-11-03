@@ -1,2 +1,0 @@
-color 40
-ping localhost -n 3 >nul

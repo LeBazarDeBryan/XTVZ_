@@ -1,2 +1,0 @@
-color a0
-streamlink https://www.bfmtv.com/en-direct best > "Logs/TNT/BFM TV.txt"
